@@ -1,0 +1,387 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 14",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-14/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When is St Patrick’s day celebrated?",
+        "bn": "সেন্ট প্যাট্রিকস ডে কখন উদযাপন করা হয়?"
+      },
+      "options": [
+        {"en": "23rd April", "bn": "২৩ এপ্রিল"},
+        {"en": "30th November", "bn": "৩০ নভেম্বর"},
+        {"en": "1st April", "bn": "১ এপ্রিল"},
+        {"en": "17th March", "bn": "১৭ মার্চ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["17th March"],
+      "correct_answers_bn": ["১৭ মার্চ"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "How are the members of the Northern Ireland Parliament elected?",
+        "bn": "উত্তর আয়ারল্যান্ড পার্লামেন্টের সদস্যরা কীভাবে নির্বাচিত হয়?"
+      },
+      "options": [
+        {"en": "By a system of proportional representation", "bn": "আনুপাতিক প্রতিনিধিত্বের ব্যবস্থায়"},
+        {"en": "Using a system of ranked voting", "bn": "র‍্যাঙ্কড ভোটিং ব্যবস্থায়"},
+        {"en": "Using the first past the post system", "bn": "ফার্স্ট পাস্ট দ্য পোস্ট ব্যবস্থায়"},
+        {"en": "Using a runoff system", "bn": "রানঅফ ব্যবস্থায়"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["By a system of proportional representation"],
+      "correct_answers_bn": ["আনুপাতিক প্রতিনিধিত্বের ব্যবস্থায়"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Who was the first British Prime Minister?",
+        "bn": "প্রথম ব্রিটিশ প্রধানমন্ত্রী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Winston Churchill", "bn": "উইনস্টন চার্চিল"},
+        {"en": "Earl of Wilmington", "bn": "আর্ল অফ উইলমিংটন"},
+        {"en": "Henry Pelham", "bn": "হেনরি পেলহ্যাম"},
+        {"en": "Sir Robert Walpole", "bn": "স্যার রবার্ট ওয়ালপোল"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Sir Robert Walpole"],
+      "correct_answers_bn": ["স্যার রবার্ট ওয়ালপোল"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which of the following actresses has not won an Oscar?",
+        "bn": "নিচের কোন অভিনেত্রী অস্কার জিতেননি?"
+      },
+      "options": [
+        {"en": "Tilda Swinton", "bn": "টিল্ডা সুইনটন"},
+        {"en": "Emily Watson", "bn": "এমিলি ওয়াটসন"},
+        {"en": "Dame Judi Dench", "bn": "ডেম জুডি ডেঞ্চ"},
+        {"en": "Kate Winslet", "bn": "কেট উইনসলেট"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Emily Watson"],
+      "correct_answers_bn": ["এমিলি ওয়াটসন"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "During the Enlightenment, Adam Smith developed ideas about:",
+        "bn": "এনলাইটেনমেন্টের সময় অ্যাডাম স্মিথ কোন বিষয়ে ধারণা তৈরি করেছিলেন?"
+      },
+      "options": [
+        {"en": "Physics", "bn": "পদার্থবিজ্ঞান"},
+        {"en": "Economics", "bn": "অর্থনীতি"},
+        {"en": "Science", "bn": "বিজ্ঞান"},
+        {"en": "Engineering", "bn": "প্রকৌশল"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Economics"],
+      "correct_answers_bn": ["অর্থনীতি"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Who died at the Battle of Trafalgar?",
+        "bn": "ট্রাফালগারের যুদ্ধে কে মারা যান?"
+      },
+      "options": [
+        {"en": "Admiral Nelson", "bn": "অ্যাডমিরাল নেলসন"},
+        {"en": "Henry VIII", "bn": "হেনরি অষ্টম"},
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"},
+        {"en": "Napoleon", "bn": "নেপোলিয়ন"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Admiral Nelson"],
+      "correct_answers_bn": ["অ্যাডমিরাল নেলসন"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "When is Hogmanay celebrated?",
+        "bn": "হগম্যানে কখন উদযাপন করা হয়?"
+      },
+      "options": [
+        {"en": "25th of December", "bn": "২৫ ডিসেম্বর"},
+        {"en": "2nd of January", "bn": "২ জানুয়ারি"},
+        {"en": "1st of January", "bn": "১ জানুয়ারি"},
+        {"en": "31st of December", "bn": "৩১ ডিসেম্বর"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["31st of December"],
+      "correct_answers_bn": ["৩১ ডিসেম্বর"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Proceedings in Parliament are broadcast on television and published in official reports known as:",
+        "bn": "পার্লামেন্টের কার্যক্রম টেলিভিশনে সম্প্রচারিত হয় এবং অফিসিয়াল রিপোর্টে প্রকাশিত হয় যা পরিচিত:"
+      },
+      "options": [
+        {"en": "Canvassing", "bn": "ক্যানভাসিং"},
+        {"en": "Hansard", "bn": "হ্যানসার্ড"},
+        {"en": "Cabinets", "bn": "ক্যাবিনেটস"},
+        {"en": "Domesday Book", "bn": "ডোমসডে বুক"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Hansard"],
+      "correct_answers_bn": ["হ্যানসার্ড"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which of the following is a rugby competition?",
+        "bn": "নিচের কোনটি একটি রাগবি প্রতিযোগিতা?"
+      },
+      "options": [
+        {"en": "The Scottish Grand National", "bn": "দ্য স্কটিশ গ্র্যান্ড ন্যাশনাল"},
+        {"en": "The Wimbledon Championships", "bn": "দ্য উইম্বলডন চ্যাম্পিয়নশিপস"},
+        {"en": "The Ashes", "bn": "দ্য অ্যাশেস"},
+        {"en": "The Six Nations Championship", "bn": "দ্য সিক্স নেশনস চ্যাম্পিয়নশিপ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Six Nations Championship"],
+      "correct_answers_bn": ["দ্য সিক্স নেশনস চ্যাম্পিয়নশিপ"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Who appoints life peers in the House of Lords?",
+        "bn": "হাউস অফ লর্ডসে লাইফ পিয়ারদের নিয়োগ দেন কে?"
+      },
+      "options": [
+        {"en": "The Speaker", "bn": "দ্য স্পিকার"},
+        {"en": "The Archbishop of Canterbury", "bn": "ক্যান্টারবেরির আর্চবিশপ"},
+        {"en": "The Prime Minister", "bn": "প্রধানমন্ত্রী"},
+        {"en": "The monarch", "bn": "রাজা/রানি"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The monarch"],
+      "correct_answers_bn": ["রাজা/রানি"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Who mapped the coast of Australia?",
+        "bn": "অস্ট্রেলিয়ার উপকূল ম্যাপ করেছিলেন কে?"
+      },
+      "options": [
+        {"en": "James Cook", "bn": "জেমস কুক"},
+        {"en": "Admiral Nelson", "bn": "অ্যাডমিরাল নেলসন"},
+        {"en": "Isaac Newton", "bn": "আইজ্যাক নিউটন"},
+        {"en": "Sake Dean Mahomet", "bn": "সাকে দীন মাহোমেট"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["James Cook"],
+      "correct_answers_bn": ["জেমস কুক"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What was the first war to be extensively covered by the media?",
+        "bn": "মিডিয়ায় যে প্রথম যুদ্ধ ব্যাপকভাবে কভার করা হয়েছিল তা কোনটি?"
+      },
+      "options": [
+        {"en": "The Boer War", "bn": "বোয়ার যুদ্ধ"},
+        {"en": "The First World War", "bn": "প্রথম বিশ্বযুদ্ধ"},
+        {"en": "The Second World War", "bn": "দ্বিতীয় বিশ্বযুদ্ধ"},
+        {"en": "The Crimean War", "bn": "ক্রিমিয়ান যুদ্ধ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Crimean War"],
+      "correct_answers_bn": ["ক্রিমিয়ান যুদ্ধ"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which of the following monuments is located in Wiltshire?",
+        "bn": "নিচের কোন স্মৃতিস্তম্ভ উইল্টশায়ারে অবস্থিত?"
+      },
+      "options": [
+        {"en": "Hadrian’s Wall", "bn": "হ্যাড্রিয়ানস ওয়াল"},
+        {"en": "St Paul’s Cathedral", "bn": "সেন্ট পলস ক্যাথেড্রাল"},
+        {"en": "Nelson’s Column", "bn": "নেলসনস কলাম"},
+        {"en": "Stonehenge", "bn": "স্টোনহেঞ্জ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Stonehenge"],
+      "correct_answers_bn": ["স্টোনহেঞ্জ"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Who was the first Archbishop of Canterbury?",
+        "bn": "ক্যান্টারবেরির প্রথম আর্চবিশপ কে ছিলেন?"
+      },
+      "options": [
+        {"en": "St Patrick", "bn": "সেন্ট প্যাট্রিক"},
+        {"en": "St Augustine", "bn": "সেন্ট অগাস্টিন"},
+        {"en": "St Andrew", "bn": "সেন্ট অ্যান্ড্রু"},
+        {"en": "St Columba", "bn": "সেন্ট কলাম্বা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["St Augustine"],
+      "correct_answers_bn": ["সেন্ট অগাস্টিন"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "How old do you have to be to go into betting shops or gambling clubs?",
+        "bn": "বেটিং শপ বা জুয়া ক্লাবে যেতে হলে আপনার কত বছর বয়স হতে হয়?"
+      },
+      "options": [
+        {"en": "18", "bn": "১৮"},
+        {"en": "20", "bn": "২০"},
+        {"en": "16", "bn": "১৬"},
+        {"en": "21", "bn": "২১"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["18"],
+      "correct_answers_bn": ["১৮"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "The system of government in the UK is a parliamentary democracy.",
+        "bn": "যুক্তরাজ্যের সরকার ব্যবস্থা একটি সংসদীয় গণতন্ত্র।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What is the traditional food of Northern Ireland?",
+        "bn": "উত্তর আয়ারল্যান্ডের ঐতিহ্যবাহী খাবার কী?"
+      },
+      "options": [
+        {"en": "Haggis", "bn": "হ্যাগিস"},
+        {"en": "Pancakes", "bn": "প্যানকেকস"},
+        {"en": "Paella", "bn": "পায়েলা"},
+        {"en": "Ulster Fry", "bn": "আলস্টার ফ্রাই"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Ulster Fry"],
+      "correct_answers_bn": ["আলস্টার ফ্রাই"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Who was elected as British Prime Minister in 1945?",
+        "bn": "১৯৪৫ সালে কে ব্রিটিশ প্রধানমন্ত্রী নির্বাচিত হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "Clement Attlee", "bn": "ক্লেমেন্ট অ্যাটলি"},
+        {"en": "Winston Churchill", "bn": "উইনস্টন চার্চিল"},
+        {"en": "Harold Wilson", "bn": "হ্যারল্ড উইলসন"},
+        {"en": "Harold Macmillan", "bn": "হ্যারল্ড ম্যাকমিলান"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Clement Attlee"],
+      "correct_answers_bn": ["ক্লেমেন্ট অ্যাটলি"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "How many times has the UK hosted the Olympic games?",
+        "bn": "যুক্তরাজ্য কতবার অলিম্পিক গেমস আয়োজন করেছে?"
+      },
+      "options": [
+        {"en": "5", "bn": "৫"},
+        {"en": "3", "bn": "৩"},
+        {"en": "4", "bn": "৪"},
+        {"en": "8", "bn": "৮"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["3"],
+      "correct_answers_bn": ["৩"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Why were canals built during the Industrial Revolution?",
+        "bn": "শিল্প বিপ্লবের সময় খালগুলো কেন নির্মাণ করা হয়েছিল?"
+      },
+      "options": [
+        {"en": "To link the factories to towns and cities and to the ports", "bn": "কারখানাগুলোকে শহর ও বন্দরের সাথে সংযুক্ত করতে"},
+        {"en": "To make space for the large fleet of British ships", "bn": "ব্রিটিশ জাহাজের বড় বহরের জন্য জায়গা তৈরি করতে"},
+        {"en": "To increase the number of water mills in the UK", "bn": "যুক্তরাজ্যে ওয়াটার মিলের সংখ্যা বাড়াতে"},
+        {"en": "To increase the amount of water in towns and cities", "bn": "শহর ও শহরে পানির পরিমাণ বাড়াতে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["To link the factories to towns and cities and to the ports"],
+      "correct_answers_bn": ["কারখানাগুলোকে শহর ও বন্দরের সাথে সংযুক্ত করতে"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Are civil servants appointed by the government?",
+        "bn": "সিভিল সার্ভেন্টদের কি সরকার নিয়োগ করে?"
+      },
+      "options": [
+        {"en": "Yes", "bn": "হ্যাঁ"},
+        {"en": "No", "bn": "না"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["No"],
+      "correct_answers_bn": ["না"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Which of the following countries helped Britain to develop the Concorde?",
+        "bn": "নিচের কোন দেশ ব্রিটেনকে কনকর্ড তৈরিতে সাহায্য করেছিল?"
+      },
+      "options": [
+        {"en": "Germany", "bn": "জার্মানি"},
+        {"en": "Norway", "bn": "নরওয়ে"},
+        {"en": "Italy", "bn": "ইতালি"},
+        {"en": "France", "bn": "ফ্রান্স"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["France"],
+      "correct_answers_bn": ["ফ্রান্স"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Which invention led to the development of Britain during the Industrial Revolution?",
+        "bn": "শিল্প বিপ্লবের সময় ব্রিটেনের বিকাশে কোন আবিষ্কার সাহায্য করেছিল?"
+      },
+      "options": [
+        {"en": "Magnetic Resonance Imaging", "bn": "ম্যাগনেটিক রেজোন্যান্স ইমেজিং"},
+        {"en": "Steam power", "bn": "বাষ্প শক্তি"},
+        {"en": "Radar", "bn": "রাডার"},
+        {"en": "Hovercraft", "bn": "হোভারক্রাফট"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Steam power"],
+      "correct_answers_bn": ["বাষ্প শক্তি"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Who was the tribal leader who fought against the Romans?",
+        "bn": "রোমানদের বিরুদ্ধে লড়াই করা উপজাতীয় নেত্রী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Columba", "bn": "কলাম্বা"},
+        {"en": "Claudius", "bn": "ক্লডিয়াস"},
+        {"en": "Hadrian", "bn": "হ্যাড্রিয়ান"},
+        {"en": "Boudicca", "bn": "বাউডিকা"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Boudicca"],
+      "correct_answers_bn": ["বাউডিকা"]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 3",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-3/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which of the following is a fundamental principle of British life?",
+        "bn": "নিচের কোনটি ব্রিটিশ জীবনের একটি মৌলিক নীতি?"
+      },
+      "options": [
+        {"en": "Communism", "bn": "কমিউনিজম"},
+        {"en": "Intolerance", "bn": "অসহিষ্ণুতা"},
+        {"en": "Individual liberty", "bn": "ব্যক্তিগত স্বাধীনতা"},
+        {"en": "Inequity", "bn": "অসমতা"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Individual liberty"],
+      "correct_answers_bn": ["ব্যক্তিগত স্বাধীনতা"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Wales has its own established church.",
+        "bn": "ওয়েলসের নিজস্ব প্রতিষ্ঠিত চার্চ আছে।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "How is New Year’s Eve called in Scotland?",
+        "bn": "স্কটল্যান্ডে নববর্ষের প্রাক্কালকে কী বলা হয়?"
+      },
+      "options": [
+        {"en": "Vaisakhi", "bn": "বৈশাখী"},
+        {"en": "Hannukah", "bn": "হানুক্কা"},
+        {"en": "Diwali", "bn": "দীপাবলি"},
+        {"en": "Hogmanay", "bn": "হগম্যানে"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Hogmanay"],
+      "correct_answers_bn": ["হগম্যানে"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Why did Henry VIII establish the church of England?",
+        "bn": "হেনরি অষ্টম কেন চার্চ অফ ইংল্যান্ড প্রতিষ্ঠা করেছিলেন?"
+      },
+      "options": [
+        {"en": "Because the Pope didn’t let him divorce his first wife, Catherine of Aragon", "bn": "কারণ পোপ তাকে তার প্রথম স্ত্রী ক্যাথরিন অফ আরাগনকে তালাক দিতে দেননি"},
+        {"en": "Because the Pope didn’t let him marry Catherine Howard", "bn": "কারণ পোপ তাকে ক্যাথরিন হাওয়ার্ডকে বিয়ে করতে দেননি"},
+        {"en": "Because the Pope wanted England to be a Catholic country", "bn": "কারণ পোপ চেয়েছিলেন ইংল্যান্ড ক্যাথলিক দেশ হোক"},
+        {"en": "Because the Pope didn’t let him divorce his wife, Anne of Cleves", "bn": "কারণ পোপ তাকে তার স্ত্রী অ্যান অফ ক্লিভসকে তালাক দিতে দেননি"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Because the Pope didn’t let him divorce his first wife, Catherine of Aragon"],
+      "correct_answers_bn": ["কারণ পোপ তাকে তার প্রথম স্ত্রী ক্যাথরিন অফ আরাগনকে তালাক দিতে দেননি"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What is the name of the long war that English kings fought with France in the middle ages?",
+        "bn": "মধ্যযুগে ইংরেজ রাজারা ফ্রান্সের সাথে যে দীর্ঘ যুদ্ধ করেছিলেন তার নাম কী?"
+      },
+      "options": [
+        {"en": "The Crimean War", "bn": "ক্রিমিয়ান যুদ্ধ"},
+        {"en": "The First World War", "bn": "প্রথম বিশ্বযুদ্ধ"},
+        {"en": "The Hundred Years War", "bn": "শতবর্ষী যুদ্ধ"},
+        {"en": "The Boer War", "bn": "বোয়ার যুদ্ধ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Hundred Years War"],
+      "correct_answers_bn": ["শতবর্ষী যুদ্ধ"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Who was supported by clansmen from the Scottish highlands and raised and army in 1745?",
+        "bn": "১৭৪৫ সালে স্কটিশ হাইল্যান্ডের ক্ল্যানসম্যানদের সমর্থন পেয়ে কে সেনাবাহিনী গড়ে তুলেছিলেন?"
+      },
+      "options": [
+        {"en": "Bonnie Prince Charlie", "bn": "বনি প্রিন্স চার্লি"},
+        {"en": "Robert Burns", "bn": "রবার্ট বার্নস"},
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"},
+        {"en": "Kenneth MacAlpin", "bn": "কেনেথ ম্যাকঅ্যালপিন"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Bonnie Prince Charlie"],
+      "correct_answers_bn": ["বনি প্রিন্স চার্লি"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "If you think someone is trying to persuade you to join an extremist or terrorist activity, who should you contact?",
+        "bn": "যদি আপনি মনে করেন কেউ আপনাকে চরমপন্থী বা সন্ত্রাসী কার্যকলাপে যোগ দিতে প্ররোচিত করছে, তাহলে কার সাথে যোগাযোগ করবেন?"
+      },
+      "options": [
+        {"en": "The Home Office", "bn": "হোম অফিস"},
+        {"en": "Your local police force", "bn": "আপনার স্থানীয় পুলিশ বাহিনী"},
+        {"en": "Your local MP", "bn": "আপনার স্থানীয় এমপি"},
+        {"en": "Your family", "bn": "আপনার পরিবার"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Your local police force"],
+      "correct_answers_bn": ["আপনার স্থানীয় পুলিশ বাহিনী"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "It is compulsory for 16 and 17-year-olds to join the National Citizen Service programme.",
+        "bn": "১৬ ও ১৭ বছর বয়সীদের জন্য ন্যাশনাল সিটিজেন সার্ভিস প্রোগ্রামে যোগ দেওয়া বাধ্যতামূলক।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "What is the name of the tour guides that tell visitors stories about the Tower of London’s history?",
+        "bn": "টাওয়ার অফ লন্ডনের ইতিহাস সম্পর্কে দর্শনার্থীদের গল্প বলে যে ট্যুর গাইডদের নাম কী?"
+      },
+      "options": [
+        {"en": "Knights", "bn": "নাইটস"},
+        {"en": "Chartists", "bn": "চার্টিস্টস"},
+        {"en": "Suffragettes", "bn": "সাফ্রাজেটস"},
+        {"en": "Beefeaters", "bn": "বিফইটার্স"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Beefeaters"],
+      "correct_answers_bn": ["বিফইটার্স"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which two countries developed the Concorde, the world’s only supersonic commercial airliner?",
+        "bn": "বিশ্বের একমাত্র সুপারসনিক বাণিজ্যিক বিমান কনকর্ড কোন দুটি দেশ তৈরি করেছিল?"
+      },
+      "options": [
+        {"en": "Italy", "bn": "ইতালি"},
+        {"en": "Britain", "bn": "ব্রিটেন"},
+        {"en": "Germany", "bn": "জার্মানি"},
+        {"en": "France", "bn": "ফ্রান্স"}
+      ],
+      "correct_answers": [1, 3],
+      "correct_answers_en": ["Britain", "France"],
+      "correct_answers_bn": ["ব্রিটেন", "ফ্রান্স"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Where is Snowdonia located?",
+        "bn": "স্নোডোনিয়া কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Wales"],
+      "correct_answers_bn": ["ওয়েলস"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Who wrote Sherlock Holmes?",
+        "bn": "শার্লক হোমস কে লিখেছিলেন?"
+      },
+      "options": [
+        {"en": "Evelyn Waugh", "bn": "ইভলিন ও"},
+        {"en": "Sir Kingsley Amis", "bn": "স্যার কিংসলি অ্যামিস"},
+        {"en": "Graham Greene", "bn": "গ্রাহাম গ্রিন"},
+        {"en": "Sir Arthur Conan Doyle", "bn": "স্যার আর্থার কোনান ডয়েল"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Sir Arthur Conan Doyle"],
+      "correct_answers_bn": ["স্যার আর্থার কোনান ডয়েল"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which country was invaded by Germany in 1939?",
+        "bn": "১৯৩৯ সালে জার্মানি কোন দেশ আক্রমণ করেছিল?"
+      },
+      "options": [
+        {"en": "Austria", "bn": "অস্ট্রিয়া"},
+        {"en": "Italy", "bn": "ইতালি"},
+        {"en": "Russia", "bn": "রাশিয়া"},
+        {"en": "Poland", "bn": "পোল্যান্ড"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Poland"],
+      "correct_answers_bn": ["পোল্যান্ড"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Who is the patron Saint of Wales?",
+        "bn": "ওয়েলসের পৃষ্ঠপোষক সন্ত কে?"
+      },
+      "options": [
+        {"en": "St David", "bn": "সেন্ট ডেভিড"},
+        {"en": "St George", "bn": "সেন্ট জর্জ"},
+        {"en": "St Patrick", "bn": "সেন্ট প্যাট্রিক"},
+        {"en": "St Andrew", "bn": "সেন্ট অ্যান্ড্রু"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["St David"],
+      "correct_answers_bn": ["সেন্ট ডেভিড"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Lake District is the largest national park of England.",
+        "bn": "লেক ডিস্ট্রিক্ট ইংল্যান্ডের সবচেয়ে বড় জাতীয় উদ্যান।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What is the name of the area in London where famous theatres are located?",
+        "bn": "লন্ডনে বিখ্যাত থিয়েটারগুলো কোন এলাকায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Soho", "bn": "সোহো"},
+        {"en": "Theatreland", "bn": "থিয়েটারল্যান্ড"},
+        {"en": "Westminster", "bn": "ওয়েস্টমিনস্টার"},
+        {"en": "Hyde Park", "bn": "হাইড পার্ক"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Theatreland"],
+      "correct_answers_bn": ["থিয়েটারল্যান্ড"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Which two of the following are key roles of school governors?",
+        "bn": "নিচের কোন দুটি স্কুল গভর্নরদের মূল দায়িত্ব?"
+      },
+      "options": [
+        {"en": "Monitoring student’s behaviour", "bn": "শিক্ষার্থীদের আচরণ পর্যবেক্ষণ করা"},
+        {"en": "Monitoring and evaluating school performance", "bn": "স্কুলের পারফরম্যান্স পর্যবেক্ষণ ও মূল্যায়ন করা"},
+        {"en": "Setting the strategic direction of the school", "bn": "স্কুলের কৌশলগত দিক নির্ধারণ করা"},
+        {"en": "Giving awards to the best students of the school", "bn": "স্কুলের সেরা শিক্ষার্থীদের পুরস্কার দেওয়া"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["Monitoring and evaluating school performance", "Setting the strategic direction of the school"],
+      "correct_answers_bn": ["স্কুলের পারফরম্যান্স পর্যবেক্ষণ ও মূল্যায়ন করা", "স্কুলের কৌশলগত দিক নির্ধারণ করা"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "What led the American colonies to want their independence from Britain?",
+        "bn": "আমেরিকান উপনিবেশগুলো ব্রিটেন থেকে স্বাধীনতা চাওয়ার কারণ কী ছিল?"
+      },
+      "options": [
+        {"en": "The British government wanted to control their borders", "bn": "ব্রিটিশ সরকার তাদের সীমান্ত নিয়ন্ত্রণ করতে চেয়েছিল"},
+        {"en": "They were running out of resources", "bn": "তাদের সম্পদ শেষ হয়ে যাচ্ছিল"},
+        {"en": "The British government wanted to tax them", "bn": "ব্রিটিশ সরকার তাদের কর দিতে বাধ্য করতে চেয়েছিল"},
+        {"en": "There were not enough jobs for the local people", "bn": "স্থানীয় মানুষের জন্য পর্যাপ্ত চাকরি ছিল না"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The British government wanted to tax them"],
+      "correct_answers_bn": ["ব্রিটিশ সরকার তাদের কর দিতে বাধ্য করতে চেয়েছিল"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "When did the Black Death take place?",
+        "bn": "ব্ল্যাক ডেথ কখন হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Golden Age", "bn": "গোল্ডেন এজ"},
+        {"en": "The Stone Age", "bn": "স্টোন এজ"},
+        {"en": "The Middle Ages", "bn": "মধ্যযুগ"},
+        {"en": "The Iron Age", "bn": "আয়রন এজ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Middle Ages"],
+      "correct_answers_bn": ["মধ্যযুগ"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Who was the leader of the suffragettes, the group that campaigned for women’s rights to vote?",
+        "bn": "নারীদের ভোটাধিকারের জন্য আন্দোলনকারী সাফ্রাজেটস গ্রুপের নেত্রী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Queen Victoria", "bn": "রানি ভিক্টোরিয়া"},
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"},
+        {"en": "Florence Nightingale", "bn": "ফ্লোরেন্স নাইটিঙ্গেল"},
+        {"en": "Emmeline Pankhurst", "bn": "এমেলিন প্যাঙ্কহার্স্ট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Emmeline Pankhurst"],
+      "correct_answers_bn": ["এমেলিন প্যাঙ্কহার্স্ট"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Cardiff is the capital city of which country?",
+        "bn": "কার্ডিফ কোন দেশের রাজধানী?"
+      },
+      "options": [
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"},
+        {"en": "Ireland", "bn": "আয়ারল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Wales"],
+      "correct_answers_bn": ["ওয়েলস"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "During the Great Depression in the 1930s which industry was badly affected?",
+        "bn": "১৯৩০-এর দশকে মহামন্দার সময় কোন শিল্প সবচেয়ে বেশি ক্ষতিগ্রস্ত হয়েছিল?"
+      },
+      "options": [
+        {"en": "Housing construction", "bn": "আবাসন নির্মাণ"},
+        {"en": "Shipbuilding", "bn": "জাহাজ নির্মাণ"},
+        {"en": "Automobile", "bn": "অটোমোবাইল"},
+        {"en": "Aviation", "bn": "বিমান চলাচল"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Shipbuilding"],
+      "correct_answers_bn": ["জাহাজ নির্মাণ"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Who was the first man in the world to run 1 mile in under 4 minutes?",
+        "bn": "বিশ্বে প্রথম ব্যক্তি কে যিনি ১ মাইল ৪ মিনিটের কম সময়ে দৌড়েছিলেন?"
+      },
+      "options": [
+        {"en": "Sir Chris Hoy", "bn": "স্যার ক্রিস হয়"},
+        {"en": "Sir Roger Bannister", "bn": "স্যার রজার ব্যানিস্টার"},
+        {"en": "David Weir", "bn": "ডেভিড ওয়্যার"},
+        {"en": "Mo Farah", "bn": "মো ফারাহ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Sir Roger Bannister"],
+      "correct_answers_bn": ["স্যার রজার ব্যানিস্টার"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Which festival celebrates the end of Ramadan, when Muslims have fasted for a month?",
+        "bn": "কোন উৎসব মুসলিমদের এক মাস রোজা শেষে রমজানের সমাপ্তি উদযাপন করে?"
+      },
+      "options": [
+        {"en": "Hannukah", "bn": "হানুক্কা"},
+        {"en": "Vaisakhi", "bn": "বৈশাখী"},
+        {"en": "Eid ul Adha", "bn": "ঈদ উল আযহা"},
+        {"en": "Eid al-Fitr", "bn": "ঈদ আল-ফিতর"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Eid al-Fitr"],
+      "correct_answers_bn": ["ঈদ আল-ফিতর"]
+    }
+  ]
+}

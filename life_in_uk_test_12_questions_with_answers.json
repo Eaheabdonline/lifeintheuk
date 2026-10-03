@@ -1,0 +1,381 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 12",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-practice-questions-12/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which of the following is a Crown Dependency but not part of the UK?",
+        "bn": "নিচের কোনটি ক্রাউন ডিপেন্ডেন্সি কিন্তু যুক্তরাজ্যের অংশ নয়?"
+      },
+      "options": [
+        {"en": "Shetland", "bn": "শেটল্যান্ড"},
+        {"en": "Isle of Wight", "bn": "আইল অফ ওয়াইট"},
+        {"en": "Isle of Man", "bn": "আইল অফ ম্যান"},
+        {"en": "Anglesey", "bn": "অ্যাঙ্গেলসি"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Isle of Man"],
+      "correct_answers_bn": ["আইল অফ ম্যান"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Is the BBC controlled by the government?",
+        "bn": "বিবিসি কি সরকার দ্বারা নিয়ন্ত্রিত?"
+      },
+      "options": [
+        {"en": "Yes", "bn": "হ্যাঁ"},
+        {"en": "No", "bn": "না"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["No"],
+      "correct_answers_bn": ["না"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "How many members does the Northern Ireland Assembly have?",
+        "bn": "উত্তর আয়ারল্যান্ড অ্যাসেম্বলিতে কতজন সদস্য আছে?"
+      },
+      "options": [
+        {"en": "12", "bn": "১২"},
+        {"en": "60", "bn": "৬০"},
+        {"en": "90", "bn": "৯০"},
+        {"en": "108", "bn": "১০৮"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["90"],
+      "correct_answers_bn": ["৯০"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Who was in charge of the British fleet at the Battle of Trafalgar?",
+        "bn": "ট্রাফালগারের যুদ্ধে ব্রিটিশ নৌবহরের দায়িত্বে কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"},
+        {"en": "The Duke of Wellington", "bn": "দ্য ডিউক অফ ওয়েলিংটন"},
+        {"en": "Robert the Bruce", "bn": "রবার্ট দ্য ব্রুস"},
+        {"en": "Admiral Nelson", "bn": "অ্যাডমিরাল নেলসন"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Admiral Nelson"],
+      "correct_answers_bn": ["অ্যাডমিরাল নেলসন"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What was inscribed in the first coins to be minted in Britain during the Iron Age?",
+        "bn": "লৌহ যুগে ব্রিটেনে প্রথম মুদ্রায় কী খোদাই করা ছিল?"
+      },
+      "options": [
+        {"en": "The names of Iron Age kings", "bn": "লৌহ যুগের রাজাদের নাম"},
+        {"en": "The names of Iron Age Gods", "bn": "লৌহ যুগের দেবতাদের নাম"},
+        {"en": "The names of trees", "bn": "গাছের নাম"},
+        {"en": "The names of animals", "bn": "প্রাণীর নাম"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The names of Iron Age kings"],
+      "correct_answers_bn": ["লৌহ যুগের রাজাদের নাম"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Towns, cities and rural areas in the UK are governed by government appointed officials.",
+        "bn": "যুক্তরাজ্যের শহর, শহর ও গ্রামাঞ্চল সরকার নিযুক্ত কর্মকর্তাদের দ্বারা পরিচালিত হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Where is the Tate Art Gallery located?",
+        "bn": "টেট আর্ট গ্যালারি কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Glasgow", "bn": "গ্লাসগো"},
+        {"en": "Cardiff", "bn": "কার্ডিফ"},
+        {"en": "London", "bn": "লন্ডন"},
+        {"en": "Belfast", "bn": "বেলফাস্ট"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["London"],
+      "correct_answers_bn": ["লন্ডন"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "The version of the Bible created by King James I is known as:",
+        "bn": "রাজা জেমস প্রথম যে বাইবেল সংস্করণ তৈরি করেছিলেন তা পরিচিত:"
+      },
+      "options": [
+        {"en": "Authorised version", "bn": "অথরাইজড ভার্সন"},
+        {"en": "Reformed version", "bn": "রিফর্মড ভার্সন"},
+        {"en": "Approved version", "bn": "অ্যাপ্রুভড ভার্সন"},
+        {"en": "Unique version", "bn": "ইউনিক ভার্সন"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Authorised version"],
+      "correct_answers_bn": ["অথরাইজড ভার্সন"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "What is the period of the 1960s known for?",
+        "bn": "১৯৬০-এর দশক কীসের জন্য পরিচিত?"
+      },
+      "options": [
+        {"en": "A downgrade in manufacturing", "bn": "উৎপাদন শিল্পে অবনতি"},
+        {"en": "A growth in British fashion and pop music", "bn": "ব্রিটিশ ফ্যাশন ও পপ সংগীতে বৃদ্ধি"},
+        {"en": "A shortage of water", "bn": "পানির অভাব"},
+        {"en": "A blockage of social laws", "bn": "সামাজিক আইনে বাধা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["A growth in British fashion and pop music"],
+      "correct_answers_bn": ["ব্রিটিশ ফ্যাশন ও পপ সংগীতে বৃদ্ধি"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Between 1680 and 1720 many refugees called Huguenots came to England, which country did they come from?",
+        "bn": "১৬৮০ থেকে ১৭২০ সালের মধ্যে অনেক হিউগেনট নামক শরণার্থী ইংল্যান্ডে এসেছিল, তারা কোন দেশ থেকে এসেছিল?"
+      },
+      "options": [
+        {"en": "Pakistan", "bn": "পাকিস্তান"},
+        {"en": "Germany", "bn": "জার্মানি"},
+        {"en": "India", "bn": "ভারত"},
+        {"en": "France", "bn": "ফ্রান্স"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["France"],
+      "correct_answers_bn": ["ফ্রান্স"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "What is the most famous tennis tournament played in the UK?",
+        "bn": "যুক্তরাজ্যে সবচেয়ে বিখ্যাত টেনিস টুর্নামেন্ট কোনটি?"
+      },
+      "options": [
+        {"en": "The Queen’s Club Championships", "bn": "দ্য কুইন্স ক্লাব চ্যাম্পিয়নশিপস"},
+        {"en": "Wimbledon", "bn": "উইম্বলডন"},
+        {"en": "Roland Garros", "bn": "রোল্যান্ড গ্যারোস"},
+        {"en": "The Aegon Championships", "bn": "দ্য এগন চ্যাম্পিয়নশিপস"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Wimbledon"],
+      "correct_answers_bn": ["উইম্বলডন"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "MPs can only be contacted at their office in the House of Commons.",
+        "bn": "এমপিদের সাথে শুধুমাত্র হাউস অফ কমন্সের অফিসে যোগাযোগ করা যায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What is the day when jokes are published in newspapers and telecast on TV?",
+        "bn": "কোন দিন সংবাদপত্রে রসিকতা প্রকাশিত হয় এবং টিভিতে সম্প্রচারিত হয়?"
+      },
+      "options": [
+        {"en": "April Fool‘s Day", "bn": "এপ্রিল ফুলস ডে"},
+        {"en": "Boxing Day", "bn": "বক্সিং ডে"},
+        {"en": "Halloween", "bn": "হ্যালোইন"},
+        {"en": "Valentine‘s Day", "bn": "ভ্যালেন্টাইনস ডে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["April Fool‘s Day"],
+      "correct_answers_bn": ["এপ্রিল ফুলস ডে"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Which Scottish king defeated the English at the Battle of Bannockburn?",
+        "bn": "ব্যানকবার্নের যুদ্ধে কোন স্কটিশ রাজা ইংরেজদের পরাজিত করেছিলেন?"
+      },
+      "options": [
+        {"en": "King Charles I", "bn": "রাজা চার্লস প্রথম"},
+        {"en": "King James I", "bn": "রাজা জেমস প্রথম"},
+        {"en": "Admiral Nelson", "bn": "অ্যাডমিরাল নেলসন"},
+        {"en": "Robert the Bruce", "bn": "রবার্ট দ্য ব্রুস"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Robert the Bruce"],
+      "correct_answers_bn": ["রবার্ট দ্য ব্রুস"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Who invented the World Wide Web?",
+        "bn": "ওয়ার্ল্ড ওয়াইড ওয়েব কে উদ্ভাবন করেছিলেন?"
+      },
+      "options": [
+        {"en": "Sir Tim Berners-Lee", "bn": "স্যার টিম বার্নার্স-লি"},
+        {"en": "Sir Peter Mansfield", "bn": "স্যার পিটার ম্যানসফিল্ড"},
+        {"en": "Sir Ian Wilmot", "bn": "স্যার ইয়ান উইলমট"},
+        {"en": "Sir Robert Edwards", "bn": "স্যার রবার্ট এডওয়ার্ডস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Sir Tim Berners-Lee"],
+      "correct_answers_bn": ["স্যার টিম বার্নার্স-লি"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "How are civil servants appointed and what political party do they belong to?",
+        "bn": "সিভিল সার্ভেন্টদের কীভাবে নিয়োগ দেওয়া হয় এবং তারা কোন রাজনৈতিক দলের সদস্য?"
+      },
+      "options": [
+        {"en": "They are chosen on merit and form part of the Liberal Democrats party", "bn": "তারা মেধার ভিত্তিতে নির্বাচিত হয় এবং লিবারেল ডেমোক্র্যাটস পার্টির অংশ"},
+        {"en": "They are chosen randomly and form part of the Conservative party", "bn": "তারা এলোমেলোভাবে নির্বাচিত হয় এবং কনজারভেটিভ পার্টির অংশ"},
+        {"en": "They are chosen randomly and are politically neutral", "bn": "তারা এলোমেলোভাবে নির্বাচিত হয় এবং রাজনৈতিকভাবে নিরপেক্ষ"},
+        {"en": "They are chosen on merit and are politically neutral", "bn": "তারা মেধার ভিত্তিতে নির্বাচিত হয় এবং রাজনৈতিকভাবে নিরপেক্ষ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["They are chosen on merit and are politically neutral"],
+      "correct_answers_bn": ["তারা মেধার ভিত্তিতে নির্বাচিত হয় এবং রাজনৈতিকভাবে নিরপেক্ষ"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What is known as the “Dunkirk spirit”?",
+        "bn": "“ডানকার্ক স্পিরিট” বলতে কী বোঝায়?"
+      },
+      "options": [
+        {"en": "When the German air force bombed London and other British cities at night-time", "bn": "যখন জার্মান বিমান বাহিনী রাতে লন্ডন ও অন্যান্য ব্রিটিশ শহরে বোমা বর্ষণ করেছিল"},
+        {"en": "The evacuation of Allied soldiers from France during World War II", "bn": "দ্বিতীয় বিশ্বযুদ্ধের সময় ফ্রান্স থেকে মিত্র বাহিনীর সৈন্যদের সরিয়ে নেওয়া"},
+        {"en": "When new social classes appeared after the Black Death", "bn": "ব্ল্যাক ডেথের পর যখন নতুন সামাজিক শ্রেণি আবির্ভূত হয়"},
+        {"en": "The period when many refugees called Huguenots came from France", "bn": "যে সময় অনেক হিউগেনট নামক শরণার্থী ফ্রান্স থেকে এসেছিল"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The evacuation of Allied soldiers from France during World War II"],
+      "correct_answers_bn": ["দ্বিতীয় বিশ্বযুদ্ধের সময় ফ্রান্স থেকে মিত্র বাহিনীর সৈন্যদের সরিয়ে নেওয়া"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "You have to be at least 21 years old to serve on a jury.",
+        "bn": "জুরিতে দায়িত্ব পালন করতে হলে কমপক্ষে ২১ বছর বয়স হতে হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "If you wish to be a permanent resident or citizen of the UK, you should (choose TWO answers):",
+        "bn": "যদি আপনি যুক্তরাজ্যের স্থায়ী বাসিন্দা বা নাগরিক হতে চান, তাহলে আপনার উচিত (দুটি উত্তর বেছে নিন):"
+      },
+      "options": [
+        {"en": "Respect the rights of others, including their right to their own opinions", "bn": "অন্যদের অধিকার সম্মান করা, তাদের নিজস্ব মতামতের অধিকারসহ"},
+        {"en": "Buy a house in the UK", "bn": "যুক্তরাজ্যে একটি বাড়ি কেনা"},
+        {"en": "Look after yourself and your family", "bn": "নিজের এবং পরিবারের যত্ন নেওয়া"},
+        {"en": "Marry a British citizen", "bn": "একজন ব্রিটিশ নাগরিককে বিয়ে করা"}
+      ],
+      "correct_answers": [0, 2],
+      "correct_answers_en": ["Respect the rights of others, including their right to their own opinions", "Look after yourself and your family"],
+      "correct_answers_bn": ["অন্যদের অধিকার সম্মান করা, তাদের নিজস্ব মতামতের অধিকারসহ", "নিজের এবং পরিবারের যত্ন নেওয়া"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Which of the following major sports event took place in the UK in 2012?",
+        "bn": "২০১২ সালে যুক্তরাজ্যে নিচের কোন বড় ক্রীড়া ইভেন্ট হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Football World Cup", "bn": "ফুটবল বিশ্বকাপ"},
+        {"en": "The Rugby World Cup", "bn": "রাগবি বিশ্বকাপ"},
+        {"en": "The Olympic games", "bn": "অলিম্পিক গেমস"},
+        {"en": "The Eurocup Basketball", "bn": "ইউরোকাপ বাস্কেটবল"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Olympic games"],
+      "correct_answers_bn": ["অলিম্পিক গেমস"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Charles I believed in the ’Divine Right of Kings’ so he tried:",
+        "bn": "চার্লস প্রথম ‘ডিভাইন রাইট অফ কিংস’-এ বিশ্বাস করতেন তাই তিনি চেষ্টা করেছিলেন:"
+      },
+      "options": [
+        {"en": "To rule without the Parliament", "bn": "পার্লামেন্ট ছাড়াই শাসন করতে"},
+        {"en": "To rule with the approval of the Parliament", "bn": "পার্লামেন্টের অনুমোদন নিয়ে শাসন করতে"},
+        {"en": "To raise money for the Parliament", "bn": "পার্লামেন্টের জন্য অর্থ সংগ্রহ করতে"},
+        {"en": "To restore Catholicism in Britain", "bn": "ব্রিটেনে ক্যাথলিক ধর্ম পুনঃপ্রতিষ্ঠা করতে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["To rule without the Parliament"],
+      "correct_answers_bn": ["পার্লামেন্ট ছাড়াই শাসন করতে"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "What is the Union Jack?",
+        "bn": "ইউনিয়ন জ্যাক কী?"
+      },
+      "options": [
+        {"en": "The Flag of the Commonwealth", "bn": "কমনওয়েলথের পতাকা"},
+        {"en": "The Flag of the United Kingdom", "bn": "যুক্তরাজ্যের পতাকা"},
+        {"en": "The shield used by British Knights", "bn": "ব্রিটিশ নাইটদের ব্যবহৃত ঢাল"},
+        {"en": "A trade union to protect workers rights", "bn": "শ্রমিকদের অধিকার রক্ষায় একটি ট্রেড ইউনিয়ন"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Flag of the United Kingdom"],
+      "correct_answers_bn": ["যুক্তরাজ্যের পতাকা"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Who was voted the greatest Briton of all time in 2002?",
+        "bn": "২০০২ সালে সর্বকালের সেরা ব্রিটিশ হিসেবে কাকে ভোট দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "Mo Farah", "bn": "মো ফারাহ"},
+        {"en": "Admiral Nelson", "bn": "অ্যাডমিরাল নেলসন"},
+        {"en": "Winston Churchill", "bn": "উইনস্টন চার্চিল"},
+        {"en": "Clement Attlee", "bn": "ক্লেমেন্ট অ্যাটলি"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Winston Churchill"],
+      "correct_answers_bn": ["উইনস্টন চার্চিল"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Which of the following statements is true:",
+        "bn": "নিচের কোন বিবৃতিটি সত্য:"
+      },
+      "options": [
+        {"en": "Women in Britain today make up about half of the workforce.", "bn": "আজকের ব্রিটেনে নারীরা কর্মশক্তির প্রায় অর্ধেক।"},
+        {"en": "Women in Britain today make up about one quarter of the workforce.", "bn": "আজকের ব্রিটেনে নারীরা কর্মশক্তির প্রায় এক চতুর্থাংশ।"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Women in Britain today make up about half of the workforce."],
+      "correct_answers_bn": ["আজকের ব্রিটেনে নারীরা কর্মশক্তির প্রায় অর্ধেক।"]
+    }
+  ]
+}

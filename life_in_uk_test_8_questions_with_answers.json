@@ -1,0 +1,383 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 8",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-8/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "World War II started as a result of Germany invading which country?",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধ জার্মানি কোন দেশ আক্রমণ করার ফলে শুরু হয়?"
+      },
+      "options": [
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Russia", "bn": "রাশিয়া"},
+        {"en": "Poland", "bn": "পোল্যান্ড"},
+        {"en": "Austria", "bn": "অস্ট্রিয়া"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Poland"],
+      "correct_answers_bn": ["পোল্যান্ড"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which flower is associated with Scotland?",
+        "bn": "স্কটল্যান্ডের সাথে কোন ফুল যুক্ত?"
+      },
+      "options": [
+        {"en": "The Shamrock", "bn": "দ্য শ্যামরক"},
+        {"en": "The Rose", "bn": "দ্য রোজ"},
+        {"en": "The Daffodil", "bn": "দ্য ড্যাফোডিল"},
+        {"en": "The Thistle", "bn": "দ্য থিসল"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Thistle"],
+      "correct_answers_bn": ["দ্য থিসল"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Police complaints can only be made by writing to the Chief Constable of the police force involved.",
+        "bn": "পুলিশের বিরুদ্ধে অভিযোগ শুধুমাত্র সংশ্লিষ্ট পুলিশ বাহিনীর চিফ কনস্টেবলের কাছে চিঠি লিখে করা যায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which of the following is a responsibility of the Home Secretary?",
+        "bn": "নিচের কোনটি হোম সেক্রেটারির দায়িত্ব?"
+      },
+      "options": [
+        {"en": "Economy", "bn": "অর্থনীতি"},
+        {"en": "Crime", "bn": "অপরাধ"},
+        {"en": "Education", "bn": "শিক্ষা"},
+        {"en": "Defence", "bn": "প্রতিরক্ষা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Crime"],
+      "correct_answers_bn": ["অপরাধ"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "When is St David’s day celebrated?",
+        "bn": "সেন্ট ডেভিডস ডে কখন উদযাপন করা হয়?"
+      },
+      "options": [
+        {"en": "1st March", "bn": "১ মার্চ"},
+        {"en": "17th March", "bn": "১৭ মার্চ"},
+        {"en": "23rd April", "bn": "২৩ এপ্রিল"},
+        {"en": "17th April", "bn": "১৭ এপ্রিল"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["1st March"],
+      "correct_answers_bn": ["১ মার্চ"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "What happened to ‘Mary, Queen of Scots’ after she spent 20 years in prison?",
+        "bn": "‘মেরি, কুইন অফ স্কটস’ ২০ বছর কারাগারে থাকার পর কী হয়েছিল?"
+      },
+      "options": [
+        {"en": "She became Queen of England", "bn": "তিনি ইংল্যান্ডের রানি হয়েছিলেন"},
+        {"en": "She was sent to France", "bn": "তাকে ফ্রান্সে পাঠানো হয়েছিল"},
+        {"en": "She escaped to Denmark", "bn": "তিনি ডেনমার্কে পালিয়ে গিয়েছিলেন"},
+        {"en": "She was executed", "bn": "তাকে মৃত্যুদণ্ড দেওয়া হয়েছিল"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["She was executed"],
+      "correct_answers_bn": ["তাকে মৃত্যুদণ্ড দেওয়া হয়েছিল"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What did Francis Crick discover?",
+        "bn": "ফ্রান্সিস ক্রিক কী আবিষ্কার করেছিলেন?"
+      },
+      "options": [
+        {"en": "The MRI (magnetic resonance imaging) scanner", "bn": "এমআরআই (ম্যাগনেটিক রেজোন্যান্স ইমেজিং) স্ক্যানার"},
+        {"en": "The jet engine", "bn": "জেট ইঞ্জিন"},
+        {"en": "The IVF (in-vitro fertilisation) therapy", "bn": "আইভিএফ (ইন-ভিট্রো ফার্টিলাইজেশন) থেরাপি"},
+        {"en": "The structure of the DNA molecule", "bn": "ডিএনএ অণুর গঠন"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The structure of the DNA molecule"],
+      "correct_answers_bn": ["ডিএনএ অণুর গঠন"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Northern Ireland and Scotland have their own banknotes, which are valid everywhere in the UK.",
+        "bn": "উত্তর আয়ারল্যান্ড ও স্কটল্যান্ডের নিজস্ব ব্যাংকনোট আছে, যা যুক্তরাজ্যের সর্বত্র বৈধ।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "How many national parks are there in England, Wales and Scotland?",
+        "bn": "ইংল্যান্ড, ওয়েলস ও স্কটল্যান্ডে কতটি জাতীয় উদ্যান আছে?"
+      },
+      "options": [
+        {"en": "25", "bn": "২৫"},
+        {"en": "15", "bn": "১৫"},
+        {"en": "18", "bn": "১৮"},
+        {"en": "42", "bn": "৪২"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["15"],
+      "correct_answers_bn": ["১৫"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Is Northern Ireland part of Great Britain?",
+        "bn": "উত্তর আয়ারল্যান্ড কি গ্রেট ব্রিটেনের অংশ?"
+      },
+      "options": [
+        {"en": "Yes", "bn": "হ্যাঁ"},
+        {"en": "No", "bn": "না"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["No"],
+      "correct_answers_bn": ["না"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "If you are a dog owner, which two things should your dog’s collar have when you go out for a walk?",
+        "bn": "আপনি যদি কুকুরের মালিক হন, তাহলে হাঁটতে বের হওয়ার সময় আপনার কুকুরের কলারে কোন দুটি জিনিস থাকা উচিত?"
+      },
+      "options": [
+        {"en": "The owner’s address", "bn": "মালিকের ঠিকানা"},
+        {"en": "The owner’s name", "bn": "মালিকের নাম"},
+        {"en": "The dog’s breed", "bn": "কুকুরের জাত"},
+        {"en": "The dog’s name", "bn": "কুকুরের নাম"}
+      ],
+      "correct_answers": [0, 1],
+      "correct_answers_en": ["The owner’s address", "The owner’s name"],
+      "correct_answers_bn": ["মালিকের ঠিকানা", "মালিকের নাম"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What day relates to the death of Jesus Christ?",
+        "bn": "যীশু খ্রিস্টের মৃত্যুর সাথে কোন দিন যুক্ত?"
+      },
+      "options": [
+        {"en": "Good Friday", "bn": "গুড ফ্রাইডে"},
+        {"en": "Easter Sunday", "bn": "ইস্টার সানডে"},
+        {"en": "Easter Monday", "bn": "ইস্টার মানডে"},
+        {"en": "Ash Wednesday", "bn": "অ্যাশ ওয়েডনেসডে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Good Friday"],
+      "correct_answers_bn": ["গুড ফ্রাইডে"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "A responsibility of the MPs is to represent everyone in their ______.",
+        "bn": "এমপিদের দায়িত্ব হলো তাদের ______-এর সবাইকে প্রতিনিধিত্ব করা।"
+      },
+      "options": [
+        {"en": "County", "bn": "কাউন্টি"},
+        {"en": "Estate", "bn": "এস্টেট"},
+        {"en": "District", "bn": "ডিস্ট্রিক্ট"},
+        {"en": "Constituency", "bn": "কনস্টিটিউয়েন্সি"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Constituency"],
+      "correct_answers_bn": ["কনস্টিটিউয়েন্সি"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What was achieved with the Magna Carta?",
+        "bn": "ম্যাগনা কার্টার মাধ্যমে কী অর্জিত হয়েছিল?"
+      },
+      "options": [
+        {"en": "It restricted the King’s power", "bn": "এটি রাজার ক্ষমতা সীমিত করেছিল"},
+        {"en": "It increased the King’s power", "bn": "এটি রাজার ক্ষমতা বৃদ্ধি করেছিল"},
+        {"en": "It restricted the rights of the farmers", "bn": "এটি কৃষকদের অধিকার সীমিত করেছিল"},
+        {"en": "It increased women’s power", "bn": "এটি নারীদের ক্ষমতা বৃদ্ধি করেছিল"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["It restricted the King’s power"],
+      "correct_answers_bn": ["এটি রাজার ক্ষমতা সীমিত করেছিল"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Female genital mutilation (FGM) or taking a girl or woman abroad for FGM is illegal in the UK and it is a criminal offence.",
+        "bn": "যুক্তরাজ্যে মহিলা যৌনাঙ্গ বিকৃতি (এফজিএম) বা এফজিএমের জন্য কোনো মেয়ে বা নারীকে বিদেশে নিয়ে যাওয়া অবৈধ এবং এটি একটি ক্রিমিনাল অপরাধ।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What year were women given the right to vote?",
+        "bn": "কোন সালে নারীদের ভোটাধিকার দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "1918", "bn": "১৯১৮"},
+        {"en": "1925", "bn": "১৯২৫"},
+        {"en": "1949", "bn": "১৯৪৯"},
+        {"en": "1914", "bn": "১৯১৪"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["1918"],
+      "correct_answers_bn": ["১৯১৮"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Which two of the following are British overseas territories?",
+        "bn": "নিচের কোন দুটি ব্রিটিশ ওভারসিজ টেরিটরি?"
+      },
+      "options": [
+        {"en": "St Helena", "bn": "সেন্ট হেলেনা"},
+        {"en": "Solomon Islands", "bn": "সলোমন দ্বীপপুঞ্জ"},
+        {"en": "Mauritius", "bn": "মরিশাস"},
+        {"en": "The Falkland Islands", "bn": "ফকল্যান্ড দ্বীপপুঞ্জ"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["St Helena", "The Falkland Islands"],
+      "correct_answers_bn": ["সেন্ট হেলেনা", "ফকল্যান্ড দ্বীপপুঞ্জ"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Who did the English defeat in 1588?",
+        "bn": "১৫৮৮ সালে ইংরেজরা কাদের পরাজিত করেছিল?"
+      },
+      "options": [
+        {"en": "The Normans", "bn": "নরম্যানরা"},
+        {"en": "The Romans", "bn": "রোমানরা"},
+        {"en": "The Spanish Armada", "bn": "স্প্যানিশ আর্মাডা"},
+        {"en": "The Saxons", "bn": "স্যাক্সনরা"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Spanish Armada"],
+      "correct_answers_bn": ["স্প্যানিশ আর্মাডা"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Who designed the Cenotaph?",
+        "bn": "সেনোটাফ কে ডিজাইন করেছিলেন?"
+      },
+      "options": [
+        {"en": "Sir Norman Foster", "bn": "স্যার নরম্যান ফস্টার"},
+        {"en": "Lancelot ‘Capability’ Brown", "bn": "ল্যান্সেলট ‘ক্যাপাবিলিটি’ ব্রাউন"},
+        {"en": "Sir Edwin Lutyens", "bn": "স্যার এডউইন লুটিয়েন্স"},
+        {"en": "Isambard Kingdom Brunel", "bn": "ইসামবার্ড কিংডম ব্রুনেল"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Sir Edwin Lutyens"],
+      "correct_answers_bn": ["স্যার এডউইন লুটিয়েন্স"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "How often are the members of the Welsh government elected?",
+        "bn": "ওয়েলশ সরকারের সদস্যরা কত বছর পর পর নির্বাচিত হয়?"
+      },
+      "options": [
+        {"en": "Every 5 years", "bn": "প্রতি ৫ বছর পর"},
+        {"en": "Every 2 years", "bn": "প্রতি ২ বছর পর"},
+        {"en": "Every 4 years", "bn": "প্রতি ৪ বছর পর"},
+        {"en": "Every 3 years", "bn": "প্রতি ৩ বছর পর"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Every 4 years"],
+      "correct_answers_bn": ["প্রতি ৪ বছর পর"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "During which period did the Beatles become popular and social laws were liberalised?",
+        "bn": "কোন সময়ে বিটলস জনপ্রিয় হয়ে ওঠে এবং সামাজিক আইন উদার করা হয়?"
+      },
+      "options": [
+        {"en": "1960s", "bn": "১৯৬০-এর দশক"},
+        {"en": "1970s", "bn": "১৯৭০-এর দশক"},
+        {"en": "1980s", "bn": "১৯৮০-এর দশক"},
+        {"en": "1950s", "bn": "১৯৫০-এর দশক"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["1960s"],
+      "correct_answers_bn": ["১৯৬০-এর দশক"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "The Man Booker Prize is awarded in which of the following categories?",
+        "bn": "ম্যান বুকার পুরস্কার নিচের কোন বিভাগে দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "Films", "bn": "চলচ্চিত্র"},
+        {"en": "Sport", "bn": "খেলাধুলা"},
+        {"en": "Literature", "bn": "সাহিত্য"},
+        {"en": "Music", "bn": "সংগীত"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Literature"],
+      "correct_answers_bn": ["সাহিত্য"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What sort of election takes place when a member of the Parliament (MP) dies or resigns?",
+        "bn": "যখন একজন সংসদ সদস্য (এমপি) মারা যান বা পদত্যাগ করেন তখন কোন ধরনের নির্বাচন হয়?"
+      },
+      "options": [
+        {"en": "Coalition", "bn": "জোট"},
+        {"en": "Pre-selection", "bn": "প্রি-সিলেকশন"},
+        {"en": "Random selection", "bn": "এলোমেলো নির্বাচন"},
+        {"en": "By-election", "bn": "উপ-নির্বাচন"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["By-election"],
+      "correct_answers_bn": ["উপ-নির্বাচন"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What is the Turner Prize?",
+        "bn": "টার্নার পুরস্কার কী?"
+      },
+      "options": [
+        {"en": "A literature award", "bn": "একটি সাহিত্য পুরস্কার"},
+        {"en": "A music award", "bn": "একটি সংগীত পুরস্কার"},
+        {"en": "A contemporary art award", "bn": "একটি সমসাময়িক শিল্প পুরস্কার"},
+        {"en": "A theatre award", "bn": "একটি থিয়েটার পুরস্কার"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["A contemporary art award"],
+      "correct_answers_bn": ["একটি সমসাময়িক শিল্প পুরস্কার"]
+    }
+  ]
+}

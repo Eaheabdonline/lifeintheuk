@@ -1,0 +1,383 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 5",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-5/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When does Easter take place?",
+        "bn": "ইস্টার কখন হয়?"
+      },
+      "options": [
+        {"en": "November or December", "bn": "নভেম্বর বা ডিসেম্বর"},
+        {"en": "January or February", "bn": "জানুয়ারি বা ফেব্রুয়ারি"},
+        {"en": "March or April", "bn": "মার্চ বা এপ্রিল"},
+        {"en": "May or June", "bn": "মে বা জুন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["March or April"],
+      "correct_answers_bn": ["মার্চ বা এপ্রিল"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which of the following is not a valid UK coin?",
+        "bn": "নিচের কোনটি যুক্তরাজ্যের বৈধ কয়েন নয়?"
+      },
+      "options": [
+        {"en": "1p", "bn": "১ পেনি"},
+        {"en": "5p", "bn": "৫ পেনি"},
+        {"en": "25p", "bn": "২৫ পেনি"},
+        {"en": "£1", "bn": "১ পাউন্ড"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["25p"],
+      "correct_answers_bn": ["২৫ পেনি"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Where is the Eden Project located?",
+        "bn": "ইডেন প্রজেক্ট কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Dorset", "bn": "ডরসেট"},
+        {"en": "Cornwall", "bn": "কর্নওয়াল"},
+        {"en": "Devon", "bn": "ডেভন"},
+        {"en": "Somerset", "bn": "সামারসেট"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Cornwall"],
+      "correct_answers_bn": ["কর্নওয়াল"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "St Helena and the Falkland Islands are part of Great Britain.",
+        "bn": "সেন্ট হেলেনা ও ফকল্যান্ড দ্বীপপুঞ্জ গ্রেট ব্রিটেনের অংশ।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Which two of the following are fundamental principles of British life?",
+        "bn": "নিচের কোন দুটি ব্রিটিশ জীবনের মৌলিক নীতি?"
+      },
+      "options": [
+        {"en": "Monarchy", "bn": "রাজতন্ত্র"},
+        {"en": "The rule of law", "bn": "আইনের শাসন"},
+        {"en": "Democracy", "bn": "গণতন্ত্র"},
+        {"en": "Join a political party", "bn": "একটি রাজনৈতিক দলে যোগ দেওয়া"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["The rule of law", "Democracy"],
+      "correct_answers_bn": ["আইনের শাসন", "গণতন্ত্র"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Where should you register if you want to become part of a jury?",
+        "bn": "জুরির অংশ হতে চাইলে কোথায় নিবন্ধন করবেন?"
+      },
+      "options": [
+        {"en": "The electoral register", "bn": "নির্বাচনী তালিকা"},
+        {"en": "Your local church", "bn": "আপনার স্থানীয় গির্জা"},
+        {"en": "The NHS", "bn": "এনএইচএস"},
+        {"en": "The British Embassy", "bn": "ব্রিটিশ দূতাবাস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The electoral register"],
+      "correct_answers_bn": ["নির্বাচনী তালিকা"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What sort of church is the Church of Scotland?",
+        "bn": "চার্চ অফ স্কটল্যান্ড কোন ধরনের চার্চ?"
+      },
+      "options": [
+        {"en": "Catholic", "bn": "ক্যাথলিক"},
+        {"en": "Baptist", "bn": "ব্যাপটিস্ট"},
+        {"en": "Presbyterian", "bn": "প্রেসবিটেরিয়ান"},
+        {"en": "Methodist", "bn": "মেথোডিস্ট"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Presbyterian"],
+      "correct_answers_bn": ["প্রেসবিটেরিয়ান"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Where does golf come from?",
+        "bn": "গল্ফ কোথা থেকে এসেছে?"
+      },
+      "options": [
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "Australia", "bn": "অস্ট্রেলিয়া"},
+        {"en": "Ireland", "bn": "আয়ারল্যান্ড"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Scotland"],
+      "correct_answers_bn": ["স্কটল্যান্ড"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "When do the television and newspapers have stories that are jokes until midday?",
+        "bn": "টেলিভিশন ও সংবাদপত্রে কখন দুপুর পর্যন্ত রসিকতার গল্প থাকে?"
+      },
+      "options": [
+        {"en": "Valentine’s Day", "bn": "ভ্যালেন্টাইনস ডে"},
+        {"en": "Boxing Day", "bn": "বক্সিং ডে"},
+        {"en": "Halloween", "bn": "হ্যালোইন"},
+        {"en": "April Fool’s Day", "bn": "এপ্রিল ফুলস ডে"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["April Fool’s Day"],
+      "correct_answers_bn": ["এপ্রিল ফুলস ডে"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What king was defeated by Oliver Cromwell during the Civil War and hid in an oak tree before escaping to Europe?",
+        "bn": "গৃহযুদ্ধের সময় অলিভার ক্রমওয়েল কোন রাজাকে পরাজিত করেছিলেন এবং তিনি ইউরোপে পালানোর আগে একটি ওক গাছে লুকিয়েছিলেন?"
+      },
+      "options": [
+        {"en": "Richard III", "bn": "রিচার্ড তৃতীয়"},
+        {"en": "Charles II", "bn": "চার্লস দ্বিতীয়"},
+        {"en": "James I", "bn": "জেমস প্রথম"},
+        {"en": "Henry IV", "bn": "হেনরি চতুর্থ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Charles II"],
+      "correct_answers_bn": ["চার্লস দ্বিতীয়"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Who was the father of Queen Elizabeth I?",
+        "bn": "রানি এলিজাবেথ প্রথমের পিতা কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Edward I", "bn": "এডওয়ার্ড প্রথম"},
+        {"en": "Henry V", "bn": "হেনরি পঞ্চম"},
+        {"en": "Henry VII", "bn": "হেনরি সপ্তম"},
+        {"en": "Henry VIII", "bn": "হেনরি অষ্টম"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Henry VIII"],
+      "correct_answers_bn": ["হেনরি অষ্টম"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Complaints against the police can ONLY be made by writing to the Police Complaints Commissioner.",
+        "bn": "পুলিশের বিরুদ্ধে অভিযোগ শুধুমাত্র পুলিশ কমপ্লেইন্টস কমিশনারের কাছে চিঠি লিখে করা যায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Who is the patron Saint of Northern Ireland?",
+        "bn": "উত্তর আয়ারল্যান্ডের পৃষ্ঠপোষক সন্ত কে?"
+      },
+      "options": [
+        {"en": "St George", "bn": "সেন্ট জর্জ"},
+        {"en": "St Patrick", "bn": "সেন্ট প্যাট্রিক"},
+        {"en": "St Andrew", "bn": "সেন্ট অ্যান্ড্রু"},
+        {"en": "St David", "bn": "সেন্ট ডেভিড"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["St Patrick"],
+      "correct_answers_bn": ["সেন্ট প্যাট্রিক"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What is the name of the period when new ideas about politics, philosophy and science were developed?",
+        "bn": "রাজনীতি, দর্শন ও বিজ্ঞান সম্পর্কে নতুন ধারণা যে সময়ে তৈরি হয়েছিল সেই সময়ের নাম কী?"
+      },
+      "options": [
+        {"en": "The Enlightenment", "bn": "দ্য এনলাইটেনমেন্ট"},
+        {"en": "The Glorious Revolution", "bn": "দ্য গ্লোরিয়াস রেভোলিউশন"},
+        {"en": "The Swinging Sixties", "bn": "দ্য সুইংইং সিক্সটিজ"},
+        {"en": "The Reformation", "bn": "দ্য রিফর্মেশন"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Enlightenment"],
+      "correct_answers_bn": ["দ্য এনলাইটেনমেন্ট"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which of the following statements is TRUE:",
+        "bn": "নিচের কোন বিবৃতিটি সত্য:"
+      },
+      "options": [
+        {"en": "Mary Stuart (‘Mary, Queen of Scots’) was a Protestant", "bn": "মেরি স্টুয়ার্ট (‘মেরি, কুইন অফ স্কটস’) ছিলেন প্রোটেস্ট্যান্ট"},
+        {"en": "Mary Stuart (‘Mary, Queen of Scots’) was a Catholic", "bn": "মেরি স্টুয়ার্ট (‘মেরি, কুইন অফ স্কটস’) ছিলেন ক্যাথলিক"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Mary Stuart (‘Mary, Queen of Scots’) was a Catholic"],
+      "correct_answers_bn": ["মেরি স্টুয়ার্ট (‘মেরি, কুইন অফ স্কটস’) ছিলেন ক্যাথলিক"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Which of the following is an example of civil law?",
+        "bn": "নিচের কোনটি সিভিল আইনের উদাহরণ?"
+      },
+      "options": [
+        {"en": "To sell tobacco products to anyone under the age of 18", "bn": "১৮ বছরের কম বয়সীদের তামাকজাত পণ্য বিক্রি করা"},
+        {"en": "To buy alcohol for people who are under the age of 18", "bn": "১৮ বছরের কম বয়সীদের জন্য মদ কেনা"},
+        {"en": "Discrimination in the workplace", "bn": "কর্মক্ষেত্রে বৈষম্য"},
+        {"en": "To carry a weapon of any kind, even if it is for self-defence", "bn": "আত্মরক্ষার জন্যও যেকোনো অস্ত্র বহন করা"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Discrimination in the workplace"],
+      "correct_answers_bn": ["কর্মক্ষেত্রে বৈষম্য"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "In which battle did Admiral Nelson die?",
+        "bn": "অ্যাডমিরাল নেলসন কোন যুদ্ধে মারা যান?"
+      },
+      "options": [
+        {"en": "The Battle of Hastings", "bn": "হেস্টিংসের যুদ্ধ"},
+        {"en": "The Battle of Waterloo", "bn": "ওয়াটারলুর যুদ্ধ"},
+        {"en": "The Battle of Trafalgar", "bn": "ট্রাফালগারের যুদ্ধ"},
+        {"en": "The Battle of Bannockburn", "bn": "ব্যানকবার্নের যুদ্ধ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Battle of Trafalgar"],
+      "correct_answers_bn": ["ট্রাফালগারের যুদ্ধ"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "William of Orange was asked by Protestants to invade England and proclaim himself king. But, when William reached England, there was no resistance and he took over the throne. This event was later known as:",
+        "bn": "প্রোটেস্ট্যান্টরা উইলিয়াম অফ অরেঞ্জকে ইংল্যান্ড আক্রমণ করে নিজেকে রাজা ঘোষণা করতে বলে। কিন্তু যখন উইলিয়াম ইংল্যান্ডে পৌঁছান, তখন কোনো প্রতিরোধ ছিল না এবং তিনি সিংহাসন দখল করেন। এই ঘটনাটি পরে পরিচিত হয়:"
+      },
+      "options": [
+        {"en": "The ‘Glorious Revolution’", "bn": "‘গ্লোরিয়াস রেভোলিউশন’"},
+        {"en": "The Restoration", "bn": "দ্য রেস্টোরেশন"},
+        {"en": "The ‘Great Depression’", "bn": "‘গ্রেট ডিপ্রেশন’"},
+        {"en": "The ‘Blitz’", "bn": "‘দ্য ব্লিটজ’"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The ‘Glorious Revolution’"],
+      "correct_answers_bn": ["‘গ্লোরিয়াস রেভোলিউশন’"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What sort of charity is ‘Friends of the Earth’?",
+        "bn": "‘ফ্রেন্ডস অফ দ্য আর্থ’ কোন ধরনের চ্যারিটি?"
+      },
+      "options": [
+        {"en": "An environmental charity", "bn": "একটি পরিবেশবাদী চ্যারিটি"},
+        {"en": "A medical research charity", "bn": "একটি চিকিৎসা গবেষণা চ্যারিটি"},
+        {"en": "A charity working with pets", "bn": "পোষা প্রাণী নিয়ে কাজ করে এমন চ্যারিটি"},
+        {"en": "A charity working with older people", "bn": "বয়স্কদের নিয়ে কাজ করে এমন চ্যারিটি"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["An environmental charity"],
+      "correct_answers_bn": ["একটি পরিবেশবাদী চ্যারিটি"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "If a husband forces his wife to have sex he can be charged with rape.",
+        "bn": "যদি স্বামী স্ত্রীকে জোর করে যৌন সম্পর্ক করতে বাধ্য করে তাহলে তাকে ধর্ষণের অভিযোগে অভিযুক্ত করা যায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "In which country of the British Empire did the Boer War (1899-1902) take place?",
+        "bn": "ব্রিটিশ সাম্রাজ্যের কোন দেশে বোয়ার যুদ্ধ (১৮৯৯-১৯০২) হয়েছিল?"
+      },
+      "options": [
+        {"en": "Netherlands", "bn": "নেদারল্যান্ডস"},
+        {"en": "Falkland Islands", "bn": "ফকল্যান্ড দ্বীপপুঞ্জ"},
+        {"en": "Gibraltar", "bn": "জিব্রাল্টার"},
+        {"en": "South Africa", "bn": "দক্ষিণ আফ্রিকা"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["South Africa"],
+      "correct_answers_bn": ["দক্ষিণ আফ্রিকা"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Which of the following actions is known as “canvassing”?",
+        "bn": "নিচের কোন কাজটি “ক্যানভাসিং” নামে পরিচিত?"
+      },
+      "options": [
+        {"en": "Donating blood to help people", "bn": "মানুষকে সাহায্য করার জন্য রক্তদান করা"},
+        {"en": "Volunteering for an environmental charity", "bn": "একটি পরিবেশবাদী চ্যারিটির জন্য স্বেচ্ছাসেবক হিসেবে কাজ করা"},
+        {"en": "Caring for animals at a local rescue shelter", "bn": "স্থানীয় উদ্ধার আশ্রয়কেন্দ্রে প্রাণীদের যত্ন নেওয়া"},
+        {"en": "Persuading people to vote for a political party", "bn": "মানুষকে একটি রাজনৈতিক দলের জন্য ভোট দিতে রাজি করানো"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Persuading people to vote for a political party"],
+      "correct_answers_bn": ["মানুষকে একটি রাজনৈতিক দলের জন্য ভোট দিতে রাজি করানো"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Which novel written by JRR Tolkien was voted the country’s best-loved novel in 2003?",
+        "bn": "জেআরআর টলকিনের লেখা কোন উপন্যাস ২০০৩ সালে দেশের সবচেয়ে প্রিয় উপন্যাস হিসেবে ভোট পেয়েছিল?"
+      },
+      "options": [
+        {"en": "Oliver Twist", "bn": "অলিভার টুইস্ট"},
+        {"en": "James Bond", "bn": "জেমস বন্ড"},
+        {"en": "Pride and Prejudice", "bn": "প্রাইড অ্যান্ড প্রেজুডিস"},
+        {"en": "The Lord of the Rings", "bn": "দ্য লর্ড অফ দ্য রিংস"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Lord of the Rings"],
+      "correct_answers_bn": ["দ্য লর্ড অফ দ্য রিংস"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "When did Germany invade Poland?",
+        "bn": "জার্মানি কখন পোল্যান্ড আক্রমণ করেছিল?"
+      },
+      "options": [
+        {"en": "1942", "bn": "১৯৪২"},
+        {"en": "1941", "bn": "১৯৪১"},
+        {"en": "1940", "bn": "১৯৪০"},
+        {"en": "1939", "bn": "১৯৩৯"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["1939"],
+      "correct_answers_bn": ["১৯৩৯"]
+    }
+  ]
+}

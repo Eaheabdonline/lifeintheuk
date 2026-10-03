@@ -1,0 +1,383 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 11",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/audio-british-citizenship-test-11/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Is St Helena part of the UK?",
+        "bn": "সেন্ট হেলেনা কি যুক্তরাজ্যের অংশ?"
+      },
+      "options": [
+        {"en": "Yes", "bn": "হ্যাঁ"},
+        {"en": "No", "bn": "না"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["No"],
+      "correct_answers_bn": ["না"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Where is Theatreland?",
+        "bn": "থিয়েটারল্যান্ড কোথায়?"
+      },
+      "options": [
+        {"en": "Docklands", "bn": "ডকল্যান্ডস"},
+        {"en": "London’s East End", "bn": "লন্ডনের ইস্ট এন্ড"},
+        {"en": "London’s West End", "bn": "লন্ডনের ওয়েস্ট এন্ড"},
+        {"en": "London’s South End", "bn": "লন্ডনের সাউথ এন্ড"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["London’s West End"],
+      "correct_answers_bn": ["লন্ডনের ওয়েস্ট এন্ড"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What is the name of the UK currency?",
+        "bn": "যুক্তরাজ্যের মুদ্রার নাম কী?"
+      },
+      "options": [
+        {"en": "Euro", "bn": "ইউরো"},
+        {"en": "Pound Sterling", "bn": "পাউন্ড স্টার্লিং"},
+        {"en": "Peso", "bn": "পেসো"},
+        {"en": "Dollar", "bn": "ডলার"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Pound Sterling"],
+      "correct_answers_bn": ["পাউন্ড স্টার্লিং"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "What other name is given to Diwali?",
+        "bn": "দীপাবলির আরেক নাম কী?"
+      },
+      "options": [
+        {"en": "The Festival of Lights", "bn": "দ্য ফেস্টিভ্যাল অফ লাইটস"},
+        {"en": "Ash Wednesday", "bn": "অ্যাশ ওয়েডনেসডে"},
+        {"en": "Good Friday", "bn": "গুড ফ্রাইডে"},
+        {"en": "Easter Monday", "bn": "ইস্টার মানডে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Festival of Lights"],
+      "correct_answers_bn": ["দ্য ফেস্টিভ্যাল অফ লাইটস"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What is the Enlightenment?",
+        "bn": "দ্য এনলাইটেনমেন্ট কী?"
+      },
+      "options": [
+        {"en": "A period of total peace in England", "bn": "ইংল্যান্ডে সম্পূর্ণ শান্তির একটি সময়"},
+        {"en": "A period when new ideas about politics, philosophy and science were developed", "bn": "রাজনীতি, দর্শন ও বিজ্ঞান সম্পর্কে নতুন ধারণা তৈরি হওয়ার একটি সময়"},
+        {"en": "A period when England became the largest empire the world had ever seen", "bn": "ইংল্যান্ড বিশ্বের সবচেয়ে বড় সাম্রাজ্য হয়ে ওঠার একটি সময়"},
+        {"en": "A period of economic recovery after the Second World War", "bn": "দ্বিতীয় বিশ্বযুদ্ধের পর অর্থনৈতিক পুনরুদ্ধারের একটি সময়"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["A period when new ideas about politics, philosophy and science were developed"],
+      "correct_answers_bn": ["রাজনীতি, দর্শন ও বিজ্ঞান সম্পর্কে নতুন ধারণা তৈরি হওয়ার একটি সময়"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Which of the following charities helps the environment?",
+        "bn": "নিচের কোন চ্যারিটি পরিবেশের সাহায্য করে?"
+      },
+      "options": [
+        {"en": "NSPCC", "bn": "এনএসপিসিসি"},
+        {"en": "Shelter", "bn": "শেল্টার"},
+        {"en": "Friends of the Earth", "bn": "ফ্রেন্ডস অফ দ্য আর্থ"},
+        {"en": "Crisis", "bn": "ক্রাইসিস"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Friends of the Earth"],
+      "correct_answers_bn": ["ফ্রেন্ডস অফ দ্য আর্থ"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Which of the following was a crucial aerial battle fought between Germany and Britain during WWII?",
+        "bn": "দ্বিতীয় বিশ্বযুদ্ধের সময় জার্মানি ও ব্রিটেনের মধ্যে সংঘটিত একটি গুরুত্বপূর্ণ আকাশ যুদ্ধ কোনটি?"
+      },
+      "options": [
+        {"en": "The Battle of Britain", "bn": "দ্য ব্যাটল অফ ব্রিটেন"},
+        {"en": "The Battle of Worcester", "bn": "দ্য ব্যাটল অফ ওরচেস্টার"},
+        {"en": "The Battle of Dunbar", "bn": "দ্য ব্যাটল অফ ডানবার"},
+        {"en": "The Battle of Marston Moor", "bn": "দ্য ব্যাটল অফ মার্সটন মুর"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Battle of Britain"],
+      "correct_answers_bn": ["দ্য ব্যাটল অফ ব্রিটেন"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What was Margaret Thatcher famous for?",
+        "bn": "মার্গারেট থ্যাচার কীসের জন্য বিখ্যাত ছিলেন?"
+      },
+      "options": [
+        {"en": "She fought for the right to vote for women", "bn": "তিনি নারীদের ভোটাধিকারের জন্য লড়াই করেছিলেন"},
+        {"en": "She was the first woman Prime Minister of the UK", "bn": "তিনি যুক্তরাজ্যের প্রথম মহিলা প্রধানমন্ত্রী ছিলেন"},
+        {"en": "She set up the women’s Franchise League", "bn": "তিনি উইমেনস ফ্র্যাঞ্চাইজ লিগ গঠন করেছিলেন"},
+        {"en": "She was the founder of modern nursing", "bn": "তিনি আধুনিক নার্সিংয়ের প্রতিষ্ঠাতা ছিলেন"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["She was the first woman Prime Minister of the UK"],
+      "correct_answers_bn": ["তিনি যুক্তরাজ্যের প্রথম মহিলা প্রধানমন্ত্রী ছিলেন"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which two languages combined to become one English language?",
+        "bn": "কোন দুটি ভাষা মিলে একটি ইংরেজি ভাষায় পরিণত হয়?"
+      },
+      "options": [
+        {"en": "Latin", "bn": "ল্যাটিন"},
+        {"en": "Anglo-Saxon", "bn": "অ্যাংলো-স্যাক্সন"},
+        {"en": "Proto-Celtic", "bn": "প্রোটো-সেল্টিক"},
+        {"en": "Norman French", "bn": "নরম্যান ফ্রেঞ্চ"}
+      ],
+      "correct_answers": [1, 3],
+      "correct_answers_en": ["Anglo-Saxon", "Norman French"],
+      "correct_answers_bn": ["অ্যাংলো-স্যাক্সন", "নরম্যান ফ্রেঞ্চ"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "By law, radio and television coverage of the political parties must be balanced and so equal time has to be given to rival viewpoints.",
+        "bn": "আইন অনুসারে, রেডিও ও টেলিভিশনে রাজনৈতিক দলগুলোর কভারেজ ভারসাম্যপূর্ণ হতে হবে এবং প্রতিদ্বন্দ্বী মতামতের সমান সময় দিতে হবে।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Where did the Spanish Armada come from?",
+        "bn": "স্প্যানিশ আর্মাডা কোথা থেকে এসেছিল?"
+      },
+      "options": [
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Spain", "bn": "স্পেন"},
+        {"en": "Italy", "bn": "ইতালি"},
+        {"en": "South America", "bn": "দক্ষিণ আমেরিকা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Spain"],
+      "correct_answers_bn": ["স্পেন"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What is the name of the War Memorial located in Whitehall?",
+        "bn": "হোয়াইটহলে অবস্থিত যুদ্ধ স্মৃতিস্তম্ভের নাম কী?"
+      },
+      "options": [
+        {"en": "Dumfries", "bn": "ডামফ্রিস"},
+        {"en": "Cenotaph", "bn": "সেনোটাফ"},
+        {"en": "Royal Crescent", "bn": "রয়্যাল ক্রেসেন্ট"},
+        {"en": "The White Tower", "bn": "দ্য হোয়াইট টাওয়ার"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Cenotaph"],
+      "correct_answers_bn": ["সেনোটাফ"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "The UK government has never suspended the Northern Ireland Assembly.",
+        "bn": "যুক্তরাজ্য সরকার কখনো উত্তর আয়ারল্যান্ড অ্যাসেম্বলি স্থগিত করেনি।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What kind of church did Scotland establish in 1560?",
+        "bn": "১৫৬০ সালে স্কটল্যান্ড কোন ধরনের চার্চ প্রতিষ্ঠা করেছিল?"
+      },
+      "options": [
+        {"en": "A Catholic church", "bn": "একটি ক্যাথলিক চার্চ"},
+        {"en": "A Protestant church", "bn": "একটি প্রোটেস্ট্যান্ট চার্চ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["A Protestant church"],
+      "correct_answers_bn": ["একটি প্রোটেস্ট্যান্ট চার্চ"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "When was the Domesday Book written?",
+        "bn": "ডোমসডে বুক কখন লেখা হয়েছিল?"
+      },
+      "options": [
+        {"en": "After the Viking invasion", "bn": "ভাইকিং আক্রমণের পর"},
+        {"en": "After the Norman conquest", "bn": "নরম্যান বিজয়ের পর"},
+        {"en": "After the last Roman invasion", "bn": "সর্বশেষ রোমান আক্রমণের পর"},
+        {"en": "After the Anglo-Saxon invasion", "bn": "অ্যাংলো-স্যাক্সন আক্রমণের পর"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["After the Norman conquest"],
+      "correct_answers_bn": ["নরম্যান বিজয়ের পর"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "The Northern Ireland Assembly cannot make decisions on which two of the following issues?",
+        "bn": "উত্তর আয়ারল্যান্ড অ্যাসেম্বলি নিচের কোন দুটি বিষয়ে সিদ্ধান্ত নিতে পারে না?"
+      },
+      "options": [
+        {"en": "Immigration", "bn": "অভিবাসন"},
+        {"en": "Education", "bn": "শিক্ষা"},
+        {"en": "Agriculture", "bn": "কৃষি"},
+        {"en": "Defence", "bn": "প্রতিরক্ষা"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["Immigration", "Defence"],
+      "correct_answers_bn": ["অভিবাসন", "প্রতিরক্ষা"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What should you do to make a complaint about the police (choose two answers)?",
+        "bn": "পুলিশ সম্পর্কে অভিযোগ করতে আপনার কী করা উচিত? (দুটি উত্তর বেছে নিন)"
+      },
+      "options": [
+        {"en": "Write a complaint letter to the House of Commons", "bn": "হাউস অফ কমন্সে অভিযোগের চিঠি লিখুন"},
+        {"en": "Go to the Police station directly", "bn": "সরাসরি পুলিশ স্টেশনে যান"},
+        {"en": "Write to the Chief Constable of the police force involved", "bn": "সংশ্লিষ্ট পুলিশ বাহিনীর চিফ কনস্টেবলের কাছে চিঠি লিখুন"},
+        {"en": "Write to your MP", "bn": "আপনার এমপিকে চিঠি লিখুন"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["Go to the Police station directly", "Write to the Chief Constable of the police force involved"],
+      "correct_answers_bn": ["সরাসরি পুলিশ স্টেশনে যান", "সংশ্লিষ্ট পুলিশ বাহিনীর চিফ কনস্টেবলের কাছে চিঠি লিখুন"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "What flower did William Wordsworth write about?",
+        "bn": "উইলিয়াম ওয়ার্ডসওয়ার্থ কোন ফুল নিয়ে লিখেছিলেন?"
+      },
+      "options": [
+        {"en": "Rose", "bn": "রোজ"},
+        {"en": "Daffodil", "bn": "ড্যাফোডিল"},
+        {"en": "Thistle", "bn": "থিসল"},
+        {"en": "Shamrock", "bn": "শ্যামরক"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Daffodil"],
+      "correct_answers_bn": ["ড্যাফোডিল"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "When is St Andrew’s day celebrated?",
+        "bn": "সেন্ট অ্যান্ড্রুস ডে কখন উদযাপন করা হয়?"
+      },
+      "options": [
+        {"en": "17th April", "bn": "১৭ এপ্রিল"},
+        {"en": "31st December", "bn": "৩১ ডিসেম্বর"},
+        {"en": "1st March", "bn": "১ মার্চ"},
+        {"en": "30th November", "bn": "৩০ নভেম্বর"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["30th November"],
+      "correct_answers_bn": ["৩০ নভেম্বর"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Who was the architect that rebuilt Saint Paul’s cathedral after the Great Fire in 1666?",
+        "bn": "১৬৬৬ সালের গ্রেট ফায়ারের পর সেন্ট পলস ক্যাথেড্রাল কে পুনর্নির্মাণ করেছিলেন?"
+      },
+      "options": [
+        {"en": "Robert Adam", "bn": "রবার্ট অ্যাডাম"},
+        {"en": "Sir Christopher Wren", "bn": "স্যার ক্রিস্টোফার রেন"},
+        {"en": "Sir Norman Foster", "bn": "স্যার নরম্যান ফস্টার"},
+        {"en": "Dame Zaha Hadid", "bn": "ডেম জাহা হাদিদ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Sir Christopher Wren"],
+      "correct_answers_bn": ["স্যার ক্রিস্টোফার রেন"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "When were the first coins in Britain made?",
+        "bn": "ব্রিটেনে প্রথম মুদ্রা কখন তৈরি হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Stone Age", "bn": "প্রস্তর যুগ"},
+        {"en": "The Bronze Age", "bn": "ব্রোঞ্জ যুগ"},
+        {"en": "The Iron Age", "bn": "লৌহ যুগ"},
+        {"en": "The Middle Ages", "bn": "মধ্যযুগ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Iron Age"],
+      "correct_answers_bn": ["লৌহ যুগ"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Who was Emmeline Pankhurst?",
+        "bn": "এমেলিন প্যাঙ্কহার্স্ট কে ছিলেন?"
+      },
+      "options": [
+        {"en": "A suffragette", "bn": "একজন সাফ্রাজেট"},
+        {"en": "A nurse", "bn": "একজন নার্স"},
+        {"en": "A doctor", "bn": "একজন ডাক্তার"},
+        {"en": "A scientist", "bn": "একজন বিজ্ঞানী"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["A suffragette"],
+      "correct_answers_bn": ["একজন সাফ্রাজেট"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Who did Britain fight against in the Crimean War?",
+        "bn": "ক্রিমিয়ান যুদ্ধে ব্রিটেন কার বিরুদ্ধে লড়াই করেছিল?"
+      },
+      "options": [
+        {"en": "Turkey", "bn": "তুরস্ক"},
+        {"en": "Russia", "bn": "রাশিয়া"},
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Germany", "bn": "জার্মানি"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Russia"],
+      "correct_answers_bn": ["রাশিয়া"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "How old do you have to be to buy alcohol in the UK?",
+        "bn": "যুক্তরাজ্যে মদ কিনতে আপনার কত বছর বয়স হতে হয়?"
+      },
+      "options": [
+        {"en": "17", "bn": "১৭"},
+        {"en": "18", "bn": "১৮"},
+        {"en": "19", "bn": "১৯"},
+        {"en": "20", "bn": "২০"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["18"],
+      "correct_answers_bn": ["১৮"]
+    }
+  ]
+}

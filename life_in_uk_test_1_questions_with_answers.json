@@ -1,0 +1,391 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 1",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-1/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What are two responsibilities that you will have as a British citizen or permanent resident of the UK?",
+        "bn": "যুক্তরাজ্যের ব্রিটিশ নাগরিক বা স্থায়ী বাসিন্দা হিসেবে আপনার দুটি দায়িত্ব কী কী?"
+      },
+      "options": [
+        {"en": "To look after the area in which you live and the environment", "bn": "আপনি যেখানে থাকেন সেই এলাকা এবং পরিবেশের যত্ন নেওয়া"},
+        {"en": "To look after yourself and your family", "bn": "নিজের এবং পরিবারের যত্ন নেওয়া"},
+        {"en": "To stay in the UK forever", "bn": "চিরকাল যুক্তরাজ্যে থাকা"},
+        {"en": "To promote work in your local community", "bn": "স্থানীয় সম্প্রদায়ে কাজের প্রচার করা"}
+      ],
+      "correct_answers": [0, 1],
+      "correct_answers_en": [
+        "To look after the area in which you live and the environment",
+        "To look after yourself and your family"
+      ],
+      "correct_answers_bn": [
+        "আপনি যেখানে থাকেন সেই এলাকা এবং পরিবেশের যত্ন নেওয়া",
+        "নিজের এবং পরিবারের যত্ন নেওয়া"
+      ]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Where is Big Ben located?",
+        "bn": "বিগ বেন কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Buckingham Palace", "bn": "বাকিংহাম প্যালেস"},
+        {"en": "The Tower of London", "bn": "টাওয়ার অফ লন্ডন"},
+        {"en": "Trafalgar Square", "bn": "ট্রাফালগার স্কয়ার"},
+        {"en": "The Houses of the Parliament", "bn": "হাউস অফ পার্লামেন্ট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Houses of the Parliament"],
+      "correct_answers_bn": ["হাউস অফ পার্লামেন্ট"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "When were men and women given the right to vote at the age of 21?",
+        "bn": "পুরুষ ও নারীদের ২১ বছর বয়সে ভোটাধিকার কখন দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "1918", "bn": "১৯১৮"},
+        {"en": "1903", "bn": "১৯০৩"},
+        {"en": "1928", "bn": "১৯২৮"},
+        {"en": "1923", "bn": "১৯২৩"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["1928"],
+      "correct_answers_bn": ["১৯২৮"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Where is the UK geographically located?",
+        "bn": "ভৌগোলিকভাবে যুক্তরাজ্য কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "South west of Europe", "bn": "ইউরোপের দক্ষিণ-পশ্চিমে"},
+        {"en": "North east of Europe", "bn": "ইউরোপের উত্তর-পূর্বে"},
+        {"en": "North west of Europe", "bn": "ইউরোপের উত্তর-পশ্চিমে"},
+        {"en": "South east of Europe", "bn": "ইউরোপের দক্ষিণ-পূর্বে"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["North west of Europe"],
+      "correct_answers_bn": ["ইউরোপের উত্তর-পশ্চিমে"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Who is the patron Saint of Scotland?",
+        "bn": "স্কটল্যান্ডের পৃষ্ঠপোষক সন্ত কে?"
+      },
+      "options": [
+        {"en": "St David", "bn": "সেন্ট ডেভিড"},
+        {"en": "St Patrick", "bn": "সেন্ট প্যাট্রিক"},
+        {"en": "St George", "bn": "সেন্ট জর্জ"},
+        {"en": "St Andrew", "bn": "সেন্ট অ্যান্ড্রু"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["St Andrew"],
+      "correct_answers_bn": ["সেন্ট অ্যান্ড্রু"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Which two houses fought in the Wars of the Roses?",
+        "bn": "রোজের যুদ্ধে কোন দুটি ঘর লড়াই করেছিল?"
+      },
+      "options": [
+        {"en": "The House of Chester", "bn": "হাউস অফ চেস্টার"},
+        {"en": "The House of York", "bn": "হাউস অফ ইয়র্ক"},
+        {"en": "The House of Lancaster", "bn": "হাউস অফ ল্যাঙ্কাস্টার"},
+        {"en": "The House of Newcastle", "bn": "হাউস অফ নিউক্যাসল"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["The House of York", "The House of Lancaster"],
+      "correct_answers_bn": ["হাউস অফ ইয়র্ক", "হাউস অফ ল্যাঙ্কাস্টার"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "The Bill of Rights of 1689 confirmed the right to vote for all adult men.",
+        "bn": "১৬৮৯ সালের বিল অফ রাইটস সকল প্রাপ্তবয়স্ক পুরুষের ভোটাধিকার নিশ্চিত করেছিল।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What is the Cenotaph?",
+        "bn": "সেনোটাফ কী?"
+      },
+      "options": [
+        {"en": "A flower", "bn": "একটি ফুল"},
+        {"en": "A Christian church", "bn": "একটি খ্রিস্টান গির্জা"},
+        {"en": "A war memorial", "bn": "একটি যুদ্ধ স্মৃতিস্তম্ভ"},
+        {"en": "A theatre", "bn": "একটি থিয়েটার"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["A war memorial"],
+      "correct_answers_bn": ["একটি যুদ্ধ স্মৃতিস্তম্ভ"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Who was the first female Prime Minister of the UK?",
+        "bn": "যুক্তরাজ্যের প্রথম মহিলা প্রধানমন্ত্রী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Mary Stuart", "bn": "মেরি স্টুয়ার্ট"},
+        {"en": "Theresa May", "bn": "থেরেসা মে"},
+        {"en": "Margaret Thatcher", "bn": "মার্গারেট থ্যাচার"},
+        {"en": "Florence Nightingale", "bn": "ফ্লোরেন্স নাইটিঙ্গেল"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Margaret Thatcher"],
+      "correct_answers_bn": ["মার্গারেট থ্যাচার"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Who chairs the debates at the House of Commons?",
+        "bn": "হাউস অফ কমন্সে বিতর্কের সভাপতিত্ব কে করেন?"
+      },
+      "options": [
+        {"en": "A bishop", "bn": "একজন বিশপ"},
+        {"en": "The Prime Minister", "bn": "প্রধানমন্ত্রী"},
+        {"en": "The Speaker", "bn": "দ্য স্পিকার"},
+        {"en": "The archbishop of Canterbury", "bn": "ক্যান্টারবেরির আর্চবিশপ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Speaker"],
+      "correct_answers_bn": ["দ্য স্পিকার"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Who was the captain of the English football team that won the World Cup in 1966?",
+        "bn": "১৯৬৬ সালে বিশ্বকাপ জয়ী ইংল্যান্ড ফুটবল দলের অধিনায়ক কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Sir Roger Bannister", "bn": "স্যার রজার ব্যানিস্টার"},
+        {"en": "Sir Jackie Stewart", "bn": "স্যার জ্যাকি স্টুয়ার্ট"},
+        {"en": "Sir Ian Botham", "bn": "স্যার ইয়ান বোথাম"},
+        {"en": "Bobby Moore", "bn": "ববি মুর"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Bobby Moore"],
+      "correct_answers_bn": ["ববি মুর"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "When did the English defeat the Spanish Armada?",
+        "bn": "ইংরেজরা স্প্যানিশ আর্মাডাকে কখন পরাজিত করেছিল?"
+      },
+      "options": [
+        {"en": "1466", "bn": "১৪৬৬"},
+        {"en": "1066", "bn": "১০৬৬"},
+        {"en": "1254", "bn": "১২৫৪"},
+        {"en": "1588", "bn": "১৫৮৮"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["1588"],
+      "correct_answers_bn": ["১৫৮৮"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Anyone can make a complaint about the police by writing to the Chief Constable of the police force involved.",
+        "bn": "সংশ্লিষ্ট পুলিশ বাহিনীর চিফ কনস্টেবলের কাছে চিঠি লিখে যে কেউ পুলিশ সম্পর্কে অভিযোগ করতে পারে।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What is the minimum age required to serve on a jury?",
+        "bn": "জুরিতে দায়িত্ব পালনের জন্য ন্যূনতম বয়স কত?"
+      },
+      "options": [
+        {"en": "16", "bn": "১৬"},
+        {"en": "18", "bn": "১৮"},
+        {"en": "21", "bn": "২১"},
+        {"en": "25", "bn": "২৫"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["18"],
+      "correct_answers_bn": ["১৮"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "How is a jury selected?",
+        "bn": "জুরি কীভাবে নির্বাচিত হয়?"
+      },
+      "options": [
+        {"en": "From the NHS registration system", "bn": "এনএইচএস নিবন্ধন ব্যবস্থা থেকে"},
+        {"en": "Randomly from the electoral register", "bn": "নির্বাচনী তালিকা থেকে এলোমেলোভাবে"},
+        {"en": "Alphabetically from the telephone directory", "bn": "টেলিফোন ডিরেক্টরি থেকে বর্ণানুক্রমে"},
+        {"en": "From a postcode selection", "bn": "পোস্টকোড নির্বাচন থেকে"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Randomly from the electoral register"],
+      "correct_answers_bn": ["নির্বাচনী তালিকা থেকে এলোমেলোভাবে"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What is a bank holiday?",
+        "bn": "ব্যাংক হলিডে কী?"
+      },
+      "options": [
+        {"en": "A public holiday when banks are open all day", "bn": "একটি সরকারি ছুটির দিন যখন ব্যাংক সারাদিন খোলা থাকে"},
+        {"en": "A public holiday for people working in banks", "bn": "ব্যাংকে কর্মরত ব্যক্তিদের জন্য সরকারি ছুটি"},
+        {"en": "An additional day off that every worker in the UK is entitled to", "bn": "যুক্তরাজ্যের প্রত্যেক কর্মীর জন্য অতিরিক্ত একদিনের ছুটি"},
+        {"en": "A public holiday when banks and many other businesses are closed for the day", "bn": "একটি সরকারি ছুটির দিন যখন ব্যাংক এবং অন্যান্য অনেক ব্যবসা বন্ধ থাকে"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["A public holiday when banks and many other businesses are closed for the day"],
+      "correct_answers_bn": ["একটি সরকারি ছুটির দিন যখন ব্যাংক এবং অন্যান্য অনেক ব্যবসা বন্ধ থাকে"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What will you be given to vote before a general election takes place?",
+        "bn": "সাধারণ নির্বাচনের আগে আপনাকে ভোট দেওয়ার জন্য কী দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "A ballot slip", "bn": "একটি ব্যালট স্লিপ"},
+        {"en": "A poll card", "bn": "একটি পোল কার্ড"},
+        {"en": "A voting slip", "bn": "একটি ভোটিং স্লিপ"},
+        {"en": "A poll tax relief", "bn": "একটি পোল ট্যাক্স রিলিফ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["A poll card"],
+      "correct_answers_bn": ["একটি পোল কার্ড"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Which of the following statements is correct?",
+        "bn": "নিচের কোন বিবৃতিটি সঠিক?"
+      },
+      "options": [
+        {"en": "Solicitors’ charges are usually based on how much time they spend on a case", "bn": "সলিসিটরদের ফি সাধারণত মামলায় তারা কত সময় ব্যয় করে তার উপর নির্ভর করে"},
+        {"en": "Solicitors’ charges are usually based on the nature of a case and its importance", "bn": "সলিসিটরদের ফি সাধারণত মামলার প্রকৃতি এবং গুরুত্বের উপর নির্ভর করে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Solicitors’ charges are usually based on how much time they spend on a case"],
+      "correct_answers_bn": ["সলিসিটরদের ফি সাধারণত মামলায় তারা কত সময় ব্যয় করে তার উপর নির্ভর করে"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+        "bn": "আইন অনুসারে, নির্বাচনের আগে কোন দুটি মিডিয়াকে সব রাজনৈতিক দলের ভারসাম্যপূর্ণ কভারেজ এবং প্রতিদ্বন্দ্বী মতামতের সমান সময় দিতে হয়?"
+      },
+      "options": [
+        {"en": "Television", "bn": "টেলিভিশন"},
+        {"en": "Internet", "bn": "ইন্টারনেট"},
+        {"en": "Newspapers", "bn": "সংবাদপত্র"},
+        {"en": "Radio", "bn": "রেডিও"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["Television", "Radio"],
+      "correct_answers_bn": ["টেলিভিশন", "রেডিও"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Which of the following territories is a Crown dependency but is NOT part of the UK?",
+        "bn": "নিচের কোন অঞ্চলটি ক্রাউন ডিপেন্ডেন্সি কিন্তু যুক্তরাজ্যের অংশ নয়?"
+      },
+      "options": [
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "The Channel Islands", "bn": "দ্য চ্যানেল আইল্যান্ডস"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Channel Islands"],
+      "correct_answers_bn": ["দ্য চ্যানেল আইল্যান্ডস"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "What did Sir Frank Whittle invent in the 1930s?",
+        "bn": "১৯৩০-এর দশকে স্যার ফ্রাঙ্ক হুইটল কী আবিষ্কার করেছিলেন?"
+      },
+      "options": [
+        {"en": "Radar", "bn": "রাডার"},
+        {"en": "Hovercraft", "bn": "হোভারক্রাফট"},
+        {"en": "Jet engine", "bn": "জেট ইঞ্জিন"},
+        {"en": "Ballpoint pen", "bn": "বলপয়েন্ট কলম"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Jet engine"],
+      "correct_answers_bn": ["জেট ইঞ্জিন"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Who wrote ‘The Daffodils’?",
+        "bn": "‘দ্য ড্যাফোডিলস’ কে লিখেছিলেন?"
+      },
+      "options": [
+        {"en": "William Blake", "bn": "উইলিয়াম ব্লেক"},
+        {"en": "Robert Browning", "bn": "রবার্ট ব্রাউনিং"},
+        {"en": "Lord Byron", "bn": "লর্ড বায়রন"},
+        {"en": "William Wordsworth", "bn": "উইলিয়াম ওয়ার্ডসওয়ার্থ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["William Wordsworth"],
+      "correct_answers_bn": ["উইলিয়াম ওয়ার্ডসওয়ার্থ"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Who was given the title of Lord Protector?",
+        "bn": "লর্ড প্রোটেক্টর উপাধি কাকে দেওয়া হয়েছিল?"
+      },
+      "options": [
+        {"en": "Charles I", "bn": "চার্লস প্রথম"},
+        {"en": "Charles II", "bn": "চার্লস দ্বিতীয়"},
+        {"en": "Winston Churchill", "bn": "উইনস্টন চার্চিল"},
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Oliver Cromwell"],
+      "correct_answers_bn": ["অলিভার ক্রমওয়েল"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What are the 40 days before Easter called?",
+        "bn": "ইস্টারের আগের ৪০ দিনকে কী বলা হয়?"
+      },
+      "options": [
+        {"en": "Diwali", "bn": "দীপাবলি"},
+        {"en": "Lent", "bn": "লেন্ট"},
+        {"en": "Hannukah", "bn": "হানুক্কা"},
+        {"en": "Vaisakhi", "bn": "বৈশাখী"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Lent"],
+      "correct_answers_bn": ["লেন্ট"]
+    }
+  ]
+}

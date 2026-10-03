@@ -1,0 +1,383 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 7",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-7/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "As a British citizen, you should:",
+        "bn": "ব্রিটিশ নাগরিক হিসেবে আপনার উচিত:"
+      },
+      "options": [
+        {"en": "Respect and obey the law", "bn": "আইন মেনে চলা এবং সম্মান করা"},
+        {"en": "Vote in all elections", "bn": "সব নির্বাচনে ভোট দেওয়া"},
+        {"en": "Take part in religious activities", "bn": "ধর্মীয় কার্যকলাপে অংশ নেওয়া"},
+        {"en": "Look after the area in which you live and the environment", "bn": "আপনি যেখানে থাকেন সেই এলাকা এবং পরিবেশের যত্ন নেওয়া"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["Respect and obey the law", "Look after the area in which you live and the environment"],
+      "correct_answers_bn": ["আইন মেনে চলা এবং সম্মান করা", "আপনি যেখানে থাকেন সেই এলাকা এবং পরিবেশের যত্ন নেওয়া"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "When is Halloween celebrated?",
+        "bn": "হ্যালোইন কখন উদযাপন করা হয়?"
+      },
+      "options": [
+        {"en": "5th of November", "bn": "৫ নভেম্বর"},
+        {"en": "11th of November", "bn": "১১ নভেম্বর"},
+        {"en": "31st of October", "bn": "৩১ অক্টোবর"},
+        {"en": "1st of April", "bn": "১ এপ্রিল"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["31st of October"],
+      "correct_answers_bn": ["৩১ অক্টোবর"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The Bill of Rights in 1689 gave women the right to vote.",
+        "bn": "১৬৮৯ সালের বিল অফ রাইটস নারীদের ভোটাধিকার দিয়েছিল।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "What is the name of the most famous cricket competition played between England and Australia?",
+        "bn": "ইংল্যান্ড ও অস্ট্রেলিয়ার মধ্যে সবচেয়ে বিখ্যাত ক্রিকেট প্রতিযোগিতার নাম কী?"
+      },
+      "options": [
+        {"en": "The Ashes", "bn": "দ্য অ্যাশেস"},
+        {"en": "The Six Nations Championship", "bn": "দ্য সিক্স নেশনস চ্যাম্পিয়নশিপ"},
+        {"en": "The Grand National", "bn": "দ্য গ্র্যান্ড ন্যাশনাল"},
+        {"en": "The Australian Open", "bn": "দ্য অস্ট্রেলিয়ান ওপেন"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Ashes"],
+      "correct_answers_bn": ["দ্য অ্যাশেস"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What was the biggest source of employment during the 18th century?",
+        "bn": "১৮শ শতাব্দীতে সবচেয়ে বড় কর্মসংস্থানের উৎস কী ছিল?"
+      },
+      "options": [
+        {"en": "Fishing", "bn": "মাছ ধরা"},
+        {"en": "Teaching", "bn": "শিক্ষকতা"},
+        {"en": "Aircraft industry", "bn": "বিমান শিল্প"},
+        {"en": "Manufacturing", "bn": "উৎপাদন শিল্প"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Manufacturing"],
+      "correct_answers_bn": ["উৎপাদন শিল্প"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the battle of Bannockburn, and Scotland remained unconquered by the English.",
+        "bn": "১৩১৪ সালে রবার্ট দ্য ব্রুসের নেতৃত্বে স্কটিশরা ব্যানকবার্নের যুদ্ধে ইংরেজদের পরাজিত করে এবং স্কটল্যান্ড ইংরেজদের দ্বারা অজয় থেকে যায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Which of the following is an example of criminal offence?",
+        "bn": "নিচের কোনটি ক্রিমিনাল অপরাধের উদাহরণ?"
+      },
+      "options": [
+        {"en": "Smoking in public places where it is not allowed", "bn": "যেখানে অনুমোদিত নয় সেখানে জনসমাগমস্থলে ধূমপান করা"},
+        {"en": "Disputes about faulty goods or services", "bn": "ত্রুটিপূর্ণ পণ্য বা সেবা নিয়ে বিরোধ"},
+        {"en": "Disputes about an unfair dismissal in the workplace", "bn": "কর্মক্ষেত্রে অন্যায়ভাবে চাকরিচ্যুতি নিয়ে বিরোধ"},
+        {"en": "A dispute between the landlord and the tenants who have not paid the rent", "bn": "বাড়িওয়ালা ও ভাড়াটিয়াদের মধ্যে ভাড়া না দেওয়া নিয়ে বিরোধ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Smoking in public places where it is not allowed"],
+      "correct_answers_bn": ["যেখানে অনুমোদিত নয় সেখানে জনসমাগমস্থলে ধূমপান করা"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which Scottish clan was killed for not taking the oath?",
+        "bn": "কোন স্কটিশ ক্ল্যান শপথ না নেওয়ার জন্য হত্যা করা হয়েছিল?"
+      },
+      "options": [
+        {"en": "The MacLaine of Lochbuie", "bn": "দ্য ম্যাকলেইন অফ লোচবুই"},
+        {"en": "The McDowalls of Garthland", "bn": "দ্য ম্যাকডাওয়ালস অফ গার্থল্যান্ড"},
+        {"en": "The Macpherson of Cluny", "bn": "দ্য ম্যাকফারসন অফ ক্লুনি"},
+        {"en": "The MacDonalds of Glencoe", "bn": "দ্য ম্যাকডোনাল্ডস অফ গ্লেনকো"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The MacDonalds of Glencoe"],
+      "correct_answers_bn": ["দ্য ম্যাকডোনাল্ডস অফ গ্লেনকো"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Which two issues can the devolved administrations pass laws on?",
+        "bn": "কোন দুটি বিষয়ে বিকেন্দ্রীকৃত প্রশাসন আইন প্রণয়ন করতে পারে?"
+      },
+      "options": [
+        {"en": "Defence", "bn": "প্রতিরক্ষা"},
+        {"en": "Social security", "bn": "সামাজিক নিরাপত্তা"},
+        {"en": "Health", "bn": "স্বাস্থ্য"},
+        {"en": "Education", "bn": "শিক্ষা"}
+      ],
+      "correct_answers": [2, 3],
+      "correct_answers_en": ["Health", "Education"],
+      "correct_answers_bn": ["স্বাস্থ্য", "শিক্ষা"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "The assassination of the Archduke Franz Ferdinand of Austria in 1914 led to which of the following wars?",
+        "bn": "১৯১৪ সালে অস্ট্রিয়ার আর্চডিউক ফ্রান্স ফার্দিনান্দের হত্যা নিচের কোন যুদ্ধের সূত্রপাত ঘটায়?"
+      },
+      "options": [
+        {"en": "The Crimean War", "bn": "ক্রিমিয়ান যুদ্ধ"},
+        {"en": "The First World War", "bn": "প্রথম বিশ্বযুদ্ধ"},
+        {"en": "The Civil War", "bn": "গৃহযুদ্ধ"},
+        {"en": "The Second World War", "bn": "দ্বিতীয় বিশ্বযুদ্ধ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The First World War"],
+      "correct_answers_bn": ["প্রথম বিশ্বযুদ্ধ"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "What is the capital city of Scotland?",
+        "bn": "স্কটল্যান্ডের রাজধানী কোন শহর?"
+      },
+      "options": [
+        {"en": "Glasgow", "bn": "গ্লাসগো"},
+        {"en": "St Andrews", "bn": "সেন্ট অ্যান্ড্রুস"},
+        {"en": "Edinburgh", "bn": "এডিনবার্গ"},
+        {"en": "Aberdeen", "bn": "অ্যাবারডিন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Edinburgh"],
+      "correct_answers_bn": ["এডিনবার্গ"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "In 1833 the Emancipation Act abolished slavery throughout the British Empire.",
+        "bn": "১৮৩৩ সালে এমানসিপেশন অ্যাক্ট ব্রিটিশ সাম্রাজ্য জুড়ে দাসপ্রথা বিলুপ্ত করে।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What is the name of the process by which many Scottish landlords destroyed individual small farms (known as ‘crofts’) to make space for large flocks of sheep and cattle?",
+        "bn": "যে প্রক্রিয়ায় অনেক স্কটিশ জমিদার বড় পশুপালের জায়গা তৈরি করতে ছোট ছোট খামার (‘ক্রফট’) ধ্বংস করেছিল তার নাম কী?"
+      },
+      "options": [
+        {"en": "The Black Death", "bn": "ব্ল্যাক ডেথ"},
+        {"en": "The Corn Removal", "bn": "দ্য কর্ন রিমুভাল"},
+        {"en": "The Highland Clearances", "bn": "দ্য হাইল্যান্ড ক্লিয়ারেন্সেস"},
+        {"en": "The Enlightenment", "bn": "দ্য এনলাইটেনমেন্ট"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Highland Clearances"],
+      "correct_answers_bn": ["দ্য হাইল্যান্ড ক্লিয়ারেন্সেস"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "The Falkland Islands are a British overseas territory and are part of the United Kingdom.",
+        "bn": "ফকল্যান্ড দ্বীপপুঞ্জ একটি ব্রিটিশ ওভারসিজ টেরিটরি এবং যুক্তরাজ্যের অংশ।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which two of the following are Civil War Battles?",
+        "bn": "নিচের কোন দুটি গৃহযুদ্ধের যুদ্ধ?"
+      },
+      "options": [
+        {"en": "The Battle of Waterloo", "bn": "ওয়াটারলুর যুদ্ধ"},
+        {"en": "The Battle of Marston Moor", "bn": "মার্সটন মুরের যুদ্ধ"},
+        {"en": "The Battle of Naseby", "bn": "নেসবির যুদ্ধ"},
+        {"en": "The Battle of Agincourt", "bn": "আজিনকোর্টের যুদ্ধ"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["The Battle of Marston Moor", "The Battle of Naseby"],
+      "correct_answers_bn": ["মার্সটন মুরের যুদ্ধ", "নেসবির যুদ্ধ"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What was the name of the activist group who fought for the women‘s right to vote?",
+        "bn": "নারীদের ভোটাধিকারের জন্য লড়াই করা কর্মী গ্রুপের নাম কী?"
+      },
+      "options": [
+        {"en": "Chartists", "bn": "চার্টিস্টস"},
+        {"en": "Beefeaters", "bn": "বিফইটার্স"},
+        {"en": "Suffragettes", "bn": "সাফ্রাজেটস"},
+        {"en": "Quakers", "bn": "কোয়েকার্স"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Suffragettes"],
+      "correct_answers_bn": ["সাফ্রাজেটস"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What UK landmark was voted as Britain’s favourite view in 2007?",
+        "bn": "২০০৭ সালে ব্রিটেনের প্রিয় দৃশ্য হিসেবে কোন যুক্তরাজ্যের ল্যান্ডমার্ক ভোট পেয়েছিল?"
+      },
+      "options": [
+        {"en": "The Big Ben", "bn": "বিগ বেন"},
+        {"en": "Lake District", "bn": "লেক ডিস্ট্রিক্ট"},
+        {"en": "Snowdonia", "bn": "স্নোডোনিয়া"},
+        {"en": "The London Eye", "bn": "দ্য লন্ডন আই"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Lake District"],
+      "correct_answers_bn": ["লেক ডিস্ট্রিক্ট"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Who were the first people to live in Britain in what we call the Stone Age?",
+        "bn": "যাকে আমরা প্রস্তর যুগ বলি সেই সময় ব্রিটেনে প্রথম কারা বাস করত?"
+      },
+      "options": [
+        {"en": "Farmers", "bn": "কৃষক"},
+        {"en": "Peasants", "bn": "কৃষক শ্রেণি"},
+        {"en": "Hunter-gatherers", "bn": "শিকারি-সংগ্রাহক"},
+        {"en": "Pirates", "bn": "জলদস্যু"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Hunter-gatherers"],
+      "correct_answers_bn": ["শিকারি-সংগ্রাহক"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What is the name of the movement against the authority of the Pope and the ideas of the Catholic Church that took place during the reign of Henry VIII?",
+        "bn": "হেনরি অষ্টমের রাজত্বকালে পোপের কর্তৃত্ব এবং ক্যাথলিক চার্চের ধারণার বিরুদ্ধে যে আন্দোলন হয়েছিল তার নাম কী?"
+      },
+      "options": [
+        {"en": "The Reformation", "bn": "দ্য রিফর্মেশন"},
+        {"en": "The Enlightenment", "bn": "দ্য এনলাইটেনমেন্ট"},
+        {"en": "The Glorious Revolution", "bn": "দ্য গ্লোরিয়াস রেভোলিউশন"},
+        {"en": "The Renaissance", "bn": "দ্য রেনেসাঁ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Reformation"],
+      "correct_answers_bn": ["দ্য রিফর্মেশন"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "What do you need to do to apply for a National Insurance Number?",
+        "bn": "ন্যাশনাল ইনস্যুরেন্স নম্বরের জন্য আবেদন করতে আপনাকে কী করতে হবে?"
+      },
+      "options": [
+        {"en": "Contact the NHS", "bn": "এনএইচএসের সাথে যোগাযোগ করুন"},
+        {"en": "Contact the Department for Work and Pensions (DWP)", "bn": "ডিপার্টমেন্ট ফর ওয়ার্ক অ্যান্ড পেনশনস (ডিডব্লিউপি)-এর সাথে যোগাযোগ করুন"},
+        {"en": "Contact your local MP", "bn": "আপনার স্থানীয় এমপির সাথে যোগাযোগ করুন"},
+        {"en": "Ask you employer to get it for you", "bn": "আপনার নিয়োগকর্তাকে আপনার জন্য এটি নিতে বলুন"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Contact the Department for Work and Pensions (DWP)"],
+      "correct_answers_bn": ["ডিপার্টমেন্ট ফর ওয়ার্ক অ্যান্ড পেনশনস (ডিডব্লিউপি)-এর সাথে যোগাযোগ করুন"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Which of the following is a major horse-racing event in England?",
+        "bn": "নিচের কোনটি ইংল্যান্ডের একটি বড় ঘোড়দৌড়ের ইভেন্ট?"
+      },
+      "options": [
+        {"en": "The Wimbledon Championship", "bn": "দ্য উইম্বলডন চ্যাম্পিয়নশিপ"},
+        {"en": "Royal Ascot", "bn": "রয়্যাল অ্যাসকট"},
+        {"en": "The Open Championship", "bn": "দ্য ওপেন চ্যাম্পিয়নশিপ"},
+        {"en": "The Six Nations Championship", "bn": "দ্য সিক্স নেশনস চ্যাম্পিয়নশিপ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Royal Ascot"],
+      "correct_answers_bn": ["রয়্যাল অ্যাসকট"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "How many members form a jury in Scotland?",
+        "bn": "স্কটল্যান্ডে জুরি কতজন সদস্য নিয়ে গঠিত হয়?"
+      },
+      "options": [
+        {"en": "12", "bn": "১২"},
+        {"en": "14", "bn": "১৪"},
+        {"en": "15", "bn": "১৫"},
+        {"en": "20", "bn": "২০"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["15"],
+      "correct_answers_bn": ["১৫"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What is known as Lent?",
+        "bn": "লেন্ট বলতে কী বোঝায়?"
+      },
+      "options": [
+        {"en": "The 40 days before Christmas", "bn": "ক্রিসমাসের আগের ৪০ দিন"},
+        {"en": "The 40 days after Easter", "bn": "ইস্টারের পরের ৪০ দিন"},
+        {"en": "The 40 days before Easter", "bn": "ইস্টারের আগের ৪০ দিন"},
+        {"en": "The 40 days after Christmas", "bn": "ক্রিসমাসের পরের ৪০ দিন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The 40 days before Easter"],
+      "correct_answers_bn": ["ইস্টারের আগের ৪০ দিন"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "When was the last successful foreign invasion of England?",
+        "bn": "ইংল্যান্ডে সর্বশেষ সফল বিদেশি আক্রমণ কখন হয়েছিল?"
+      },
+      "options": [
+        {"en": "1415", "bn": "১৪১৫"},
+        {"en": "1314", "bn": "১৩১৪"},
+        {"en": "1066", "bn": "১০৬৬"},
+        {"en": "1200", "bn": "১২০০"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["1066"],
+      "correct_answers_bn": ["১০৬৬"]
+    }
+  ]
+}

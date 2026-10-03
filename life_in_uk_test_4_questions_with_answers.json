@@ -1,0 +1,383 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 4",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-4/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What was the last battle between Great Britain and France?",
+        "bn": "গ্রেট ব্রিটেন ও ফ্রান্সের মধ্যে সর্বশেষ যুদ্ধ কোনটি ছিল?"
+      },
+      "options": [
+        {"en": "The Battle of Trafalgar", "bn": "ট্রাফালগারের যুদ্ধ"},
+        {"en": "The Battle of Waterloo", "bn": "ওয়াটারলুর যুদ্ধ"},
+        {"en": "The Battle of Hastings", "bn": "হেস্টিংসের যুদ্ধ"},
+        {"en": "Battle of Agincourt", "bn": "আজিনকোর্টের যুদ্ধ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Battle of Waterloo"],
+      "correct_answers_bn": ["ওয়াটারলুর যুদ্ধ"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which flower is associated with Wales?",
+        "bn": "ওয়েলসের সাথে কোন ফুল যুক্ত?"
+      },
+      "options": [
+        {"en": "Daffodil", "bn": "ড্যাফোডিল"},
+        {"en": "Rose", "bn": "রোজ"},
+        {"en": "Shamrock", "bn": "শ্যামরক"},
+        {"en": "Thistle", "bn": "থিসল"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Daffodil"],
+      "correct_answers_bn": ["ড্যাফোডিল"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "During the reign of Charles II parts of London were destroyed, what was the cause of this destruction?",
+        "bn": "চার্লস দ্বিতীয়ের রাজত্বকালে লন্ডনের কিছু অংশ ধ্বংস হয়ে যায়, ধ্বংসের কারণ কী ছিল?"
+      },
+      "options": [
+        {"en": "A war", "bn": "একটি যুদ্ধ"},
+        {"en": "A flood", "bn": "একটি বন্যা"},
+        {"en": "A fire", "bn": "একটি অগ্নিকাণ্ড"},
+        {"en": "An earthquake", "bn": "একটি ভূমিকম্প"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["A fire"],
+      "correct_answers_bn": ["একটি অগ্নিকাণ্ড"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "How often are general elections held in the UK?",
+        "bn": "যুক্তরাজ্যে সাধারণ নির্বাচন কত বছর পর পর হয়?"
+      },
+      "options": [
+        {"en": "Every 3 years", "bn": "প্রতি ৩ বছর পর"},
+        {"en": "Every 4 years", "bn": "প্রতি ৪ বছর পর"},
+        {"en": "Every 5 years", "bn": "প্রতি ৫ বছর পর"},
+        {"en": "Every 10 years", "bn": "প্রতি ১০ বছর পর"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Every 5 years"],
+      "correct_answers_bn": ["প্রতি ৫ বছর পর"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Scotland has its own banknotes, which are valid everywhere in the UK.",
+        "bn": "স্কটল্যান্ডের নিজস্ব ব্যাংকনোট আছে, যা যুক্তরাজ্যের সর্বত্র বৈধ।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "What charity works to preserve important buildings, coastline and countryside in the UK?",
+        "bn": "যুক্তরাজ্যের গুরুত্বপূর্ণ ভবন, উপকূল এবং গ্রামাঞ্চল সংরক্ষণে কোন চ্যারিটি কাজ করে?"
+      },
+      "options": [
+        {"en": "Shelter", "bn": "শেল্টার"},
+        {"en": "Age UK", "bn": "এজ ইউকে"},
+        {"en": "Crisis", "bn": "ক্রাইসিস"},
+        {"en": "The National Trust", "bn": "দ্য ন্যাশনাল ট্রাস্ট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The National Trust"],
+      "correct_answers_bn": ["দ্য ন্যাশনাল ট্রাস্ট"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Great Britain refers only to England, Wales and Scotland.",
+        "bn": "গ্রেট ব্রিটেন শুধুমাত্র ইংল্যান্ড, ওয়েলস ও স্কটল্যান্ডকে বোঝায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Who was the tribal leader who fought against the Romans?",
+        "bn": "রোমানদের বিরুদ্ধে লড়াই করা উপজাতীয় নেত্রী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Cleopatra", "bn": "ক্লিওপেট্রা"},
+        {"en": "Claudia", "bn": "ক্লডিয়া"},
+        {"en": "Boudicca", "bn": "বাউডিকা"},
+        {"en": "St Augustine", "bn": "সেন্ট অগাস্টিন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Boudicca"],
+      "correct_answers_bn": ["বাউডিকা"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Who was voted the greatest Briton of all time in 2002?",
+        "bn": "২০০২ সালে সর্বকালের সেরা ব্রিটিশ হিসেবে কাকে ভোট দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "Isaac Newton", "bn": "আইজ্যাক নিউটন"},
+        {"en": "Winston Churchill", "bn": "উইনস্টন চার্চিল"},
+        {"en": "Alexander Fleming", "bn": "আলেকজান্ডার ফ্লেমিং"},
+        {"en": "Mo Farat", "bn": "মো ফারাত"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Winston Churchill"],
+      "correct_answers_bn": ["উইনস্টন চার্চিল"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which two houses form the UK Parliament?",
+        "bn": "যুক্তরাজ্যের পার্লামেন্ট কোন দুটি হাউস নিয়ে গঠিত?"
+      },
+      "options": [
+        {"en": "The House of Lords", "bn": "হাউস অফ লর্ডস"},
+        {"en": "House of Members", "bn": "হাউস অফ মেম্বার্স"},
+        {"en": "House of Commons", "bn": "হাউস অফ কমন্স"},
+        {"en": "House of Fraser", "bn": "হাউস অফ ফ্রেজার"}
+      ],
+      "correct_answers": [0, 2],
+      "correct_answers_en": ["The House of Lords", "House of Commons"],
+      "correct_answers_bn": ["হাউস অফ লর্ডস", "হাউস অফ কমন্স"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "When did women get the right to vote at the same age as men?",
+        "bn": "নারীরা পুরুষদের সমান বয়সে ভোটাধিকার কখন পেয়েছিল?"
+      },
+      "options": [
+        {"en": "1918", "bn": "১৯১৮"},
+        {"en": "1928", "bn": "১৯২৮"},
+        {"en": "1938", "bn": "১৯৩৮"},
+        {"en": "1948", "bn": "১৯৪৮"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["1928"],
+      "correct_answers_bn": ["১৯২৮"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Who is the head of the Church of England?",
+        "bn": "চার্চ অফ ইংল্যান্ডের প্রধান কে?"
+      },
+      "options": [
+        {"en": "The Prime Minister", "bn": "প্রধানমন্ত্রী"},
+        {"en": "The Archbishop of Canterbury", "bn": "ক্যান্টারবেরির আর্চবিশপ"},
+        {"en": "The Pope", "bn": "পোপ"},
+        {"en": "The monarch", "bn": "রাজা/রানি"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The monarch"],
+      "correct_answers_bn": ["রাজা/রানি"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What sort of event is the Grand National?",
+        "bn": "গ্র্যান্ড ন্যাশনাল কোন ধরনের ইভেন্ট?"
+      },
+      "options": [
+        {"en": "Rugby", "bn": "রাগবি"},
+        {"en": "Golf", "bn": "গল্ফ"},
+        {"en": "Horse Racing", "bn": "ঘোড়দৌড়"},
+        {"en": "Tennis", "bn": "টেনিস"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Horse Racing"],
+      "correct_answers_bn": ["ঘোড়দৌড়"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What type of literature are the Canterbury Tales?",
+        "bn": "ক্যান্টারবেরি টেলস কোন ধরনের সাহিত্য?"
+      },
+      "options": [
+        {"en": "Poems", "bn": "কবিতা"},
+        {"en": "Novels", "bn": "উপন্যাস"},
+        {"en": "Jokes", "bn": "রসিকতা"},
+        {"en": "Fables", "bn": "রূপকথা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Poems"],
+      "correct_answers_bn": ["কবিতা"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "When is Christmas Day?",
+        "bn": "ক্রিসমাস ডে কখন?"
+      },
+      "options": [
+        {"en": "24th of December", "bn": "২৪ ডিসেম্বর"},
+        {"en": "25th of December", "bn": "২৫ ডিসেম্বর"},
+        {"en": "26th of December", "bn": "২৬ ডিসেম্বর"},
+        {"en": "27th of December", "bn": "২৭ ডিসেম্বর"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["25th of December"],
+      "correct_answers_bn": ["২৫ ডিসেম্বর"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Who supported King Charles I during the Civil War?",
+        "bn": "গৃহযুদ্ধের সময় কে রাজা চার্লস প্রথমকে সমর্থন করেছিল?"
+      },
+      "options": [
+        {"en": "Roundheads", "bn": "রাউন্ডহেডস"},
+        {"en": "Suffragettes", "bn": "সাফ্রাজেটস"},
+        {"en": "Quakers", "bn": "কোয়েকার্স"},
+        {"en": "Cavaliers", "bn": "ক্যাভালিয়ার্স"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Cavaliers"],
+      "correct_answers_bn": ["ক্যাভালিয়ার্স"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What battle is commemorated in the Bayeux Tapestry?",
+        "bn": "বায়েউ ট্যাপেস্ট্রিতে কোন যুদ্ধের স্মরণ করা হয়?"
+      },
+      "options": [
+        {"en": "The Battle of Waterloo", "bn": "ওয়াটারলুর যুদ্ধ"},
+        {"en": "The Battle of Trafalgar", "bn": "ট্রাফালগারের যুদ্ধ"},
+        {"en": "The Battle of Hastings", "bn": "হেস্টিংসের যুদ্ধ"},
+        {"en": "The Battle of Britain", "bn": "ব্রিটেনের যুদ্ধ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Battle of Hastings"],
+      "correct_answers_bn": ["হেস্টিংসের যুদ্ধ"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Where was Anne Boleyn, the wife of Henry VIII, executed?",
+        "bn": "হেনরি অষ্টমের স্ত্রী অ্যান বোলেইনকে কোথায় মৃত্যুদণ্ড দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "Houses of the Parliament", "bn": "হাউস অফ পার্লামেন্ট"},
+        {"en": "Stonehenge", "bn": "স্টোনহেঞ্জ"},
+        {"en": "Tower of London", "bn": "টাওয়ার অফ লন্ডন"},
+        {"en": "Whitehall", "bn": "হোয়াইটহল"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Tower of London"],
+      "correct_answers_bn": ["টাওয়ার অফ লন্ডন"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Racial crime and smoking in public places are examples of:",
+        "bn": "জাতিগত অপরাধ এবং জনসমাগমস্থলে ধূমপান কোন ধরনের অপরাধের উদাহরণ?"
+      },
+      "options": [
+        {"en": "Civil offences", "bn": "সিভিল অপরাধ"},
+        {"en": "Criminal offences", "bn": "ক্রিমিনাল অপরাধ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Criminal offences"],
+      "correct_answers_bn": ["ক্রিমিনাল অপরাধ"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "What type of character was played by Charlie Chaplin?",
+        "bn": "চার্লি চ্যাপলিন কোন ধরনের চরিত্রে অভিনয় করতেন?"
+      },
+      "options": [
+        {"en": "A superhero", "bn": "একজন সুপারহিরো"},
+        {"en": "A tramp", "bn": "একজন ভবঘুরে"},
+        {"en": "A scientific genius", "bn": "একজন বৈজ্ঞানিক প্রতিভা"},
+        {"en": "A bandit", "bn": "একজন ডাকাত"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["A tramp"],
+      "correct_answers_bn": ["একজন ভবঘুরে"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "You have to be at least 21 years old to stand as MP.",
+        "bn": "এমপি হিসেবে দাঁড়াতে হলে কমপক্ষে ২১ বছর বয়স হতে হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Who developed the radar?",
+        "bn": "রাডার কে উদ্ভাবন করেছিলেন?"
+      },
+      "options": [
+        {"en": "John Logie Baird", "bn": "জন লজি বেয়ার্ড"},
+        {"en": "Sir Frank Whittle", "bn": "স্যার ফ্রাঙ্ক হুইটল"},
+        {"en": "Sir Christopher Cockrell", "bn": "স্যার ক্রিস্টোফার ককরেল"},
+        {"en": "Sir Robert Watson-Watt", "bn": "স্যার রবার্ট ওয়াটসন-ওয়াট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Sir Robert Watson-Watt"],
+      "correct_answers_bn": ["স্যার রবার্ট ওয়াটসন-ওয়াট"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Where is the official home of the Prime Minister?",
+        "bn": "প্রধানমন্ত্রীর সরকারি বাসভবন কোথায়?"
+      },
+      "options": [
+        {"en": "18 Oxford Street", "bn": "১৮ অক্সফোর্ড স্ট্রিট"},
+        {"en": "Buckingham Palace", "bn": "বাকিংহাম প্যালেস"},
+        {"en": "Windsor Castle", "bn": "উইন্ডসর ক্যাসল"},
+        {"en": "10 Downing Street", "bn": "১০ ডাউনিং স্ট্রিট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["10 Downing Street"],
+      "correct_answers_bn": ["১০ ডাউনিং স্ট্রিট"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "By law, which TWO types of media have to give a balanced coverage of all political parties and equal time to rival viewpoints before an election?",
+        "bn": "আইন অনুসারে, নির্বাচনের আগে কোন দুটি মিডিয়াকে সব রাজনৈতিক দলের ভারসাম্যপূর্ণ কভারেজ এবং প্রতিদ্বন্দ্বী মতামতের সমান সময় দিতে হয়?"
+      },
+      "options": [
+        {"en": "Television", "bn": "টেলিভিশন"},
+        {"en": "Internet", "bn": "ইন্টারনেট"},
+        {"en": "Newspapers", "bn": "সংবাদপত্র"},
+        {"en": "Radio", "bn": "রেডিও"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["Television", "Radio"],
+      "correct_answers_bn": ["টেলিভিশন", "রেডিও"]
+    }
+  ]
+}

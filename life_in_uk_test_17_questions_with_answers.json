@@ -1,0 +1,387 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 17",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/exam-17/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which of the following is not a constitutional institution?",
+        "bn": "নিচের কোনটি সাংবিধানিক প্রতিষ্ঠান নয়?"
+      },
+      "options": [
+        {"en": "The Parliament", "bn": "পার্লামেন্ট"},
+        {"en": "The cabinet", "bn": "ক্যাবিনেট"},
+        {"en": "The armed forces", "bn": "সশস্ত্র বাহিনী"},
+        {"en": "The police", "bn": "পুলিশ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The armed forces"],
+      "correct_answers_bn": ["সশস্ত্র বাহিনী"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "What food shortage caused the famine in Ireland?",
+        "bn": "আয়ারল্যান্ডে দুর্ভিক্ষের কারণ কোন খাবারের অভাব ছিল?"
+      },
+      "options": [
+        {"en": "Corn", "bn": "ভুট্টা"},
+        {"en": "Potato", "bn": "আলু"},
+        {"en": "Wheat", "bn": "গম"},
+        {"en": "Oats", "bn": "ওটস"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Potato"],
+      "correct_answers_bn": ["আলু"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "The leader of the opposition appoints senior opposition MPs. They form a group whose role is to challenge the government and put forward alternative policies. What are they called?",
+        "bn": "বিরোধী দলের নেতা সিনিয়র বিরোধী এমপিদের নিয়োগ দেন। তারা একটি গ্রুপ গঠন করেন যাদের ভূমিকা সরকারকে চ্যালেঞ্জ করা এবং বিকল্প নীতি উপস্থাপন করা। তাদের কী বলা হয়?"
+      },
+      "options": [
+        {"en": "Shadow Cabinet", "bn": "শ্যাডো ক্যাবিনেট"},
+        {"en": "Lobby groups", "bn": "লবি গ্রুপ"},
+        {"en": "Civil servants", "bn": "সিভিল সার্ভেন্ট"},
+        {"en": "Support peers", "bn": "সাপোর্ট পিয়ার্স"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Shadow Cabinet"],
+      "correct_answers_bn": ["শ্যাডো ক্যাবিনেট"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which of the following are TWO responsibilities of the MPs?",
+        "bn": "নিচের কোন দুটি এমপিদের দায়িত্ব?"
+      },
+      "options": [
+        {"en": "Protect life and property", "bn": "জীবন ও সম্পত্তি রক্ষা করা"},
+        {"en": "Represent everyone in their constituency", "bn": "তাদের নির্বাচনী এলাকার সবাইকে প্রতিনিধিত্ব করা"},
+        {"en": "Help to create new laws", "bn": "নতুন আইন তৈরিতে সাহায্য করা"},
+        {"en": "Scrutinise and comment on what the monarch is doing", "bn": "রাজা/রানি কী করছেন তা পর্যবেক্ষণ ও মন্তব্য করা"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["Represent everyone in their constituency", "Help to create new laws"],
+      "correct_answers_bn": ["তাদের নির্বাচনী এলাকার সবাইকে প্রতিনিধিত্ব করা", "নতুন আইন তৈরিতে সাহায্য করা"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Who was the longest serving PM in the 20th century?",
+        "bn": "২০শ শতাব্দীর সবচেয়ে দীর্ঘকালীন প্রধানমন্ত্রী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "John Major", "bn": "জন মেজর"},
+        {"en": "Sir Alec Douglas-Home", "bn": "স্যার অ্যালেক ডগলাস-হোম"},
+        {"en": "Robert Walpole", "bn": "রবার্ট ওয়ালপোল"},
+        {"en": "Margaret Thatcher", "bn": "মার্গারেট থ্যাচার"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Margaret Thatcher"],
+      "correct_answers_bn": ["মার্গারেট থ্যাচার"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "What name is given to the territories which are linked to the UK but not part of it?",
+        "bn": "যুক্তরাজ্যের সাথে যুক্ত কিন্তু অংশ নয় এমন অঞ্চলগুলোকে কী নাম দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "Crown Dependencies", "bn": "ক্রাউন ডিপেন্ডেন্সিজ"},
+        {"en": "Offshore Territories", "bn": "অফশোর টেরিটরিজ"},
+        {"en": "Crown Independencies", "bn": "ক্রাউন ইন্ডিপেন্ডেন্সিজ"},
+        {"en": "British Colonies", "bn": "ব্রিটিশ কলোনিজ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Crown Dependencies"],
+      "correct_answers_bn": ["ক্রাউন ডিপেন্ডেন্সিজ"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "What area did David Hume contribute to during the Enlightenment?",
+        "bn": "এনলাইটেনমেন্টের সময় ডেভিড হিউম কোন ক্ষেত্রে অবদান রেখেছিলেন?"
+      },
+      "options": [
+        {"en": "Architecture", "bn": "স্থাপত্য"},
+        {"en": "Poetry", "bn": "কবিতা"},
+        {"en": "Cinema", "bn": "সিনেমা"},
+        {"en": "Philosophy", "bn": "দর্শন"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Philosophy"],
+      "correct_answers_bn": ["দর্শন"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What proportion of the population died as a result of the Black Death in England?",
+        "bn": "ব্ল্যাক ডেথের ফলে ইংল্যান্ডে জনসংখ্যার কত অংশ মারা যায়?"
+      },
+      "options": [
+        {"en": "Half of the population", "bn": "জনসংখ্যার অর্ধেক"},
+        {"en": "One third of the population", "bn": "জনসংখ্যার এক তৃতীয়াংশ"},
+        {"en": "55% of the population", "bn": "জনসংখ্যার ৫৫%"},
+        {"en": "One quarter of the population", "bn": "জনসংখ্যার এক চতুর্থাংশ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["One third of the population"],
+      "correct_answers_bn": ["জনসংখ্যার এক তৃতীয়াংশ"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "What happened to Charles I after he was in prison?",
+        "bn": "চার্লস প্রথম কারাগারে থাকার পর কী হয়েছিল?"
+      },
+      "options": [
+        {"en": "He moved to Spain", "bn": "তিনি স্পেনে চলে যান"},
+        {"en": "He became a priest", "bn": "তিনি একজন পাদ্রি হয়েছিলেন"},
+        {"en": "He escaped to France", "bn": "তিনি ফ্রান্সে পালিয়ে যান"},
+        {"en": "He was executed", "bn": "তাকে মৃত্যুদণ্ড দেওয়া হয়"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["He was executed"],
+      "correct_answers_bn": ["তাকে মৃত্যুদণ্ড দেওয়া হয়"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What are TWO responsibilities of the monarch?",
+        "bn": "রাজা/রানির দুটি দায়িত্ব কী কী?"
+      },
+      "options": [
+        {"en": "To appoint the members of the cabinet", "bn": "ক্যাবিনেটের সদস্যদের নিয়োগ দেওয়া"},
+        {"en": "To advise, warn and encourage the Prime Minister‘s decisions on government policies", "bn": "প্রধানমন্ত্রীর সরকারি নীতির সিদ্ধান্তে পরামর্শ, সতর্ক ও উৎসাহ দেওয়া"},
+        {"en": "To debate important national issues", "bn": "গুরুত্বপূর্ণ জাতীয় বিষয় নিয়ে বিতর্ক করা"},
+        {"en": "To appoint the government", "bn": "সরকার গঠন করা"}
+      ],
+      "correct_answers": [1, 3],
+      "correct_answers_en": ["To advise, warn and encourage the Prime Minister‘s decisions on government policies", "To appoint the government"],
+      "correct_answers_bn": ["প্রধানমন্ত্রীর সরকারি নীতির সিদ্ধান্তে পরামর্শ, সতর্ক ও উৎসাহ দেওয়া", "সরকার গঠন করা"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "What kind of disaster was the Black Death?",
+        "bn": "ব্ল্যাক ডেথ কোন ধরনের দুর্যোগ ছিল?"
+      },
+      "options": [
+        {"en": "A plague", "bn": "একটি মহামারি"},
+        {"en": "An earthquake", "bn": "একটি ভূমিকম্প"},
+        {"en": "A famine", "bn": "একটি দুর্ভিক্ষ"},
+        {"en": "A civil war", "bn": "একটি গৃহযুদ্ধ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["A plague"],
+      "correct_answers_bn": ["একটি মহামারি"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "What country was in conflict with the UK for trading reasons during the 18th century?",
+        "bn": "১৮শ শতাব্দীতে বাণিজ্যের কারণে যুক্তরাজ্যের সাথে কোন দেশের সংঘাত ছিল?"
+      },
+      "options": [
+        {"en": "Andorra", "bn": "অ্যান্ডোরা"},
+        {"en": "Germany", "bn": "জার্মানি"},
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Luxembourg", "bn": "লাক্সেমবার্গ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["France"],
+      "correct_answers_bn": ["ফ্রান্স"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "The Speaker is an MP, he or she represents a constituency and deals with the constituents.",
+        "bn": "স্পিকার একজন এমপি, তিনি একটি নির্বাচনী এলাকার প্রতিনিধিত্ব করেন এবং ভোটারদের সাথে কাজ করেন।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Where is Skara Brae, the best preserved prehistoric village in northern Europe, located?",
+        "bn": "উত্তর ইউরোপের সবচেয়ে ভালোভাবে সংরক্ষিত প্রাগৈতিহাসিক গ্রাম স্কারা ব্রে কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Scotland"],
+      "correct_answers_bn": ["স্কটল্যান্ড"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which of the following plays was written by William Shakespeare?",
+        "bn": "নিচের কোন নাটকটি উইলিয়াম শেক্সপিয়ার লিখেছিলেন?"
+      },
+      "options": [
+        {"en": "MacBeth", "bn": "ম্যাকবেথ"},
+        {"en": "The Canterbury Tales", "bn": "দ্য ক্যান্টারবেরি টেলস"},
+        {"en": "Doctor Faustus", "bn": "ডক্টর ফাউস্টাস"},
+        {"en": "The Mikado", "bn": "দ্য মিকাডো"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["MacBeth"],
+      "correct_answers_bn": ["ম্যাকবেথ"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Where was William the Conqueror from?",
+        "bn": "উইলিয়াম দ্য কনকারর কোথা থেকে এসেছিলেন?"
+      },
+      "options": [
+        {"en": "Italy", "bn": "ইতালি"},
+        {"en": "Portugal", "bn": "পর্তুগাল"},
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Ireland", "bn": "আয়ারল্যান্ড"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["France"],
+      "correct_answers_bn": ["ফ্রান্স"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "How do you call the settlers from the Netherlands who went to war with the British in South Africa?",
+        "bn": "দক্ষিণ আফ্রিকায় ব্রিটিশদের সাথে যুদ্ধ করা নেদারল্যান্ডসের বসতি স্থাপনকারীদের কী বলা হয়?"
+      },
+      "options": [
+        {"en": "Blacksmiths", "bn": "ব্ল্যাকস্মিথস"},
+        {"en": "Boers", "bn": "বোয়ার্স"},
+        {"en": "Conquistadors", "bn": "কনকুইস্টাডরস"},
+        {"en": "Beefeaters", "bn": "বিফইটার্স"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Boers"],
+      "correct_answers_bn": ["বোয়ার্স"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "In Northern Ireland, up to three specially trained magistrates or a District Judge are required for Youth Court cases.",
+        "bn": "উত্তর আয়ারল্যান্ডে যুব আদালতের মামলার জন্য তিনজন বিশেষভাবে প্রশিক্ষিত ম্যাজিস্ট্রেট বা একজন ডিস্ট্রিক্ট জজ প্রয়োজন।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What made Roger Bannister famous?",
+        "bn": "রজার ব্যানিস্টার কীসের জন্য বিখ্যাত হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "He was the first man in the world to run a mile in under four minutes.", "bn": "তিনি বিশ্বে প্রথম ব্যক্তি যিনি চার মিনিটের কম সময়ে এক মাইল দৌড়েছিলেন।"},
+        {"en": "He won gold medals for ice dancing at the Olympic Games in 1984.", "bn": "তিনি ১৯৮৪ অলিম্পিক গেমসে আইস ড্যান্সিংয়ে সোনা জিতেছিলেন।"},
+        {"en": "He won gold medals in rowing in five consecutive Olympic Games.", "bn": "তিনি পাঁচটি পরপর অলিম্পিক গেমসে রোয়িংয়ে সোনা জিতেছিলেন।"},
+        {"en": "He was the first British to climb Mount Everest.", "bn": "তিনি এভারেস্ট পর্বত আরোহণ করা প্রথম ব্রিটিশ।"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["He was the first man in the world to run a mile in under four minutes."],
+      "correct_answers_bn": ["তিনি বিশ্বে প্রথম ব্যক্তি যিনি চার মিনিটের কম সময়ে এক মাইল দৌড়েছিলেন।"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Who was invited to invade and rule England in 1688?",
+        "bn": "১৬৮৮ সালে ইংল্যান্ড আক্রমণ ও শাসন করার জন্য কাকে আমন্ত্রণ জানানো হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Duke of Medina Sidonia", "bn": "দ্য ডিউক অফ মেডিনা সিডোনিয়া"},
+        {"en": "Napoleon", "bn": "নেপোলিয়ন"},
+        {"en": "King Philip II of Spain", "bn": "স্পেনের রাজা ফিলিপ দ্বিতীয়"},
+        {"en": "William of Orange", "bn": "উইলিয়াম অফ অরেঞ্জ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["William of Orange"],
+      "correct_answers_bn": ["উইলিয়াম অফ অরেঞ্জ"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Who was defeated at the Battle of the Boyne?",
+        "bn": "বয়েনের যুদ্ধে কে পরাজিত হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "James I", "bn": "জেমস প্রথম"},
+        {"en": "James II", "bn": "জেমস দ্বিতীয়"},
+        {"en": "Richard I", "bn": "রিচার্ড প্রথম"},
+        {"en": "Richard II", "bn": "রিচার্ড দ্বিতীয়"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["James II"],
+      "correct_answers_bn": ["জেমস দ্বিতীয়"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "What did the Factories Act of 1847 introduce?",
+        "bn": "১৮৪৭ সালের ফ্যাক্টরিজ অ্যাক্ট কী প্রবর্তন করেছিল?"
+      },
+      "options": [
+        {"en": "It limited the number of hours that everybody could work to 10 hours per day.", "bn": "এটি সবার জন্য দৈনিক ১০ ঘণ্টা কাজের সীমা নির্ধারণ করেছিল।"},
+        {"en": "It increased the number of hours that women and children could work to 12 hours per day.", "bn": "এটি নারী ও শিশুদের জন্য দৈনিক ১২ ঘণ্টা কাজের সীমা বাড়িয়েছিল।"},
+        {"en": "It increased the number of hours that men could work to 12 hours per day.", "bn": "এটি পুরুষদের জন্য দৈনিক ১২ ঘণ্টা কাজের সীমা বাড়িয়েছিল।"},
+        {"en": "It limited the number of hours that women and children could work to 10 hours per day.", "bn": "এটি নারী ও শিশুদের জন্য দৈনিক ১০ ঘণ্টা কাজের সীমা নির্ধারণ করেছিল।"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["It limited the number of hours that women and children could work to 10 hours per day."],
+      "correct_answers_bn": ["এটি নারী ও শিশুদের জন্য দৈনিক ১০ ঘণ্টা কাজের সীমা নির্ধারণ করেছিল।"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What name is given to the group of MPs from the opposition?",
+        "bn": "বিরোধী দলের এমপিদের গ্রুপকে কী নাম দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "Roundheads", "bn": "রাউন্ডহেডস"},
+        {"en": "Cavaliers", "bn": "ক্যাভালিয়ার্স"},
+        {"en": "Shadow Cabinet", "bn": "শ্যাডো ক্যাবিনেট"},
+        {"en": "Quakers", "bn": "কোয়েকার্স"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Shadow Cabinet"],
+      "correct_answers_bn": ["শ্যাডো ক্যাবিনেট"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "In which of the following matters can the Scottish Parliament legislate?",
+        "bn": "নিচের কোন বিষয়ে স্কটিশ পার্লামেন্ট আইন প্রণয়ন করতে পারে?"
+      },
+      "options": [
+        {"en": "Education", "bn": "শিক্ষা"},
+        {"en": "Immigration", "bn": "অভিবাসন"},
+        {"en": "Security", "bn": "নিরাপত্তা"},
+        {"en": "Defence", "bn": "প্রতিরক্ষা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Education"],
+      "correct_answers_bn": ["শিক্ষা"]
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 13",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-13/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When is St George’s day?",
+        "bn": "সেন্ট জর্জস ডে কখন?"
+      },
+      "options": [
+        {"en": "17th March", "bn": "১৭ মার্চ"},
+        {"en": "30th November", "bn": "৩০ নভেম্বর"},
+        {"en": "1st March", "bn": "১ মার্চ"},
+        {"en": "23rd April", "bn": "২৩ এপ্রিল"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["23rd April"],
+      "correct_answers_bn": ["২৩ এপ্রিল"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Which is the largest National Park in England?",
+        "bn": "ইংল্যান্ডের সবচেয়ে বড় জাতীয় উদ্যান কোনটি?"
+      },
+      "options": [
+        {"en": "Snowdonia", "bn": "স্নোডোনিয়া"},
+        {"en": "Loch Lomond and the Trossachs National Park", "bn": "লোচ লোমন্ড অ্যান্ড দ্য ট্রস্যাকস ন্যাশনাল পার্ক"},
+        {"en": "The Giant’s Causeway", "bn": "দ্য জায়ান্টস কজওয়ে"},
+        {"en": "The Lake District", "bn": "দ্য লেক ডিস্ট্রিক্ট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Lake District"],
+      "correct_answers_bn": ["দ্য লেক ডিস্ট্রিক্ট"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Boudicca, was a tribal leader who fought against which foreign invaders?",
+        "bn": "বাউডিকা কোন বিদেশি আক্রমণকারীদের বিরুদ্ধে লড়াই করা একজন উপজাতীয় নেত্রী ছিলেন?"
+      },
+      "options": [
+        {"en": "The Normands", "bn": "নরম্যানরা"},
+        {"en": "The Vikings", "bn": "ভাইকিংরা"},
+        {"en": "The Anglo-Saxons", "bn": "অ্যাংলো-স্যাক্সনরা"},
+        {"en": "The Romans", "bn": "রোমানরা"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Romans"],
+      "correct_answers_bn": ["রোমানরা"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which of the following poems is about a group of people going on a pilgrimage?",
+        "bn": "নিচের কোন কবিতা তীর্থযাত্রায় যাওয়া একদল লোক সম্পর্কে?"
+      },
+      "options": [
+        {"en": "The Canterbury Tales", "bn": "দ্য ক্যান্টারবেরি টেলস"},
+        {"en": "All the world’s a stage", "bn": "অল দ্য ওয়ার্ল্ডস এ স্টেজ"},
+        {"en": "A Midsummer Night’s dream", "bn": "এ মিডসামার নাইটস ড্রিম"},
+        {"en": "Great Expectations", "bn": "গ্রেট এক্সপেকটেশনস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Canterbury Tales"],
+      "correct_answers_bn": ["দ্য ক্যান্টারবেরি টেলস"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "How are public holidays called?",
+        "bn": "সরকারি ছুটির দিনগুলোকে কী বলা হয়?"
+      },
+      "options": [
+        {"en": "Bank Holidays", "bn": "ব্যাংক হলিডেজ"},
+        {"en": "Workers Holidays", "bn": "ওয়ার্কার্স হলিডেজ"},
+        {"en": "Business Holidays", "bn": "বিজনেস হলিডেজ"},
+        {"en": "Summer Holidays", "bn": "সামার হলিডেজ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Bank Holidays"],
+      "correct_answers_bn": ["ব্যাংক হলিডেজ"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "How did Charles II manage to escape to Europe after his defeat in the Civil War?",
+        "bn": "গৃহযুদ্ধে পরাজয়ের পর চার্লস দ্বিতীয় কীভাবে ইউরোপে পালাতে সক্ষম হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "Hiding in a farmer’s house", "bn": "একজন কৃষকের বাড়িতে লুকিয়ে"},
+        {"en": "Riding a horse", "bn": "ঘোড়ায় চড়ে"},
+        {"en": "Hiding in an oak tree", "bn": "একটি ওক গাছে লুকিয়ে"},
+        {"en": "Swimming", "bn": "সাঁতার কেটে"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Hiding in an oak tree"],
+      "correct_answers_bn": ["একটি ওক গাছে লুকিয়ে"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Who defeated the Vikings?",
+        "bn": "কারা ভাইকিংদের পরাজিত করেছিল?"
+      },
+      "options": [
+        {"en": "Harold", "bn": "হ্যারল্ড"},
+        {"en": "Edward I of England", "bn": "ইংল্যান্ডের এডওয়ার্ড প্রথম"},
+        {"en": "King Arthur", "bn": "রাজা আর্থার"},
+        {"en": "King Alfred the Great", "bn": "রাজা আলফ্রেড দ্য গ্রেট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["King Alfred the Great"],
+      "correct_answers_bn": ["রাজা আলফ্রেড দ্য গ্রেট"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Who was William Caxton?",
+        "bn": "উইলিয়াম ক্যাক্সটন কে ছিলেন?"
+      },
+      "options": [
+        {"en": "A poet who wrote about a group of people going to Canterbury on a pilgrimage", "bn": "তীর্থযাত্রায় ক্যান্টারবেরিতে যাওয়া একদল লোক নিয়ে লেখা একজন কবি"},
+        {"en": "The first person in England to print books using a printing press", "bn": "ইংল্যান্ডে প্রিন্টিং প্রেস ব্যবহার করে বই ছাপানোর প্রথম ব্যক্তি"},
+        {"en": "The first person to sail singlehanded around the world", "bn": "একা বিশ্ব ভ্রমণ করা প্রথম ব্যক্তি"},
+        {"en": "The inventor of the television", "bn": "টেলিভিশনের উদ্ভাবক"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The first person in England to print books using a printing press"],
+      "correct_answers_bn": ["ইংল্যান্ডে প্রিন্টিং প্রেস ব্যবহার করে বই ছাপানোর প্রথম ব্যক্তি"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Where do Beefeaters serve as tour guides?",
+        "bn": "বিফইটার্স কোথায় ট্যুর গাইড হিসেবে কাজ করে?"
+      },
+      "options": [
+        {"en": "The Houses of the Parliament", "bn": "হাউস অফ পার্লামেন্ট"},
+        {"en": "The Tower of London", "bn": "টাওয়ার অফ লন্ডন"},
+        {"en": "The O2", "bn": "দ্য ও২"},
+        {"en": "The Big Ben", "bn": "বিগ বেন"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Tower of London"],
+      "correct_answers_bn": ["টাওয়ার অফ লন্ডন"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "During the rebellion of the clans in Scotland, Bonnie Prince Charlie was supported by clansmen from which Scottish region?",
+        "bn": "স্কটল্যান্ডে ক্ল্যানদের বিদ্রোহের সময় বনি প্রিন্স চার্লি কোন স্কটিশ অঞ্চলের ক্ল্যানসম্যানদের সমর্থন পেয়েছিলেন?"
+      },
+      "options": [
+        {"en": "Glasgow", "bn": "গ্লাসগো"},
+        {"en": "Galloway", "bn": "গ্যালোওয়ে"},
+        {"en": "The Highlands", "bn": "দ্য হাইল্যান্ডস"},
+        {"en": "Edinburgh", "bn": "এডিনবার্গ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Highlands"],
+      "correct_answers_bn": ["দ্য হাইল্যান্ডস"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "What religion did Elizabeth I follow?",
+        "bn": "এলিজাবেথ প্রথম কোন ধর্ম অনুসরণ করতেন?"
+      },
+      "options": [
+        {"en": "She was a Protestant", "bn": "তিনি ছিলেন প্রোটেস্ট্যান্ট"},
+        {"en": "She was a Catholic", "bn": "তিনি ছিলেন ক্যাথলিক"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["She was a Protestant"],
+      "correct_answers_bn": ["তিনি ছিলেন প্রোটেস্ট্যান্ট"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Who became famous for his tramp character in silent movies?",
+        "bn": "নীরব চলচ্চিত্রে তার ভবঘুরে চরিত্রের জন্য কে বিখ্যাত হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "Sir Rex Harrison", "bn": "স্যার রেক্স হ্যারিসন"},
+        {"en": "David Niven", "bn": "ডেভিড নিভেন"},
+        {"en": "Richard Burton", "bn": "রিচার্ড বার্টন"},
+        {"en": "Charlie Chaplin", "bn": "চার্লি চ্যাপলিন"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Charlie Chaplin"],
+      "correct_answers_bn": ["চার্লি চ্যাপলিন"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Which armed force was used in the Battle of Britain?",
+        "bn": "ব্রিটেনের যুদ্ধে কোন সশস্ত্র বাহিনী ব্যবহৃত হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Royal Navy", "bn": "দ্য রয়্যাল নেভি"},
+        {"en": "The Police Force", "bn": "দ্য পুলিশ ফোর্স"},
+        {"en": "The Naval Service", "bn": "দ্য নেভাল সার্ভিস"},
+        {"en": "The Royal Air Force", "bn": "দ্য রয়্যাল এয়ার ফোর্স"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Royal Air Force"],
+      "correct_answers_bn": ["দ্য রয়্যাল এয়ার ফোর্স"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "In the UK, you have to be 21 years old to be able to vote in a general election.",
+        "bn": "যুক্তরাজ্যে সাধারণ নির্বাচনে ভোট দিতে হলে ২১ বছর বয়স হতে হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which of the following poets was inspired by nature?",
+        "bn": "নিচের কোন কবি প্রকৃতি দ্বারা অনুপ্রাণিত হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "John Masefield", "bn": "জন মেসফিল্ড"},
+        {"en": "Wilfred Owen", "bn": "উইলফ্রেড ওয়েন"},
+        {"en": "Siegfried Sassoon", "bn": "সিগফ্রিড সাসুন"},
+        {"en": "William Wordsworth", "bn": "উইলিয়াম ওয়ার্ডসওয়ার্থ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["William Wordsworth"],
+      "correct_answers_bn": ["উইলিয়াম ওয়ার্ডসওয়ার্থ"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Against which country did Britain fight at the Battle of Waterloo?",
+        "bn": "ওয়াটারলুর যুদ্ধে ব্রিটেন কোন দেশের বিরুদ্ধে লড়াই করেছিল?"
+      },
+      "options": [
+        {"en": "Germany", "bn": "জার্মানি"},
+        {"en": "Italy", "bn": "ইতালি"},
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Spain", "bn": "স্পেন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["France"],
+      "correct_answers_bn": ["ফ্রান্স"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Who was William Wilberforce?",
+        "bn": "উইলিয়াম উইলবারফোর্স কে ছিলেন?"
+      },
+      "options": [
+        {"en": "A poet", "bn": "একজন কবি"},
+        {"en": "A sportsman", "bn": "একজন খেলোয়াড়"},
+        {"en": "A politician", "bn": "একজন রাজনীতিবিদ"},
+        {"en": "A musician", "bn": "একজন সংগীতশিল্পী"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["A politician"],
+      "correct_answers_bn": ["একজন রাজনীতিবিদ"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Who is the spiritual leader of the Church of England?",
+        "bn": "চার্চ অফ ইংল্যান্ডের আধ্যাত্মিক নেতা কে?"
+      },
+      "options": [
+        {"en": "The Archbishop of Canterbury", "bn": "ক্যান্টারবেরির আর্চবিশপ"},
+        {"en": "The Archbishop of London", "bn": "লন্ডনের আর্চবিশপ"},
+        {"en": "The Archbishop of Birmingham", "bn": "বার্মিংহামের আর্চবিশপ"},
+        {"en": "The Archbishop of Manchester", "bn": "ম্যানচেস্টারের আর্চবিশপ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Archbishop of Canterbury"],
+      "correct_answers_bn": ["ক্যান্টারবেরির আর্চবিশপ"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "James I was King of which country before becoming King of England?",
+        "bn": "জেমস প্রথম ইংল্যান্ডের রাজা হওয়ার আগে কোন দেশের রাজা ছিলেন?"
+      },
+      "options": [
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "Ireland", "bn": "আয়ারল্যান্ড"},
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Scotland"],
+      "correct_answers_bn": ["স্কটল্যান্ড"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Which of the following statements is correct?",
+        "bn": "নিচের কোন বিবৃতিটি সঠিক?"
+      },
+      "options": [
+        {"en": "Most shops in the UK open seven days a week.", "bn": "যুক্তরাজ্যের বেশিরভাগ দোকান সপ্তাহে সাত দিন খোলা থাকে।"},
+        {"en": "All shops in the UK close on Sundays and bank holidays.", "bn": "যুক্তরাজ্যের সব দোকান রবিবার ও ব্যাংক হলিডেতে বন্ধ থাকে।"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Most shops in the UK open seven days a week."],
+      "correct_answers_bn": ["যুক্তরাজ্যের বেশিরভাগ দোকান সপ্তাহে সাত দিন খোলা থাকে।"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Which country sent a fleet of ships to England in 1588?",
+        "bn": "১৫৮৮ সালে কোন দেশ ইংল্যান্ডে একটি নৌবহর পাঠিয়েছিল?"
+      },
+      "options": [
+        {"en": "France", "bn": "ফ্রান্স"},
+        {"en": "Germany", "bn": "জার্মানি"},
+        {"en": "Spain", "bn": "স্পেন"},
+        {"en": "Italy", "bn": "ইতালি"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Spain"],
+      "correct_answers_bn": ["স্পেন"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Where is the National Horseracing Museum located?",
+        "bn": "ন্যাশনাল হর্সরেসিং মিউজিয়াম কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Edinburgh, Scotland", "bn": "এডিনবার্গ, স্কটল্যান্ড"},
+        {"en": "Newmarket, Suffolk", "bn": "নিউমার্কেট, সাফোক"},
+        {"en": "St Andrews, Scotland", "bn": "সেন্ট অ্যান্ড্রুস, স্কটল্যান্ড"},
+        {"en": "Aintree near Liverpool", "bn": "লিভারপুলের কাছে আইনট্রি"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Newmarket, Suffolk"],
+      "correct_answers_bn": ["নিউমার্কেট, সাফোক"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Which of the following castles is located in Scotland?",
+        "bn": "নিচের কোন দুর্গ স্কটল্যান্ডে অবস্থিত?"
+      },
+      "options": [
+        {"en": "Crathes Castle", "bn": "ক্রেথেস ক্যাসল"},
+        {"en": "Caernarfon Castle", "bn": "কারনার্ফন ক্যাসল"},
+        {"en": "Bodiam Castle", "bn": "বোডিয়াম ক্যাসল"},
+        {"en": "Powis Castle", "bn": "পাওইস ক্যাসল"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Crathes Castle"],
+      "correct_answers_bn": ["ক্রেথেস ক্যাসল"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Who was a famous Art Deco ceramic designer?",
+        "bn": "একজন বিখ্যাত আর্ট ডেকো সিরামিক ডিজাইনার কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Alexander McQueen", "bn": "আলেকজান্ডার ম্যাককুইন"},
+        {"en": "Thomas Chippendale", "bn": "টমাস চিপেনডেল"},
+        {"en": "Clarice Cliff", "bn": "ক্ল্যারিস ক্লিফ"},
+        {"en": "Mary Quant", "bn": "মেরি কোয়ান্ট"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Clarice Cliff"],
+      "correct_answers_bn": ["ক্ল্যারিস ক্লিফ"]
+    }
+  ]
+}

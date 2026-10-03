@@ -1,0 +1,385 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 6",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-6/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "As a British citizen what are your responsibilities (choose two answers)?",
+        "bn": "ব্রিটিশ নাগরিক হিসেবে আপনার দায়িত্ব কী কী? (দুটি উত্তর বেছে নিন)"
+      },
+      "options": [
+        {"en": "To respect and obey the law", "bn": "আইন মেনে চলা এবং সম্মান করা"},
+        {"en": "To walk your dog only during the day", "bn": "শুধুমাত্র দিনের বেলায় কুকুর হাঁটানো"},
+        {"en": "To go to church on Sunday", "bn": "রবিবার গির্জায় যাওয়া"},
+        {"en": "To look after yourself and your family", "bn": "নিজের এবং পরিবারের যত্ন নেওয়া"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["To respect and obey the law", "To look after yourself and your family"],
+      "correct_answers_bn": ["আইন মেনে চলা এবং সম্মান করা", "নিজের এবং পরিবারের যত্ন নেওয়া"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Who made the first coins to be minted in Britain?",
+        "bn": "ব্রিটেনে প্রথম মুদ্রা তৈরি করেছিল কারা?"
+      },
+      "options": [
+        {"en": "The people of the Stone Age", "bn": "প্রস্তর যুগের মানুষ"},
+        {"en": "The Anglo-saxons", "bn": "অ্যাংলো-স্যাক্সনরা"},
+        {"en": "The people of the Iron Age", "bn": "লৌহ যুগের মানুষ"},
+        {"en": "The Romans", "bn": "রোমানরা"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The people of the Iron Age"],
+      "correct_answers_bn": ["লৌহ যুগের মানুষ"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "Who built the Tower of London?",
+        "bn": "টাওয়ার অফ লন্ডন কে নির্মাণ করেছিলেন?"
+      },
+      "options": [
+        {"en": "William the Conqueror", "bn": "উইলিয়াম দ্য কনকারর"},
+        {"en": "Queen Victoria", "bn": "রানি ভিক্টোরিয়া"},
+        {"en": "Queen Elizabeth I", "bn": "রানি এলিজাবেথ প্রথম"},
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["William the Conqueror"],
+      "correct_answers_bn": ["উইলিয়াম দ্য কনকারর"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "There are 15 national parks in England, Wales and Scotland. What are national parks?",
+        "bn": "ইংল্যান্ড, ওয়েলস ও স্কটল্যান্ডে ১৫টি জাতীয় উদ্যান আছে। জাতীয় উদ্যান কী?"
+      },
+      "options": [
+        {"en": "Giant greenhouses", "bn": "বিশাল গ্রিনহাউস"},
+        {"en": "Land formations of columns made from volcanic lava", "bn": "আগ্নেয়গিরির লাভা দিয়ে তৈরি স্তম্ভের ভূমিরূপ"},
+        {"en": "Areas of protected countryside", "bn": "সুরক্ষিত গ্রামাঞ্চলের এলাকা"},
+        {"en": "Medieval buildings", "bn": "মধ্যযুগীয় ভবন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Areas of protected countryside"],
+      "correct_answers_bn": ["সুরক্ষিত গ্রামাঞ্চলের এলাকা"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Northern Ireland has its own established church.",
+        "bn": "উত্তর আয়ারল্যান্ডের নিজস্ব প্রতিষ্ঠিত চার্চ আছে।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Which three territories form Great Britain?",
+        "bn": "কোন তিনটি অঞ্চল নিয়ে গ্রেট ব্রিটেন গঠিত?"
+      },
+      "options": [
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"},
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"}
+      ],
+      "correct_answers": [0, 2, 3],
+      "correct_answers_en": ["Wales", "England", "Scotland"],
+      "correct_answers_bn": ["ওয়েলস", "ইংল্যান্ড", "স্কটল্যান্ড"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "How often are ’Prime Minister’s Questions’ held in the parliament?",
+        "bn": "পার্লামেন্টে ‘প্রধানমন্ত্রীর প্রশ্নোত্তর’ কতদিন পর পর হয়?"
+      },
+      "options": [
+        {"en": "Every day", "bn": "প্রতিদিন"},
+        {"en": "Every week", "bn": "প্রতি সপ্তাহে"},
+        {"en": "Every two weeks", "bn": "প্রতি দুই সপ্তাহে"},
+        {"en": "Once a month", "bn": "মাসে একবার"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Every week"],
+      "correct_answers_bn": ["প্রতি সপ্তাহে"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Which king was executed in 1649?",
+        "bn": "১৬৪৯ সালে কোন রাজাকে মৃত্যুদণ্ড দেওয়া হয়?"
+      },
+      "options": [
+        {"en": "James I", "bn": "জেমস প্রথম"},
+        {"en": "Charles II", "bn": "চার্লস দ্বিতীয়"},
+        {"en": "James VII", "bn": "জেমস সপ্তম"},
+        {"en": "Charles I", "bn": "চার্লস প্রথম"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Charles I"],
+      "correct_answers_bn": ["চার্লস প্রথম"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Where was William Shakespeare born?",
+        "bn": "উইলিয়াম শেক্সপিয়ার কোথায় জন্মগ্রহণ করেছিলেন?"
+      },
+      "options": [
+        {"en": "Manchester", "bn": "ম্যানচেস্টার"},
+        {"en": "Oldham", "bn": "ওল্ডহাম"},
+        {"en": "Stratford-upon-Avon", "bn": "স্ট্র্যাটফোর্ড-আপন-অ্যাভন"},
+        {"en": "Lincolnshire", "bn": "লিঙ্কনশায়ার"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Stratford-upon-Avon"],
+      "correct_answers_bn": ["স্ট্র্যাটফোর্ড-আপন-অ্যাভন"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which two of the following are famous British Paralympians?",
+        "bn": "নিচের কোন দুজন বিখ্যাত ব্রিটিশ প্যারালিম্পিয়ান?"
+      },
+      "options": [
+        {"en": "Dame Kelly Holmes", "bn": "ডেম কেলি হোমস"},
+        {"en": "Baroness Tanni Grey-Thompson", "bn": "ব্যারনেস ট্যানি গ্রে-থম্পসন"},
+        {"en": "Jayne Torvill", "bn": "জেন টরভিল"},
+        {"en": "Ellie Simmonds", "bn": "এলি সিমন্ডস"}
+      ],
+      "correct_answers": [1, 3],
+      "correct_answers_en": ["Baroness Tanni Grey-Thompson", "Ellie Simmonds"],
+      "correct_answers_bn": ["ব্যারনেস ট্যানি গ্রে-থম্পসন", "এলি সিমন্ডস"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Who was reigning in England when English settlers first began to colonise the eastern coast of America?",
+        "bn": "যখন ইংরেজ বসতি স্থাপনকারীরা প্রথম আমেরিকার পূর্ব উপকূলে উপনিবেশ স্থাপন শুরু করে তখন ইংল্যান্ডে কে রাজত্ব করছিলেন?"
+      },
+      "options": [
+        {"en": "Queen Victoria", "bn": "রানি ভিক্টোরিয়া"},
+        {"en": "Henry VIII", "bn": "হেনরি অষ্টম"},
+        {"en": "Elizabeth I", "bn": "এলিজাবেথ প্রথম"},
+        {"en": "Charles II", "bn": "চার্লস দ্বিতীয়"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Elizabeth I"],
+      "correct_answers_bn": ["এলিজাবেথ প্রথম"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Scotland and Wales use a system called ‘individual registration’ where all those entitled to vote must complete their own registration form.",
+        "bn": "স্কটল্যান্ড ও ওয়েলস ‘ব্যক্তিগত নিবন্ধন’ নামক একটি ব্যবস্থা ব্যবহার করে যেখানে ভোটাধিকারী সকলকে নিজস্ব নিবন্ধন ফর্ম পূরণ করতে হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "On what day is the birth of Jesus Christ celebrated?",
+        "bn": "যীশু খ্রিস্টের জন্মদিন কোন দিন উদযাপন করা হয়?"
+      },
+      "options": [
+        {"en": "Father’s Day", "bn": "ফাদার্স ডে"},
+        {"en": "Christmas Day", "bn": "ক্রিসমাস ডে"},
+        {"en": "New Year", "bn": "নববর্ষ"},
+        {"en": "Boxing Day", "bn": "বক্সিং ডে"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Christmas Day"],
+      "correct_answers_bn": ["ক্রিসমাস ডে"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What sort of battle was the ’Battle of Britain’, fought between Germany and Britain in the summer of 1940?",
+        "bn": "১৯৪০ সালের গ্রীষ্মে জার্মানি ও ব্রিটেনের মধ্যে সংঘটিত ‘ব্রিটেনের যুদ্ধ’ কোন ধরনের যুদ্ধ ছিল?"
+      },
+      "options": [
+        {"en": "A battle in the sea", "bn": "সমুদ্রের যুদ্ধ"},
+        {"en": "An aerial battle", "bn": "আকাশ যুদ্ধ"},
+        {"en": "A battle in the mountains", "bn": "পাহাড়ের যুদ্ধ"},
+        {"en": "A battle without rifles", "bn": "রাইফেল ছাড়া যুদ্ধ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["An aerial battle"],
+      "correct_answers_bn": ["আকাশ যুদ্ধ"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Where is Swansea located?",
+        "bn": "সোয়ানসি কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Wales"],
+      "correct_answers_bn": ["ওয়েলস"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Which two political parties formed a coalition in 2010?",
+        "bn": "২০১০ সালে কোন দুটি রাজনৈতিক দল জোট গঠন করেছিল?"
+      },
+      "options": [
+        {"en": "The Conservative Party", "bn": "কনজারভেটিভ পার্টি"},
+        {"en": "The Green Party", "bn": "গ্রিন পার্টি"},
+        {"en": "The Labour Party", "bn": "লেবার পার্টি"},
+        {"en": "The Liberal Democrats Party", "bn": "লিবারেল ডেমোক্র্যাটস পার্টি"}
+      ],
+      "correct_answers": [0, 3],
+      "correct_answers_en": ["The Conservative Party", "The Liberal Democrats Party"],
+      "correct_answers_bn": ["কনজারভেটিভ পার্টি", "লিবারেল ডেমোক্র্যাটস পার্টি"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Who established the Church of England?",
+        "bn": "চার্চ অফ ইংল্যান্ড কে প্রতিষ্ঠা করেছিলেন?"
+      },
+      "options": [
+        {"en": "Henry VIII", "bn": "হেনরি অষ্টম"},
+        {"en": "Oliver Cromwell", "bn": "অলিভার ক্রমওয়েল"},
+        {"en": "Winston Churchill", "bn": "উইনস্টন চার্চিল"},
+        {"en": "William of Orange", "bn": "উইলিয়াম অফ অরেঞ্জ"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Henry VIII"],
+      "correct_answers_bn": ["হেনরি অষ্টম"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "In 1348, one third of the population in England, Wales and Scotland died as a result of which disease?",
+        "bn": "১৩৪৮ সালে ইংল্যান্ড, ওয়েলস ও স্কটল্যান্ডের এক তৃতীয়াংশ জনসংখ্যা কোন রোগে মারা যায়?"
+      },
+      "options": [
+        {"en": "Measles", "bn": "হাম"},
+        {"en": "Leprosy", "bn": "কুষ্ঠরোগ"},
+        {"en": "Smallpox", "bn": "গুটিবসন্ত"},
+        {"en": "The Black Death", "bn": "ব্ল্যাক ডেথ"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Black Death"],
+      "correct_answers_bn": ["ব্ল্যাক ডেথ"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Haggis is a traditional food from which area?",
+        "bn": "হ্যাগিস কোন অঞ্চলের ঐতিহ্যবাহী খাবার?"
+      },
+      "options": [
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Scotland"],
+      "correct_answers_bn": ["স্কটল্যান্ড"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Which court deals with minor criminal offences in Scotland?",
+        "bn": "স্কটল্যান্ডে ছোটখাটো অপরাধের মামলা কোন আদালত দেখে?"
+      },
+      "options": [
+        {"en": "The Sheriff Court", "bn": "দ্য শেরিফ কোর্ট"},
+        {"en": "The Magistrates’ Court", "bn": "ম্যাজিস্ট্রেটস কোর্ট"},
+        {"en": "The Crown Court", "bn": "ক্রাউন কোর্ট"},
+        {"en": "The Justice of the Peace Court", "bn": "জাস্টিস অফ দ্য পিস কোর্ট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Justice of the Peace Court"],
+      "correct_answers_bn": ["জাস্টিস অফ দ্য পিস কোর্ট"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "Which two of the following records give us information about England during the reign of William I?",
+        "bn": "নিচের কোন দুটি নথি উইলিয়াম প্রথমের রাজত্বকালে ইংল্যান্ড সম্পর্কে তথ্য দেয়?"
+      },
+      "options": [
+        {"en": "The Magna Carta", "bn": "ম্যাগনা কার্টা"},
+        {"en": "The Domesday Book", "bn": "ডোমসডে বুক"},
+        {"en": "The Bayeux Tapestry", "bn": "বায়েউ ট্যাপেস্ট্রি"},
+        {"en": "The Canterbury Tales", "bn": "ক্যান্টারবেরি টেলস"}
+      ],
+      "correct_answers": [1, 2],
+      "correct_answers_en": ["The Domesday Book", "The Bayeux Tapestry"],
+      "correct_answers_bn": ["ডোমসডে বুক", "বায়েউ ট্যাপেস্ট্রি"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "In 1913, the British government promised ‘Home Rule’ for Ireland, why were changes in Ireland delayed until 1921?",
+        "bn": "১৯১৩ সালে ব্রিটিশ সরকার আয়ারল্যান্ডের জন্য ‘হোম রুল’ প্রতিশ্রুতি দিয়েছিল, আয়ারল্যান্ডে পরিবর্তন ১৯২১ সাল পর্যন্ত বিলম্বিত হওয়ার কারণ কী?"
+      },
+      "options": [
+        {"en": "Due to the outbreak of the First World War", "bn": "প্রথম বিশ্বযুদ্ধ শুরু হওয়ার কারণে"},
+        {"en": "Due to the outbreak of the Second World War", "bn": "দ্বিতীয় বিশ্বযুদ্ধ শুরু হওয়ার কারণে"},
+        {"en": "Because there was not a king on the British throne", "bn": "ব্রিটিশ সিংহাসনে কোনো রাজা ছিল না বলে"},
+        {"en": "Due to the outbreak of the Black Death", "bn": "ব্ল্যাক ডেথ শুরু হওয়ার কারণে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Due to the outbreak of the First World War"],
+      "correct_answers_bn": ["প্রথম বিশ্বযুদ্ধ শুরু হওয়ার কারণে"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Which of the following statements is true:",
+        "bn": "নিচের কোন বিবৃতিটি সত্য:"
+      },
+      "options": [
+        {"en": "Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants.", "bn": "এলিজাবেথ প্রথম ছিলেন প্রোটেস্ট্যান্ট এবং তিনি ক্যাথলিক ও চরমপন্থী প্রোটেস্ট্যান্টদের মতামতের মধ্যে ভারসাম্য রাখতে সক্ষম হয়েছিলেন।"},
+        {"en": "Elizabeth I was a Catholic and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants.", "bn": "এলিজাবেথ প্রথম ছিলেন ক্যাথলিক এবং তিনি ক্যাথলিক ও চরমপন্থী প্রোটেস্ট্যান্টদের মতামতের মধ্যে ভারসাম্য রাখতে সক্ষম হয়েছিলেন।"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Elizabeth I was a Protestant and she succeeded in finding a balance between the views of the Catholics and the more extreme Protestants."],
+      "correct_answers_bn": ["এলিজাবেথ প্রথম ছিলেন প্রোটেস্ট্যান্ট এবং তিনি ক্যাথলিক ও চরমপন্থী প্রোটেস্ট্যান্টদের মতামতের মধ্যে ভারসাম্য রাখতে সক্ষম হয়েছিলেন।"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Which two documents do you need to apply for a National Insurance number?",
+        "bn": "ন্যাশনাল ইনস্যুরেন্স নম্বরের জন্য আবেদন করতে আপনার কোন দুটি নথি লাগবে?"
+      },
+      "options": [
+        {"en": "A document with your address on it, such as a tenancy agreement", "bn": "আপনার ঠিকানা সম্বলিত একটি নথি, যেমন: ভাড়া চুক্তি"},
+        {"en": "Documents that prove that you have permission to work in the UK", "bn": "যুক্তরাজ্যে কাজ করার অনুমতি আছে প্রমাণ করে এমন নথি"},
+        {"en": "A contract from your employer", "bn": "আপনার নিয়োগকর্তার একটি চুক্তি"},
+        {"en": "Documents that prove your identity", "bn": "আপনার পরিচয় প্রমাণ করে এমন নথি"}
+      ],
+      "correct_answers": [1, 3],
+      "correct_answers_en": ["Documents that prove that you have permission to work in the UK", "Documents that prove your identity"],
+      "correct_answers_bn": ["যুক্তরাজ্যে কাজ করার অনুমতি আছে প্রমাণ করে এমন নথি", "আপনার পরিচয় প্রমাণ করে এমন নথি"]
+    }
+  ]
+}

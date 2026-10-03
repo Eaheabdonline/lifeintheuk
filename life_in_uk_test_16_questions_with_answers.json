@@ -1,0 +1,391 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 16",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/life-in-the-uk-exam-16/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "When was the United Nations set up?",
+        "bn": "জাতিসংঘ কখন প্রতিষ্ঠিত হয়?"
+      },
+      "options": [
+        {"en": "After the First World War.", "bn": "প্রথম বিশ্বযুদ্ধের পর।"},
+        {"en": "After the Second World War.", "bn": "দ্বিতীয় বিশ্বযুদ্ধের পর।"},
+        {"en": "Before the First World War.", "bn": "প্রথম বিশ্বযুদ্ধের আগে।"},
+        {"en": "Before the Second World War.", "bn": "দ্বিতীয় বিশ্বযুদ্ধের আগে।"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["After the Second World War."],
+      "correct_answers_bn": ["দ্বিতীয় বিশ্বযুদ্ধের পর।"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Where is the Giant’s Causeway located?",
+        "bn": "জায়ান্টস কজওয়ে কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Northern Ireland"],
+      "correct_answers_bn": ["উত্তর আয়ারল্যান্ড"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "What happened to Mary, Queen of Scots, after being sent to prison for 20 years by her cousin Queen Elizabeth I?",
+        "bn": "তার চাচাতো বোন রানি এলিজাবেথ প্রথম ২০ বছর কারাগারে পাঠানোর পর মেরি, কুইন অফ স্কটসের কী হয়েছিল?"
+      },
+      "options": [
+        {"en": "She got married.", "bn": "তিনি বিয়ে করেছিলেন।"},
+        {"en": "She was sent to France.", "bn": "তাকে ফ্রান্সে পাঠানো হয়েছিল।"},
+        {"en": "She was executed.", "bn": "তাকে মৃত্যুদণ্ড দেওয়া হয়েছিল।"},
+        {"en": "She was sent to Scotland.", "bn": "তাকে স্কটল্যান্ডে পাঠানো হয়েছিল।"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["She was executed."],
+      "correct_answers_bn": ["তাকে মৃত্যুদণ্ড দেওয়া হয়েছিল।"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which tribe came to Britain from northern Europe after the Romans left in AD 410?",
+        "bn": "খ্রিস্টাব্দ ৪১০ সালে রোমানরা চলে যাওয়ার পর উত্তর ইউরোপ থেকে কোন উপজাতি ব্রিটেনে এসেছিল?"
+      },
+      "options": [
+        {"en": "The Gepids", "bn": "দ্য জেপিডস"},
+        {"en": "The Jutes", "bn": "দ্য জুটস"},
+        {"en": "The Frisians", "bn": "দ্য ফ্রিসিয়ানস"},
+        {"en": "The Burgundians", "bn": "দ্য বার্গান্ডিয়ানস"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Jutes"],
+      "correct_answers_bn": ["দ্য জুটস"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "What is one of the highest-grossing film franchises produced in the UK?",
+        "bn": "যুক্তরাজ্যে তৈরি সর্বোচ্চ আয়কারী ফিল্ম ফ্র্যাঞ্চাইজগুলোর একটি কোনটি?"
+      },
+      "options": [
+        {"en": "James Bond", "bn": "জেমস বন্ড"},
+        {"en": "Star Wars", "bn": "স্টার ওয়ার্স"},
+        {"en": "The Lord of the Rings", "bn": "দ্য লর্ড অফ দ্য রিংস"},
+        {"en": "Superman", "bn": "সুপারম্যান"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["James Bond"],
+      "correct_answers_bn": ["জেমস বন্ড"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Who can hear cases in Youth Courts in England, Wales and Northern Ireland (two answers)?",
+        "bn": "ইংল্যান্ড, ওয়েলস ও উত্তর আয়ারল্যান্ডে যুব আদালতে মামলা কারা শোনেন? (দুটি উত্তর)"
+      },
+      "options": [
+        {"en": "Specially trained magistrates.", "bn": "বিশেষভাবে প্রশিক্ষিত ম্যাজিস্ট্রেটরা।"},
+        {"en": "Social workers.", "bn": "সমাজকর্মীরা।"},
+        {"en": "District judges.", "bn": "ডিস্ট্রিক্ট জজরা।"},
+        {"en": "Members of the public.", "bn": "সাধারণ জনগণ।"}
+      ],
+      "correct_answers": [0, 2],
+      "correct_answers_en": ["Specially trained magistrates.", "District judges."],
+      "correct_answers_bn": ["বিশেষভাবে প্রশিক্ষিত ম্যাজিস্ট্রেটরা।", "ডিস্ট্রিক্ট জজরা।"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Who came from the Netherlands to become the British monarch?",
+        "bn": "কোন রাজা/রানি নেদারল্যান্ডস থেকে এসে ব্রিটিশ রাজা হয়েছিলেন?"
+      },
+      "options": [
+        {"en": "William II", "bn": "উইলিয়াম দ্বিতীয়"},
+        {"en": "Charles II", "bn": "চার্লস দ্বিতীয়"},
+        {"en": "Edward II", "bn": "এডওয়ার্ড দ্বিতীয়"},
+        {"en": "George II", "bn": "জর্জ দ্বিতীয়"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Charles II"],
+      "correct_answers_bn": ["চার্লস দ্বিতীয়"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "Who can apply for the National Citizen Service programme?",
+        "bn": "ন্যাশনাল সিটিজেন সার্ভিস প্রোগ্রামের জন্য কারা আবেদন করতে পারে?"
+      },
+      "options": [
+        {"en": "14- and 15-year-olds", "bn": "১৪ ও ১৫ বছর বয়সীরা"},
+        {"en": "15- and 16-year-olds", "bn": "১৫ ও ১৬ বছর বয়সীরা"},
+        {"en": "16- and 17-year-olds", "bn": "১৬ ও ১৭ বছর বয়সীরা"},
+        {"en": "17- and 18-year-olds", "bn": "১৭ ও ১৮ বছর বয়সীরা"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["16- and 17-year-olds"],
+      "correct_answers_bn": ["১৬ ও ১৭ বছর বয়সীরা"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "Nick Park has won four Oscars for his animated films, including three for films featuring:",
+        "bn": "নিক পার্ক তার অ্যানিমেটেড ফিল্মের জন্য চারটি অস্কার জিতেছেন, যার মধ্যে তিনটি এই চরিত্রগুলো নিয়ে তৈরি ফিল্মের জন্য:"
+      },
+      "options": [
+        {"en": "Chariots of Fire", "bn": "চ্যারিয়টস অফ ফায়ার"},
+        {"en": "Wallace and Gromit", "bn": "ওয়ালেস অ্যান্ড গ্রোমিট"},
+        {"en": "Four Weddings and a Funeral", "bn": "ফোর ওয়েডিংস অ্যান্ড আ ফিউনারেল"},
+        {"en": "Women in Love", "bn": "উইমেন ইন লাভ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Wallace and Gromit"],
+      "correct_answers_bn": ["ওয়ালেস অ্যান্ড গ্রোমিট"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Who was the British scientist who co-discovered the structure of the DNA molecule in the 1950s?",
+        "bn": "১৯৫০-এর দশকে ডিএনএ অণুর গঠন সহ-আবিষ্কার করা ব্রিটিশ বিজ্ঞানী কে ছিলেন?"
+      },
+      "options": [
+        {"en": "Sir Ian Wilmot", "bn": "স্যার ইয়ান উইলমট"},
+        {"en": "Keith Campbell", "bn": "কিথ ক্যাম্পবেল"},
+        {"en": "James Watt", "bn": "জেমস ওয়াট"},
+        {"en": "Francis Crick", "bn": "ফ্রান্সিস ক্রিক"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Francis Crick"],
+      "correct_answers_bn": ["ফ্রান্সিস ক্রিক"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "What percentage of the UK population has a parent or grandparent born outside of the UK?",
+        "bn": "যুক্তরাজ্যের জনসংখ্যার কত শতাংশের পিতা-মাতা বা দাদা-দাদি যুক্তরাজ্যের বাইরে জন্মগ্রহণ করেছেন?"
+      },
+      "options": [
+        {"en": "Around 5%", "bn": "প্রায় ৫%"},
+        {"en": "Around 10%", "bn": "প্রায় ১০%"},
+        {"en": "Around 15%", "bn": "প্রায় ১৫%"},
+        {"en": "Around 20%", "bn": "প্রায় ২০%"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Around 10%"],
+      "correct_answers_bn": ["প্রায় ১০%"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "How old do you have to be to drive a moped in the UK?",
+        "bn": "যুক্তরাজ্যে মোপেড চালানোর জন্য আপনার কত বছর বয়স হতে হয়?"
+      },
+      "options": [
+        {"en": "15 years old", "bn": "১৫ বছর"},
+        {"en": "16 years old", "bn": "১৬ বছর"},
+        {"en": "17 years old", "bn": "১৭ বছর"},
+        {"en": "18 years old", "bn": "১৮ বছর"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["16 years old"],
+      "correct_answers_bn": ["১৬ বছর"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "Who was the leader of the Labour Party who introduced a Scottish Parliament and a Welsh Assembly?",
+        "bn": "কোন লেবার পার্টির নেতা স্কটিশ পার্লামেন্ট ও ওয়েলশ অ্যাসেম্বলি প্রবর্তন করেছিলেন?"
+      },
+      "options": [
+        {"en": "James Callaghan", "bn": "জেমস ক্যালাঘান"},
+        {"en": "Clement Attlee", "bn": "ক্লেমেন্ট অ্যাটলি"},
+        {"en": "Gordon Brown", "bn": "গর্ডন ব্রাউন"},
+        {"en": "Tony Blair", "bn": "টনি ব্লেয়ার"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Tony Blair"],
+      "correct_answers_bn": ["টনি ব্লেয়ার"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "What is the maximum amount you can claim through the small claims procedure in Scotland and Northern Ireland?",
+        "bn": "স্কটল্যান্ড ও উত্তর আয়ারল্যান্ডে স্মল ক্লেইমস প্রসিডিউরের মাধ্যমে আপনি সর্বোচ্চ কত টাকা দাবি করতে পারেন?"
+      },
+      "options": [
+        {"en": "£3,000", "bn": "£৩,০০০"},
+        {"en": "£5,000", "bn": "£৫,০০০"},
+        {"en": "£8,000", "bn": "£৮,০০০"},
+        {"en": "£10,000", "bn": "£১০,০০০"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["£5,000"],
+      "correct_answers_bn": ["£৫,০০০"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which historical monument did William the Conqueror build?",
+        "bn": "উইলিয়াম দ্য কনকারর কোন ঐতিহাসিক স্মৃতিস্তম্ভ নির্মাণ করেছিলেন?"
+      },
+      "options": [
+        {"en": "St Paul’s Cathedral", "bn": "সেন্ট পলস ক্যাথেড্রাল"},
+        {"en": "The Cenotaph", "bn": "সেনোটাফ"},
+        {"en": "Dumfries House", "bn": "ডামফ্রিস হাউস"},
+        {"en": "The White Tower", "bn": "দ্য হোয়াইট টাওয়ার"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The White Tower"],
+      "correct_answers_bn": ["দ্য হোয়াইট টাওয়ার"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "Who became Prime Minister after Margaret Thatcher and played an important part in the Northern Ireland peace process?",
+        "bn": "মার্গারেট থ্যাচারের পর কে প্রধানমন্ত্রী হয়েছিলেন এবং উত্তর আয়ারল্যান্ড শান্তি প্রক্রিয়ায় গুরুত্বপূর্ণ ভূমিকা পালন করেছিলেন?"
+      },
+      "options": [
+        {"en": "James Callaghan", "bn": "জেমস ক্যালাঘান"},
+        {"en": "John Major", "bn": "জন মেজর"},
+        {"en": "Tony Blair", "bn": "টনি ব্লেয়ার"},
+        {"en": "Harold Wilson", "bn": "হ্যারল্ড উইলসন"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["John Major"],
+      "correct_answers_bn": ["জন মেজর"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Who should you contact to report a terrorist activity?",
+        "bn": "সন্ত্রাসী কার্যকলাপ রিপোর্ট করতে আপনার কার সাথে যোগাযোগ করা উচিত?"
+      },
+      "options": [
+        {"en": "Your local Council.", "bn": "আপনার স্থানীয় কাউন্সিল।"},
+        {"en": "Your local MP.", "bn": "আপনার স্থানীয় এমপি।"},
+        {"en": "Your local police force.", "bn": "আপনার স্থানীয় পুলিশ বাহিনী।"},
+        {"en": "The Prime Minister.", "bn": "প্রধানমন্ত্রী।"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Your local police force."],
+      "correct_answers_bn": ["আপনার স্থানীয় পুলিশ বাহিনী।"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Which Paralympic athlete has won gold medals for swimming at the 2008, 2012 and 2016 Paralympic Games?",
+        "bn": "কোন প্যারালিম্পিক অ্যাথলিট ২০০৮, ২০১২ ও ২০১৬ প্যারালিম্পিক গেমসে সাঁতারে সোনা জিতেছেন?"
+      },
+      "options": [
+        {"en": "Sophie Christiansen", "bn": "সোফি ক্রিস্টিয়ানসেন"},
+        {"en": "Ellie Simmonds", "bn": "এলি সিমন্ডস"},
+        {"en": "Baroness Tanni Grey-Thompson", "bn": "ব্যারনেস ট্যানি গ্রে-থম্পসন"},
+        {"en": "David Weir", "bn": "ডেভিড ওয়্যার"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Ellie Simmonds"],
+      "correct_answers_bn": ["এলি সিমন্ডস"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "Each of the UK countries is associated with a flower symbol, which country is associated with the rose?",
+        "bn": "যুক্তরাজ্যের প্রত্যেক দেশ একটি ফুলের প্রতীকের সাথে যুক্ত, কোন দেশ গোলাপের সাথে যুক্ত?"
+      },
+      "options": [
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"},
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "England", "bn": "ইংল্যান্ড"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["England"],
+      "correct_answers_bn": ["ইংল্যান্ড"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "Isambard Kingdom Brunel was responsible for:",
+        "bn": "ইসামবার্ড কিংডম ব্রুনেল দায়িত্বে ছিলেন:"
+      },
+      "options": [
+        {"en": "The construction of the Great Western Railway.", "bn": "গ্রেট ওয়েস্টার্ন রেলওয়ের নির্মাণ।"},
+        {"en": "The invention of the television.", "bn": "টেলিভিশনের উদ্ভাবন।"},
+        {"en": "The construction of the Tower of London.", "bn": "টাওয়ার অফ লন্ডনের নির্মাণ।"},
+        {"en": "The discovery of insulin.", "bn": "ইনসুলিন আবিষ্কার।"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The construction of the Great Western Railway."],
+      "correct_answers_bn": ["গ্রেট ওয়েস্টার্ন রেলওয়ের নির্মাণ।"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "What is the Commonwealth?",
+        "bn": "কমনওয়েলথ কী?"
+      },
+      "options": [
+        {"en": "An organization responsible for the protection and promotion of human rights in its member countries.", "bn": "একটি সংস্থা যা তার সদস্য দেশগুলোতে মানবাধিকার সুরক্ষা ও প্রচারের জন্য দায়িত্বশীল।"},
+        {"en": "A group of European and North American countries that have agreed to help each other if they come under attack.", "bn": "ইউরোপীয় ও উত্তর আমেরিকান দেশগুলোর একটি গ্রুপ যারা আক্রমণের শিকার হলে একে অপরকে সাহায্য করতে সম্মত হয়েছে।"},
+        {"en": "An association of countries that support each other and work together towards shared goals in democracy and development.", "bn": "একটি দেশের সমিতি যারা একে অপরকে সাহায্য করে এবং গণতন্ত্র ও উন্নয়নে অভিন্ন লক্ষ্যের দিকে একসাথে কাজ করে।"},
+        {"en": "An international organization that aims to prevent war and promote international peace and security.", "bn": "একটি আন্তর্জাতিক সংস্থা যার লক্ষ্য যুদ্ধ প্রতিরোধ ও আন্তর্জাতিক শান্তি ও নিরাপত্তা প্রচার।"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["An association of countries that support each other and work together towards shared goals in democracy and development."],
+      "correct_answers_bn": ["একটি দেশের সমিতি যারা একে অপরকে সাহায্য করে এবং গণতন্ত্র ও উন্নয়নে অভিন্ন লক্ষ্যের দিকে একসাথে কাজ করে।"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Under which name was the movement of opinion against the authority of the Pope during the times of Henry VIII known?",
+        "bn": "হেনরি অষ্টমের সময় পোপের কর্তৃত্বের বিরুদ্ধে মতামতের আন্দোলন কোন নামে পরিচিত ছিল?"
+      },
+      "options": [
+        {"en": "The Spanish Inquisition", "bn": "দ্য স্প্যানিশ ইনকুইজিশন"},
+        {"en": "The Holy Wars", "bn": "দ্য হোলি ওয়ার্স"},
+        {"en": "The Reformation", "bn": "দ্য রিফর্মেশন"},
+        {"en": "The Enlightenment", "bn": "দ্য এনলাইটেনমেন্ট"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Reformation"],
+      "correct_answers_bn": ["দ্য রিফর্মেশন"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What did Isaac Newton discover?",
+        "bn": "আইজ্যাক নিউটন কী আবিষ্কার করেছিলেন?"
+      },
+      "options": [
+        {"en": "Gravity", "bn": "মাধ্যাকর্ষণ"},
+        {"en": "Penicillin", "bn": "পেনিসিলিন"},
+        {"en": "Insulin", "bn": "ইনসুলিন"},
+        {"en": "Lightbulb", "bn": "বাল্ব"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Gravity"],
+      "correct_answers_bn": ["মাধ্যাকর্ষণ"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What kind of movies did Academy Award winner Nick Park specialise in?",
+        "bn": "অ্যাকাডেমি অ্যাওয়ার্ড বিজয়ী নিক পার্ক কোন ধরনের সিনেমায় বিশেষজ্ঞ ছিলেন?"
+      },
+      "options": [
+        {"en": "Action movies", "bn": "অ্যাকশন মুভি"},
+        {"en": "Animated movies", "bn": "অ্যানিমেটেড মুভি"},
+        {"en": "Thrillers", "bn": "থ্রিলার"},
+        {"en": "Horror movies", "bn": "হরর মুভি"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["Animated movies"],
+      "correct_answers_bn": ["অ্যানিমেটেড মুভি"]
+    }
+  ]
+}

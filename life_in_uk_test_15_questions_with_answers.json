@@ -1,0 +1,387 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 15",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-15/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which two languages were used across England during the Middle Ages?",
+        "bn": "মধ্যযুগে ইংল্যান্ড জুড়ে কোন দুটি ভাষা ব্যবহৃত হয়?"
+      },
+      "options": [
+        {"en": "Welsh", "bn": "ওয়েলশ"},
+        {"en": "Gaelic", "bn": "গেলিক"},
+        {"en": "Norman French", "bn": "নরম্যান ফ্রেঞ্চ"},
+        {"en": "Anglo-Saxon", "bn": "অ্যাংলো-স্যাক্সন"}
+      ],
+      "correct_answers": [2, 3],
+      "correct_answers_en": ["Norman French", "Anglo-Saxon"],
+      "correct_answers_bn": ["নরম্যান ফ্রেঞ্চ", "অ্যাংলো-স্যাক্সন"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "In 1776, which British colonies declared their independence because they demanded that there should be ‘no taxation without representation‘.",
+        "bn": "১৭৭৬ সালে কোন ব্রিটিশ উপনিবেশগুলো স্বাধীনতা ঘোষণা করেছিল কারণ তারা দাবি করেছিল ‘প্রতিনিধিত্ব ছাড়া কর নয়‘।"
+      },
+      "options": [
+        {"en": "North African", "bn": "উত্তর আফ্রিকান"},
+        {"en": "Asian", "bn": "এশিয়ান"},
+        {"en": "North American", "bn": "উত্তর আমেরিকান"},
+        {"en": "South African", "bn": "দক্ষিণ আফ্রিকান"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["North American"],
+      "correct_answers_bn": ["উত্তর আমেরিকান"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "When was England ruled by a republic and not by a monarch?",
+        "bn": "কখন ইংল্যান্ড একজন রাজা/রানি দ্বারা নয় বরং একটি প্রজাতন্ত্র দ্বারা শাসিত হয়েছিল?"
+      },
+      "options": [
+        {"en": "When Elizabeth I died without any successor", "bn": "যখন এলিজাবেথ প্রথম কোনো উত্তরাধিকারী ছাড়া মারা যান"},
+        {"en": "When Charles I was executed", "bn": "যখন চার্লস প্রথমকে মৃত্যুদণ্ড দেওয়া হয়"},
+        {"en": "When the Carta Magna restricted the king’s power", "bn": "যখন ম্যাগনা কার্টা রাজার ক্ষমতা সীমিত করে"},
+        {"en": "When kind Harold died after the Battle of Hastings", "bn": "যখন হ্যারল্ড হেস্টিংসের যুদ্ধের পর মারা যান"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["When Charles I was executed"],
+      "correct_answers_bn": ["যখন চার্লস প্রথমকে মৃত্যুদণ্ড দেওয়া হয়"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Which film produced in the UK was one of the most commercially successful films of all time and one of the highest-grossing film franchises?",
+        "bn": "যুক্তরাজ্যে তৈরি কোন চলচ্চিত্র সবচেয়ে বেশি বাণিজ্যিকভাবে সফল চলচ্চিত্রগুলোর একটি এবং সর্বোচ্চ আয়কারী ফ্র্যাঞ্চাইজগুলোর একটি?"
+      },
+      "options": [
+        {"en": "Harry Potter", "bn": "হ্যারি পটার"},
+        {"en": "Spider-man", "bn": "স্পাইডার-ম্যান"},
+        {"en": "The Lord of the Rings", "bn": "দ্য লর্ড অফ দ্য রি�ংস"},
+        {"en": "Indiana Jones", "bn": "ইন্ডিয়ানা জোনস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Harry Potter"],
+      "correct_answers_bn": ["হ্যারি পটার"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "When did the first farmers come to Britain?",
+        "bn": "প্রথম কৃষকরা কখন ব্রিটেনে এসেছিল?"
+      },
+      "options": [
+        {"en": "10,000 years ago", "bn": "১০,০০০ বছর আগে"},
+        {"en": "6,000 years ago", "bn": "৬,০০০ বছর আগে"},
+        {"en": "15,000 years ago", "bn": "১৫,০০০ বছর আগে"},
+        {"en": "2,000 years ago", "bn": "২,০০০ বছর আগে"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["6,000 years ago"],
+      "correct_answers_bn": ["৬,০০০ বছর আগে"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "When did the First World War end?",
+        "bn": "প্রথম বিশ্বযুদ্ধ কখন শেষ হয়?"
+      },
+      "options": [
+        {"en": "At 12.00 pm on 11th November 1914", "bn": "১৯১৪ সালের ১১ নভেম্বর দুপুর ১২:০০ টায়"},
+        {"en": "At 12.00 pm on 11th November 1918", "bn": "১৯১৮ সালের ১১ নভেম্বর দুপুর ১২:০০ টায়"},
+        {"en": "At 11.00 am on 11th November 1914", "bn": "১৯১৪ সালের ১১ নভেম্বর সকাল ১১:০০ টায়"},
+        {"en": "At 11.00 am on 11th November 1918", "bn": "১৯১৮ সালের ১১ নভেম্বর সকাল ১১:০০ টায়"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["At 11.00 am on 11th November 1918"],
+      "correct_answers_bn": ["১৯১৮ সালের ১১ নভেম্বর সকাল ১১:০০ টায়"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Can court orders be obtained to protect a person from being forced into a marriage?",
+        "bn": "কোনো ব্যক্তিকে জোর করে বিয়ে করানো থেকে রক্ষা করার জন্য আদালতের আদেশ পাওয়া যায় কি?"
+      },
+      "options": [
+        {"en": "Yes", "bn": "হ্যাঁ"},
+        {"en": "No", "bn": "না"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Yes"],
+      "correct_answers_bn": ["হ্যাঁ"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What medal did Mary Peters win in the 1972 Olympics?",
+        "bn": "১৯৭২ অলিম্পিকে মেরি পিটার্স কোন পদক জিতেছিলেন?"
+      },
+      "options": [
+        {"en": "She did not win any medals", "bn": "তিনি কোনো পদক জিতেননি"},
+        {"en": "Silver", "bn": "রুপা"},
+        {"en": "Gold", "bn": "সোনা"},
+        {"en": "Bronze", "bn": "ব্রোঞ্জ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Gold"],
+      "correct_answers_bn": ["সোনা"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "In England, Wales and Northern Ireland Youth Court cases are normally heard by (choose TWO answers)?",
+        "bn": "ইংল্যান্ড, ওয়েলস ও উত্তর আয়ারল্যান্ডে যুব আদালতের মামলা সাধারণত কারা শোনেন? (দুটি উত্তর বেছে নিন)"
+      },
+      "options": [
+        {"en": "Up to 3 specially trained magistrates", "bn": "৩ জন বিশেষভাবে প্রশিক্ষিত ম্যাজিস্ট্রেট পর্যন্ত"},
+        {"en": "A District Judge", "bn": "একজন ডিস্ট্রিক্ট জজ"},
+        {"en": "A sheriff", "bn": "একজন শেরিফ"},
+        {"en": "Up to 5 specially trained magistrates", "bn": "৫ জন বিশেষভাবে প্রশিক্ষিত ম্যাজিস্ট্রেট পর্যন্ত"}
+      ],
+      "correct_answers": [0, 1],
+      "correct_answers_en": ["Up to 3 specially trained magistrates", "A District Judge"],
+      "correct_answers_bn": ["৩ জন বিশেষভাবে প্রশিক্ষিত ম্যাজিস্ট্রেট পর্যন্ত", "একজন ডিস্ট্রিক্ট জজ"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "What was invented by Alan Turing in the 1930s?",
+        "bn": "১৯৩০-এর দশকে অ্যালান টুরিং কী উদ্ভাবন করেছিলেন?"
+      },
+      "options": [
+        {"en": "The jet engine", "bn": "জেট ইঞ্জিন"},
+        {"en": "The television", "bn": "টেলিভিশন"},
+        {"en": "The Turing machine", "bn": "টুরিং মেশিন"},
+        {"en": "The ball pen", "bn": "বলপয়েন্ট কলম"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Turing machine"],
+      "correct_answers_bn": ["টুরিং মেশিন"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Which of the following tells us about how people lived in England just after the Norman Conquest?",
+        "bn": "নিচের কোনটি নরম্যান বিজয়ের ঠিক পর ইংল্যান্ডে মানুষ কীভাবে বাস করত তা বলে?"
+      },
+      "options": [
+        {"en": "The Domesday Book", "bn": "ডোমসডে বুক"},
+        {"en": "The Book of Common Prayer", "bn": "দ্য বুক অফ কমন প্রেয়ার"},
+        {"en": "The Canterbury Tales", "bn": "দ্য ক্যান্টারবেরি টেলস"},
+        {"en": "The Carta Magna", "bn": "কার্টা ম্যাগনা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Domesday Book"],
+      "correct_answers_bn": ["ডোমসডে বুক"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Who led a team of scientists to ‘split the atom‘ for the first time?",
+        "bn": "প্রথমবারের মতো ‘অ্যাটম বিভক্ত’ করার জন্য কে বিজ্ঞানীদের একটি দলের নেতৃত্ব দিয়েছিলেন?"
+      },
+      "options": [
+        {"en": "Alexander Fleming", "bn": "আলেকজান্ডার ফ্লেমিং"},
+        {"en": "Alan Turing", "bn": "অ্যালান টুরিং"},
+        {"en": "Ernest Rutherford", "bn": "আর্নেস্ট রাদারফোর্ড"},
+        {"en": "Sir Peter Mansfield", "bn": "স্যার পিটার ম্যানসফিল্ড"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Ernest Rutherford"],
+      "correct_answers_bn": ["আর্নেস্ট রাদারফোর্ড"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "What song is sung by people in the UK and other countries when they are celebrating the New Year?",
+        "bn": "যুক্তরাজ্য ও অন্যান্য দেশে মানুষ নববর্ষ উদযাপনের সময় কোন গান গায়?"
+      },
+      "options": [
+        {"en": "Auld Lang Syne", "bn": "অল্ড ল্যাং সাইন"},
+        {"en": "The British Anthem", "bn": "দ্য ব্রিটিশ অ্যান্থেম"},
+        {"en": "Jingle Bells", "bn": "জিংগল বেলস"},
+        {"en": "White Christmas", "bn": "হোয়াইট ক্রিসমাস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Auld Lang Syne"],
+      "correct_answers_bn": ["অল্ড ল্যাং সাইন"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "Who fought in the English Civil war of 1642?",
+        "bn": "১৬৪২ সালের ইংরেজি গৃহযুদ্ধে কারা লড়াই করেছিল?"
+      },
+      "options": [
+        {"en": "The House of York and the House of Lancaster", "bn": "হাউস অফ ইয়র্ক এবং হাউস অফ ল্যাঙ্কাস্টার"},
+        {"en": "The Anglo-Saxons and the Vikings", "bn": "অ্যাংলো-স্যাক্সন এবং ভাইকিং"},
+        {"en": "The Cavaliers and the Roundheads", "bn": "ক্যাভালিয়ার্স এবং রাউন্ডহেডস"},
+        {"en": "The House of Fraser and the House of Stuart", "bn": "হাউস অফ ফ্রেজার এবং হাউস অফ স্টুয়ার্ট"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The Cavaliers and the Roundheads"],
+      "correct_answers_bn": ["ক্যাভালিয়ার্স এবং রাউন্ডহেডস"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Which two of these forts were part of Hadrian‘s wall?",
+        "bn": "নিচের কোন দুটি দুর্গ হ্যাড্রিয়ানস ওয়ালের অংশ ছিল?"
+      },
+      "options": [
+        {"en": "Vindolanda", "bn": "ভিন্ডোলান্ডা"},
+        {"en": "Maiden Castle", "bn": "মেইডেন ক্যাসল"},
+        {"en": "Housesteads", "bn": "হাউসস্টেডস"},
+        {"en": "Grimsby", "bn": "গ্রিমসবি"}
+      ],
+      "correct_answers": [0, 2],
+      "correct_answers_en": ["Vindolanda", "Housesteads"],
+      "correct_answers_bn": ["ভিন্ডোলান্ডা", "হাউসস্টেডস"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "What was the religion of the Puritans?",
+        "bn": "পিউরিটানদের ধর্ম কী ছিল?"
+      },
+      "options": [
+        {"en": "Hindu", "bn": "হিন্দু"},
+        {"en": "Catholic", "bn": "ক্যাথলিক"},
+        {"en": "Sikh", "bn": "শিখ"},
+        {"en": "Protestant", "bn": "প্রোটেস্ট্যান্ট"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Protestant"],
+      "correct_answers_bn": ["প্রোটেস্ট্যান্ট"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "What is the name of Irish people who favoured complete independence from the UK in the 19th century?",
+        "bn": "১৯শ শতাব্দীতে যুক্তরাজ্য থেকে সম্পূর্ণ স্বাধীনতা চেয়েছিল এমন আইরিশদের নাম কী?"
+      },
+      "options": [
+        {"en": "Fenians", "bn": "ফেনিয়ানস"},
+        {"en": "Quakers", "bn": "কোয়েকার্স"},
+        {"en": "Highlanders", "bn": "হাইল্যান্ডার্স"},
+        {"en": "Suffragettes", "bn": "সাফ্রাজেটস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Fenians"],
+      "correct_answers_bn": ["ফেনিয়ানস"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "Which two British pop music groups were famous during the Swinging Sixties?",
+        "bn": "সুইংইং সিক্সটিজের সময় কোন দুটি ব্রিটিশ পপ সংগীত গ্রুপ বিখ্যাত ছিল?"
+      },
+      "options": [
+        {"en": "The Rolling Stones", "bn": "দ্য রোলিং স্টোনস"},
+        {"en": "The Beatles", "bn": "দ্য বিটলস"},
+        {"en": "ABBA", "bn": "আব্বা"},
+        {"en": "Radiohead", "bn": "রেডিওহেড"}
+      ],
+      "correct_answers": [0, 1],
+      "correct_answers_en": ["The Rolling Stones", "The Beatles"],
+      "correct_answers_bn": ["দ্য রোলিং স্টোনস", "দ্য বিটলস"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What is the minimum age required to drive a motorcycle?",
+        "bn": "মোটরসাইকেল চালানোর জন্য ন্যূনতম বয়স কত?"
+      },
+      "options": [
+        {"en": "16 years old", "bn": "১৬ বছর"},
+        {"en": "17 years old", "bn": "১৭ বছর"},
+        {"en": "18 years old", "bn": "১৮ বছর"},
+        {"en": "21 years old", "bn": "২১ বছর"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["17 years old"],
+      "correct_answers_bn": ["১৭ বছর"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "The members of the House of Lords, known as peers, are elected by the people.",
+        "bn": "হাউস অফ লর্ডসের সদস্যরা, যারা পিয়ার নামে পরিচিত, জনগণ দ্বারা নির্বাচিত হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "When did the Emancipation Act abolish slavery throughout the British Empire?",
+        "bn": "এমানসিপেশন অ্যাক্ট কখন ব্রিটিশ সাম্রাজ্য জুড়ে দাসপ্রথা বিলুপ্ত করেছিল?"
+      },
+      "options": [
+        {"en": "1835", "bn": "১৮৩৫"},
+        {"en": "1823", "bn": "১৮২৩"},
+        {"en": "1807", "bn": "১৮০৭"},
+        {"en": "1833", "bn": "১৮৩৩"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["1833"],
+      "correct_answers_bn": ["১৮৩৩"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "Who is responsible for crime, policing and immigration?",
+        "bn": "অপরাধ, পুলিশিং এবং অভিবাসনের জন্য কে দায়িত্বশীল?"
+      },
+      "options": [
+        {"en": "The Chancellor of the Exchequer", "bn": "দ্য চ্যান্সেলর অফ দ্য এক্সচেকার"},
+        {"en": "The Foreign Secretary", "bn": "দ্য ফরেন সেক্রেটারি"},
+        {"en": "The Speaker", "bn": "দ্য স্পিকার"},
+        {"en": "The Home Secretary", "bn": "দ্য হোম সেক্রেটারি"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["The Home Secretary"],
+      "correct_answers_bn": ["দ্য হোম সেক্রেটারি"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "Which of the following is the most famous tennis tournament in the UK?",
+        "bn": "যুক্তরাজ্যের সবচেয়ে বিখ্যাত টেনিস টুর্নামেন্ট কোনটি?"
+      },
+      "options": [
+        {"en": "The Wimbledon Championships", "bn": "দ্য উইম্বলডন চ্যাম্পিয়নশিপস"},
+        {"en": "The French Open", "bn": "দ্য ফ্রেঞ্চ ওপেন"},
+        {"en": "The US Open", "bn": "দ্য ইউএস ওপেন"},
+        {"en": "The Australian Open", "bn": "দ্য অস্ট্রেলিয়ান ওপেন"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Wimbledon Championships"],
+      "correct_answers_bn": ["দ্য উইম্বলডন চ্যাম্পিয়নশিপস"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "What is the capital city of Wales?",
+        "bn": "ওয়েলসের রাজধানী কোন শহর?"
+      },
+      "options": [
+        {"en": "Cardiff", "bn": "কার্ডিফ"},
+        {"en": "Swansea", "bn": "সোয়ানসি"},
+        {"en": "Newport", "bn": "নিউপোর্ট"},
+        {"en": "Bangor", "bn": "ব্যাঙ্গর"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Cardiff"],
+      "correct_answers_bn": ["কার্ডিফ"]
+    }
+  ]
+}

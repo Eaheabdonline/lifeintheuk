@@ -1,0 +1,381 @@
+{
+  "test_name": "Life in the UK Test 2026 - British Citizenship Test 9",
+  "total_questions": 24,
+  "source": "https://lifeintheuktestweb.co.uk/british-citizenship-test-9/",
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which flower is associated with Northern Ireland?",
+        "bn": "উত্তর আয়ারল্যান্ডের সাথে কোন ফুল যুক্ত?"
+      },
+      "options": [
+        {"en": "The daffodil", "bn": "দ্য ড্যাফোডিল"},
+        {"en": "The thistle", "bn": "দ্য থিসল"},
+        {"en": "The shamrock", "bn": "দ্য শ্যামরক"},
+        {"en": "The rose", "bn": "দ্য রোজ"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["The shamrock"],
+      "correct_answers_bn": ["দ্য শ্যামরক"]
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "The last battle between Britain and France was the battle of Waterloo.",
+        "bn": "ব্রিটেন ও ফ্রান্সের মধ্যে সর্বশেষ যুদ্ধ ছিল ওয়াটারলুর যুদ্ধ।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 3,
+      "question": {
+        "en": "£100 is the highest value note in circulation in the UK.",
+        "bn": "যুক্তরাজ্যে প্রচলিত সর্বোচ্চ মূল্যের নোট £১০০।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 4,
+      "question": {
+        "en": "Where is the Lake District National Park located?",
+        "bn": "লেক ডিস্ট্রিক্ট ন্যাশনাল পার্ক কোথায় অবস্থিত?"
+      },
+      "options": [
+        {"en": "Scotland", "bn": "স্কটল্যান্ড"},
+        {"en": "Wales", "bn": "ওয়েলস"},
+        {"en": "England", "bn": "ইংল্যান্ড"},
+        {"en": "Northern Ireland", "bn": "উত্তর আয়ারল্যান্ড"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["England"],
+      "correct_answers_bn": ["ইংল্যান্ড"]
+    },
+    {
+      "id": 5,
+      "question": {
+        "en": "Which two responsibilities will you have as a British citizen?",
+        "bn": "ব্রিটিশ নাগরিক হিসেবে আপনার দুটি দায়িত্ব কী কী?"
+      },
+      "options": [
+        {"en": "To buy food locally", "bn": "স্থানীয়ভাবে খাবার কেনা"},
+        {"en": "To volunteer in a community project at least once a year", "bn": "বছরে অন্তত একবার কমিউনিটি প্রজেক্টে স্বেচ্ছাসেবক হিসেবে কাজ করা"},
+        {"en": "To look after yourself and your family", "bn": "নিজের এবং পরিবারের যত্ন নেওয়া"},
+        {"en": "To respect the rights of others, including their right to their own opinions", "bn": "অন্যদের অধিকার সম্মান করা, তাদের নিজস্ব মতামতের অধিকারসহ"}
+      ],
+      "correct_answers": [2, 3],
+      "correct_answers_en": ["To look after yourself and your family", "To respect the rights of others, including their right to their own opinions"],
+      "correct_answers_bn": ["নিজের এবং পরিবারের যত্ন নেওয়া", "অন্যদের অধিকার সম্মান করা, তাদের নিজস্ব মতামতের অধিকারসহ"]
+    },
+    {
+      "id": 6,
+      "question": {
+        "en": "Who was born in Stratford-upon-Avon?",
+        "bn": "স্ট্র্যাটফোর্ড-আপন-অ্যাভনে কে জন্মগ্রহণ করেছিলেন?"
+      },
+      "options": [
+        {"en": "Jane Austen", "bn": "জেন অস্টেন"},
+        {"en": "Charles Dickens", "bn": "চার্লস ডিকেন্স"},
+        {"en": "William Shakespeare", "bn": "উইলিয়াম শেক্সপিয়ার"},
+        {"en": "Thomas Hardy", "bn": "টমাস হার্ডি"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["William Shakespeare"],
+      "correct_answers_bn": ["উইলিয়াম শেক্সপিয়ার"]
+    },
+    {
+      "id": 7,
+      "question": {
+        "en": "Why is 1928 an important year in women’s voting history?",
+        "bn": "নারীদের ভোটাধিকারের ইতিহাসে ১৯২৮ সাল কেন গুরুত্বপূর্ণ?"
+      },
+      "options": [
+        {"en": "Women were given the right to vote at the age of 18, the same as men.", "bn": "নারীদের ১৮ বছর বয়সে পুরুষদের সমান ভোটাধিকার দেওয়া হয়।"},
+        {"en": "Women were given the right to vote at the age of 25.", "bn": "নারীদের ২৫ বছর বয়সে ভোটাধিকার দেওয়া হয়।"},
+        {"en": "Women were given the right to vote at the age of 30.", "bn": "নারীদের ৩০ বছর বয়সে ভোটাধিকার দেওয়া হয়।"},
+        {"en": "Women were given the right to vote at the age of 21, the same as men.", "bn": "নারীদের ২১ বছর বয়সে পুরুষদের সমান ভোটাধিকার দেওয়া হয়।"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Women were given the right to vote at the age of 21, the same as men."],
+      "correct_answers_bn": ["নারীদের ২১ বছর বয়সে পুরুষদের সমান ভোটাধিকার দেওয়া হয়।"]
+    },
+    {
+      "id": 8,
+      "question": {
+        "en": "What does Hogmanay refer to?",
+        "bn": "হগম্যানে কী বোঝায়?"
+      },
+      "options": [
+        {"en": "Christmas Day in Wales", "bn": "ওয়েলসে ক্রিসমাস ডে"},
+        {"en": "New Year’s Eve in Scotland", "bn": "স্কটল্যান্ডে নববর্ষের প্রাক্কাল"},
+        {"en": "Christmas Day in Scotland", "bn": "স্কটল্যান্ডে ক্রিসমাস ডে"},
+        {"en": "New Year’s Eve in Wales", "bn": "ওয়েলসে নববর্ষের প্রাক্কাল"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["New Year’s Eve in Scotland"],
+      "correct_answers_bn": ["স্কটল্যান্ডে নববর্ষের প্রাক্কাল"]
+    },
+    {
+      "id": 9,
+      "question": {
+        "en": "What is the capital city of Northern Ireland?",
+        "bn": "উত্তর আয়ারল্যান্ডের রাজধানী কোন শহর?"
+      },
+      "options": [
+        {"en": "Cork", "bn": "কর্ক"},
+        {"en": "Edinburgh", "bn": "এডিনবার্গ"},
+        {"en": "Belfast", "bn": "বেলফাস্ট"},
+        {"en": "Dublin", "bn": "ডাবলিন"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["Belfast"],
+      "correct_answers_bn": ["বেলফাস্ট"]
+    },
+    {
+      "id": 10,
+      "question": {
+        "en": "Which of the following wars took place between 1899 and 1902 in South Africa?",
+        "bn": "নিচের কোন যুদ্ধ ১৮৯৯ থেকে ১৯০২ সালের মধ্যে দক্ষিণ আফ্রিকায় হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Hundred Years War", "bn": "শতবর্ষী যুদ্ধ"},
+        {"en": "The Boer War", "bn": "বোয়ার যুদ্ধ"},
+        {"en": "The First World War", "bn": "প্রথম বিশ্বযুদ্ধ"},
+        {"en": "The Crimean War", "bn": "ক্রিমিয়ান যুদ্ধ"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Boer War"],
+      "correct_answers_bn": ["বোয়ার যুদ্ধ"]
+    },
+    {
+      "id": 11,
+      "question": {
+        "en": "Northern Ireland uses a system called ‘individual registration’ and all those entitled to vote must complete their own registration form.",
+        "bn": "উত্তর আয়ারল্যান্ড ‘ব্যক্তিগত নিবন্ধন’ নামক একটি ব্যবস্থা ব্যবহার করে এবং ভোটাধিকারী সকলকে নিজস্ব নিবন্ধন ফর্ম পূরণ করতে হয়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["True"],
+      "correct_answers_bn": ["সত্য"]
+    },
+    {
+      "id": 12,
+      "question": {
+        "en": "Which two of the following policies are not controlled by the devolved administrations?",
+        "bn": "নিচের কোন দুটি নীতি বিকেন্দ্রীকৃত প্রশাসন দ্বারা নিয়ন্ত্রিত হয় না?"
+      },
+      "options": [
+        {"en": "Health", "bn": "স্বাস্থ্য"},
+        {"en": "Education", "bn": "শিক্ষা"},
+        {"en": "Defence", "bn": "প্রতিরক্ষা"},
+        {"en": "Immigration", "bn": "অভিবাসন"}
+      ],
+      "correct_answers": [2, 3],
+      "correct_answers_en": ["Defence", "Immigration"],
+      "correct_answers_bn": ["প্রতিরক্ষা", "অভিবাসন"]
+    },
+    {
+      "id": 13,
+      "question": {
+        "en": "How old do citizens of the UK, the Irish Republic or the Commonwealth have to be to stand for public office?",
+        "bn": "যুক্তরাজ্য, আয়ারল্যান্ড প্রজাতন্ত্র বা কমনওয়েলথের নাগরিকদের পাবলিক অফিসে দাঁড়াতে হলে কত বছর বয়স হতে হয়?"
+      },
+      "options": [
+        {"en": "18", "bn": "১৮"},
+        {"en": "21", "bn": "২১"},
+        {"en": "16", "bn": "১৬"},
+        {"en": "25", "bn": "২৫"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["18"],
+      "correct_answers_bn": ["১৮"]
+    },
+    {
+      "id": 14,
+      "question": {
+        "en": "How did the Government promote policies of free trade during the Victorian Age?",
+        "bn": "ভিক্টোরিয়ান যুগে সরকার কীভাবে মুক্ত বাণিজ্যের নীতি প্রচার করেছিল?"
+      },
+      "options": [
+        {"en": "Abolishing a number of taxes on imported goods", "bn": "আমদানি করা পণ্যের উপর বেশ কয়েকটি কর বাতিল করে"},
+        {"en": "Abolishing the exportation of local produce", "bn": "স্থানীয় উৎপাদনের রপ্তানি বাতিল করে"},
+        {"en": "Preventing the importation of cheap raw materials", "bn": "সস্তা কাঁচামাল আমদানি প্রতিরোধ করে"},
+        {"en": "Preventing the importation of cheap grain", "bn": "সস্তা শস্য আমদানি প্রতিরোধ করে"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Abolishing a number of taxes on imported goods"],
+      "correct_answers_bn": ["আমদানি করা পণ্যের উপর বেশ কয়েকটি কর বাতিল করে"]
+    },
+    {
+      "id": 15,
+      "question": {
+        "en": "Who was Admiral Nelson?",
+        "bn": "অ্যাডমিরাল নেলসন কে ছিলেন?"
+      },
+      "options": [
+        {"en": "One of the tribal leaders who fought against the Romans", "bn": "রোমানদের বিরুদ্ধে লড়াই করা উপজাতীয় নেতাদের একজন"},
+        {"en": "A British officer in charge of the British army at the Battle of Waterloo", "bn": "ওয়াটারলুর যুদ্ধে ব্রিটিশ সেনাবাহিনীর দায়িত্বে থাকা একজন ব্রিটিশ অফিসার"},
+        {"en": "A British general who established the authority of the English Parliament", "bn": "ইংরেজ পার্লামেন্টের কর্তৃত্ব প্রতিষ্ঠা করা একজন ব্রিটিশ জেনারেল"},
+        {"en": "A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet", "bn": "ট্রাফালগারের যুদ্ধে স্প্যানিশ নৌবহরের বিরুদ্ধে ব্রিটিশ নৌবহরের দায়িত্বে থাকা একজন ব্রিটিশ অফিসার"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["A British officer in charge of the British fleet at the Battle of Trafalgar against the Spanish fleet"],
+      "correct_answers_bn": ["ট্রাফালগারের যুদ্ধে স্প্যানিশ নৌবহরের বিরুদ্ধে ব্রিটিশ নৌবহরের দায়িত্বে থাকা একজন ব্রিটিশ অফিসার"]
+    },
+    {
+      "id": 16,
+      "question": {
+        "en": "During the Middle Ages, who were the serfs?",
+        "bn": "মধ্যযুগে সার্ফ কারা ছিল?"
+      },
+      "options": [
+        {"en": "Peasants who had a small area of their lord’s agricultural land", "bn": "কৃষক যাদের প্রভুর কৃষি জমির একটি ছোট অংশ ছিল"},
+        {"en": "Soldiers who fought at the Battle of Trafalgar", "bn": "ট্রাফালগারের যুদ্ধে লড়াই করা সৈন্যরা"},
+        {"en": "Noblemen who formed part of the king’s council of advisers", "bn": "রাজার উপদেষ্টা পরিষদের অংশ ছিল এমন অভিজাত ব্যক্তিরা"},
+        {"en": "A group of skilled people from Holland who came to England during the Middle Ages", "bn": "মধ্যযুগে হল্যান্ড থেকে আসা দক্ষ মানুষের একটি দল"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["Peasants who had a small area of their lord’s agricultural land"],
+      "correct_answers_bn": ["কৃষক যাদের প্রভুর কৃষি জমির একটি ছোট অংশ ছিল"]
+    },
+    {
+      "id": 17,
+      "question": {
+        "en": "Which invention lead to the rapid development of the industry in Britain during the 18th and 19th centuries?",
+        "bn": "১৮শ ও ১৯শ শতাব্দীতে ব্রিটেনে শিল্পের দ্রুত বিকাশে কোন আবিষ্কার সাহায্য করেছিল?"
+      },
+      "options": [
+        {"en": "The Radar", "bn": "রাডার"},
+        {"en": "The Steam Power", "bn": "বাষ্প শক্তি"},
+        {"en": "The Jet Engine", "bn": "জেট ইঞ্জিন"},
+        {"en": "The Turing Machine", "bn": "টুরিং মেশিন"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Steam Power"],
+      "correct_answers_bn": ["বাষ্প শক্তি"]
+    },
+    {
+      "id": 18,
+      "question": {
+        "en": "MPs can only be contacted by post.",
+        "bn": "এমপিদের সাথে শুধুমাত্র ডাকযোগে যোগাযোগ করা যায়।"
+      },
+      "options": [
+        {"en": "True", "bn": "সত্য"},
+        {"en": "False", "bn": "মিথ্যা"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["False"],
+      "correct_answers_bn": ["মিথ্যা"]
+    },
+    {
+      "id": 19,
+      "question": {
+        "en": "What movement challenged the authority of the Pope?",
+        "bn": "কোন আন্দোলন পোপের কর্তৃত্বকে চ্যালেঞ্জ করেছিল?"
+      },
+      "options": [
+        {"en": "The Swinging Sixties", "bn": "দ্য সুইংইং সিক্সটিজ"},
+        {"en": "The Reformation", "bn": "দ্য রিফর্মেশন"},
+        {"en": "The Suffragettes", "bn": "দ্য সাফ্রাজেটস"},
+        {"en": "The Enlightenment", "bn": "দ্য এনলাইটেনমেন্ট"}
+      ],
+      "correct_answers": [1],
+      "correct_answers_en": ["The Reformation"],
+      "correct_answers_bn": ["দ্য রিফর্মেশন"]
+    },
+    {
+      "id": 20,
+      "question": {
+        "en": "What English King introduced the Domesday Book?",
+        "bn": "কোন ইংরেজ রাজা ডোমসডে বুক প্রবর্তন করেছিলেন?"
+      },
+      "options": [
+        {"en": "King Henry V", "bn": "রাজা হেনরি পঞ্চম"},
+        {"en": "King Henry IV", "bn": "রাজা হেনরি চতুর্থ"},
+        {"en": "William the Conqueror", "bn": "উইলিয়াম দ্য কনকারর"},
+        {"en": "Harold, the Saxon king of England", "bn": "হ্যারল্ড, ইংল্যান্ডের স্যাক্সন রাজা"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["William the Conqueror"],
+      "correct_answers_bn": ["উইলিয়াম দ্য কনকারর"]
+    },
+    {
+      "id": 21,
+      "question": {
+        "en": "What did ’the Butler Act’ introduce in 1944?",
+        "bn": "১৯৪৪ সালে ‘দ্য বাটলার অ্যাক্ট’ কী প্রবর্তন করেছিল?"
+      },
+      "options": [
+        {"en": "Free primary education in England, Wales and Scotland", "bn": "ইংল্যান্ড, ওয়েলস ও স্কটল্যান্ডে বিনামূল্যে প্রাথমিক শিক্ষা"},
+        {"en": "Free university fees in England, Wales, Scotland and Northern Ireland", "bn": "ইংল্যান্ড, ওয়েলস, স্কটল্যান্ড ও উত্তর আয়ারল্যান্ডে বিনামূল্যে বিশ্ববিদ্যালয় ফি"},
+        {"en": "Free primary and secondary education in England, Wales and Scotland", "bn": "ইংল্যান্ড, ওয়েলস ও স্কটল্যান্ডে বিনামূল্যে প্রাথমিক ও মাধ্যমিক শিক্ষা"},
+        {"en": "Free secondary education in England and Wales", "bn": "ইংল্যান্ড ও ওয়েলসে বিনামূল্যে মাধ্যমিক শিক্ষা"}
+      ],
+      "correct_answers": [3],
+      "correct_answers_en": ["Free secondary education in England and Wales"],
+      "correct_answers_bn": ["ইংল্যান্ড ও ওয়েলসে বিনামূল্যে মাধ্যমিক শিক্ষা"]
+    },
+    {
+      "id": 22,
+      "question": {
+        "en": "What is the small claims procedure?",
+        "bn": "স্মল ক্লেইমস প্রসিডিউর কী?"
+      },
+      "options": [
+        {"en": "An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer", "bn": "আইনজীবী ব্যবহার করে অনেক সময় ও অর্থ ব্যয় না করে ছোটখাটো বিরোধ নিষ্পত্তিতে মানুষকে সাহায্য করার একটি অনানুষ্ঠানিক উপায়"},
+        {"en": "A procedure that helps people to make small home insurance claims in certain circumstances", "bn": "নির্দিষ্ট পরিস্থিতিতে মানুষকে ছোট গৃহ বীমা দাবি করতে সাহায্য করে এমন একটি প্রক্রিয়া"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["An informal way of helping people to settle minor disputes without spending a lot of time and money using a lawyer"],
+      "correct_answers_bn": ["আইনজীবী ব্যবহার করে অনেক সময় ও অর্থ ব্যয় না করে ছোটখাটো বিরোধ নিষ্পত্তিতে মানুষকে সাহায্য করার একটি অনানুষ্ঠানিক উপায়"]
+    },
+    {
+      "id": 23,
+      "question": {
+        "en": "What building was constructed in Hyde Park to hold the Great Exhibition of 1851?",
+        "bn": "১৮৫১ সালের গ্রেট এক্সহিবিশন আয়োজনের জন্য হাইড পার্কে কোন ভবন নির্মিত হয়েছিল?"
+      },
+      "options": [
+        {"en": "The Crystal Palace", "bn": "দ্য ক্রিস্টাল প্যালেস"},
+        {"en": "Buckingham Palace", "bn": "বাকিংহাম প্যালেস"},
+        {"en": "Kensington Palace", "bn": "কেনসিংটন প্যালেস"},
+        {"en": "Apsley House", "bn": "অ্যাপসলি হাউস"}
+      ],
+      "correct_answers": [0],
+      "correct_answers_en": ["The Crystal Palace"],
+      "correct_answers_bn": ["দ্য ক্রিস্টাল প্যালেস"]
+    },
+    {
+      "id": 24,
+      "question": {
+        "en": "Who was Florence Nightingale?",
+        "bn": "ফ্লোরেন্স নাইটিঙ্গেল কে ছিলেন?"
+      },
+      "options": [
+        {"en": "An economist", "bn": "একজন অর্থনীতিবিদ"},
+        {"en": "A painter", "bn": "একজন চিত্রশিল্পী"},
+        {"en": "A nurse", "bn": "একজন নার্স"},
+        {"en": "A poet", "bn": "একজন কবি"}
+      ],
+      "correct_answers": [2],
+      "correct_answers_en": ["A nurse"],
+      "correct_answers_bn": ["একজন নার্স"]
+    }
+  ]
+}
